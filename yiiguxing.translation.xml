@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Affected Modules" />
       <item value="This property has no effect, AAPT2 is now always used." />
+      <item value="Affected Modules" />
       <item value="ERROR: versionName cannot be set on a mergedFlavor directly.&#10;versionNameOverride can instead be set for variant outputs using the following syntax:" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.&#10;Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="api revisionclaims claimsitemtype mergeu search" />
@@ -22,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
