@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Create dirs if they are not there (e.g. the &quot;clean&quot; task just ran)" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.&#10;Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="versionName cannot be set on a mergedFlavor directly" />
       <item value="This property has no effect, AAPT2 is now always used." />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
