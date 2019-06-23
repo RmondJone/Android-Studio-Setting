@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flags that can impact the layout in relation to system UI." />
+      <item value="These are the system UI flags that can be cleared by events outside * of an application. Currently this is just the ability to tap on the * screen while hiding the navigation bar to have it return." />
       <item value="Process 'command 'cmd'' finished with non-zero exit value 1" />
       <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
       <item value="Provides additional operating flags. Currently may be * 0 or have the {@link #SHOW_IMPLICIT} bit set." />
@@ -33,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
