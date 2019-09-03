@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="context is not instanceof Activity or Service, disable WXStat" />
       <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
       <item value="/** * Lifecycle state for an Activity. The state right after pause and right before resume are the * basically the same so this enum is in terms of the forward lifecycle progression (onResume, etc). * Eventually, if necessary, it could contain something like: * * BEFORE_CREATE, * CREATED, * VIEW_CREATED, * STARTED, * RESUMED */" />
       <item value="&lt;p&gt;Adds a closure to be called immediately after this project has been evaluated. The project is passed to the * closure as a parameter. Such a listener gets notified when the build file belonging to this project has been * executed. A parent project may for example add such a listener to its child project. Such a listener can further * configure those child projects based on the state of the child projects after their build files have been * run.&lt;/p&gt; * * @param closure The closure to call." />
@@ -39,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
