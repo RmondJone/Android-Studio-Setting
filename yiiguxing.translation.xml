@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="As of {@link android.os.Build.VERSION_CODES#LOLLIPOP}, this method * is no longer available to third party * applications: the introduction of document-centric recents means * it can leak person information to the caller. For backwards compatibility, * it will still return a small subset of its data: at least the caller's * own tasks, and possibly some other tasks * such as home that are known to not be sensitive." />
       <item value="context is not instanceof Activity or Service, disable WXStat" />
       <item value="Check to see whether this activity is in the process of finishing, * either because you called {@link #finish} on it or someone else * has requested that it finished. This is often used in * {@link #onPause} to determine whether the activity is simply pausing or * completely finishing." />
       <item value="/** * Lifecycle state for an Activity. The state right after pause and right before resume are the * basically the same so this enum is in terms of the forward lifecycle progression (onResume, etc). * Eventually, if necessary, it could contain something like: * * BEFORE_CREATE, * CREATED, * VIEW_CREATED, * STARTED, * RESUMED */" />
@@ -40,8 +41,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
