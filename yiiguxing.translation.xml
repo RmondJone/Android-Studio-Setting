@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please recharge" />
       <item value="Unsupported Modules Detected: Compilation is not supported for following modules: react-native-gesture-handler. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
       <item value="Already disposed: Module: 'android-react-native-gesture-handler'" />
       <item value="Failed to resolve: com.github.RmondJone:SpringDiaLog:1.0.6" />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
