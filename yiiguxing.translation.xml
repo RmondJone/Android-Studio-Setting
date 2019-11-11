@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="True if this View is in edit mode, false otherwise." />
       <item value="* Returns the name of the bundle in assets. If this is null, and no file path is specified for * the bundle, the app will only work with {@code getUseDeveloperSupport} enabled and will * always try to load the JS bundle from the packager server. * e.g. &quot;index.android.bundle&quot;" />
       <item value="Returns a custom path of the bundle file. This is used in cases the bundle should be loaded * from a custom path. By default it is loaded from Android assets, from a path specified * by {@link getBundleAssetName}." />
       <item value="nuance Voice" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
