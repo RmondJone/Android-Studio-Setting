@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the transform cache was reset" />
       <item value="Compilation is not supported for following modules: react-native-screens. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
       <item value="Unsupported Modules Detected" />
       <item value="already disposed" />
@@ -50,12 +51,11 @@
       <item value="有关详细信息, 请使用" />
       <item value="person" />
       <item value="会员中心" />
-      <item value="STARTTIME" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
