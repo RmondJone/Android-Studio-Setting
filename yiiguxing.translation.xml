@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This should be set on project.ext.react and mirrored here. If it is not set * on project.ext.react, JavaScript will not be compiled to Hermes Bytecode * and the benefits of using Hermes will therefore be sharply reduced." />
       <item value="the transform cache was reset." />
       <item value="The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release" />
       <item value="react-native-reanimated could not be found within the project" />
@@ -50,12 +51,11 @@
       <item value="Changeofitinerary" />
       <item value="Campensate" />
       <item value="Campensate Fast Activity" />
-      <item value="campensate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
