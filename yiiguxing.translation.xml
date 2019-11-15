@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set task dependencies for caching" />
+      <item value="Create dirs if they are not there" />
       <item value="Set up inputs and outputs so gradle can cache the result" />
       <item value="// by default the gradle tasks are skipped if none of the JS files or assets change; this means * // that we don't look at files in android/ or ios/ to determine whether the tasks are up to * // date; if you have any other folders that you want to ignore for performance reasons (gradle * // indexes the entire tree), add them here. Alternatively, if you have JS files in android/ * // for example, you might want to remove it from here." />
       <item value="Expose a minimal interface on the application variant and the task itself:" />
@@ -49,13 +51,11 @@
       <item value="Provides additional operating flags. Currently may be * 0 or have the {@link #SHOW_IMPLICIT} bit set." />
       <item value="The resource identifier of the style to apply." />
       <item value="* Sets the working directory for the process. The supplied argument is evaluated as per {@link * org.gradle.api.Project#file(Object)}. *" />
-      <item value="The tasks. These are evaluated as per {@link org.gradle.api.Task#dependsOn(Object...)}." />
-      <item value="registerGeneratedResFolders for Android plugin 3.x" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
