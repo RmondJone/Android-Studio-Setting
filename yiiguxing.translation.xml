@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set up dev mode" />
       <item value="Sets the tasks which build the files of this collection." />
       <item value="Registers some tasks which build the files of this collection." />
       <item value="Expose a minimal interface on the application variant and the task itself:" />
@@ -50,12 +51,11 @@
       <item value="registerGeneratedResFolders for Android plugin 3.x" />
       <item value="Create dirs if they are not there (e.g. the &quot;clean&quot; task just ran)" />
       <item value="Workaround for Android Gradle Plugin 3.2+ new asset directory" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.&#10;Use '--warning-mode all' to show the individual deprecation warnings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
