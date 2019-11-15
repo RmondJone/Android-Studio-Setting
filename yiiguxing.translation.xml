@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the tasks which build the files of this collection." />
+      <item value="Registers some tasks which build the files of this collection." />
+      <item value="Expose a minimal interface on the application variant and the task itself:" />
       <item value="Set request rationale" />
       <item value="Some privileges permanently disabled, may need to set up in the execute." />
       <item value="Handle overlay permission." />
@@ -44,18 +47,15 @@
       <item value="The resource identifier of the style to apply." />
       <item value="* Sets the working directory for the process. The supplied argument is evaluated as per {@link * org.gradle.api.Project#file(Object)}. *" />
       <item value="The tasks. These are evaluated as per {@link org.gradle.api.Task#dependsOn(Object...)}." />
-      <item value="Registers some tasks which build the files of this collection." />
       <item value="registerGeneratedResFolders for Android plugin 3.x" />
       <item value="Create dirs if they are not there (e.g. the &quot;clean&quot; task just ran)" />
       <item value="Workaround for Android Gradle Plugin 3.2+ new asset directory" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.&#10;Use '--warning-mode all' to show the individual deprecation warnings." />
-      <item value="versionName cannot be set on a mergedFlavor directly" />
-      <item value="This property has no effect, AAPT2 is now always used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
