@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exopackage" />
+      <item value="Enable the exopackage SoSource." />
+      <item value="Loads Flipper in React Native templates." />
       <item value="set task dependencies for caching" />
       <item value="Create dirs if they are not there" />
       <item value="Set up inputs and outputs so gradle can cache the result" />
@@ -48,14 +51,11 @@
       <item value="These are the system UI flags that can be cleared by events outside * of an application. Currently this is just the ability to tap on the * screen while hiding the navigation bar to have it return." />
       <item value="Process 'command 'cmd'' finished with non-zero exit value 1" />
       <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
-      <item value="Provides additional operating flags. Currently may be * 0 or have the {@link #SHOW_IMPLICIT} bit set." />
-      <item value="The resource identifier of the style to apply." />
-      <item value="* Sets the working directory for the process. The supplied argument is evaluated as per {@link * org.gradle.api.Project#file(Object)}. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
