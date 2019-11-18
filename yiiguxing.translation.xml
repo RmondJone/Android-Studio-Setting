@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether we should request minified JS bundles." />
       <item value="// We store JS bundle loaded from dev server in a single destination in app's data dir. // In case when someone schedule 2 subsequent reloads it may happen that JS thread will // start reading first reload output while the second reload starts writing to the same // file. As this should only be the case in dev mode we leave it as it is. // TODO(6418010): Fix readers-writers problem in debug reload from HTTP server" />
       <item value="We store JS bundle loaded from dev server in a single destination in app's data dir. // In case when someone schedule 2 subsequent reloads it may happen that JS thread will // start reading first reload output while the second reload starts writing to the same // file. As this should only be the case in dev mode we leave it as it is. // TODO(6418010): Fix readers-writers problem in debug reload from HTTP server" />
       <item value="should use downloaded * JS bundle file instead of using JS file from assets. This may happen when app has not been * updated since the last time we fetched the bundle." />
@@ -50,12 +51,11 @@
       <item value="If true, also generate a universal APK" />
       <item value="代扣" />
       <item value="Please recharge" />
-      <item value="Unsupported Modules Detected: Compilation is not supported for following modules: react-native-gesture-handler. Unfortunately you can't have non-Gradle Java modules and Android-Gradle modules in one project." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
