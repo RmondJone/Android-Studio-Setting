@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SyntaxError: C:\apollo-mobile-rn\app\entry\router.js: Unexpected token (57:18)" />
       <item value="m JS Bundle Temp File" />
       <item value="bundle URL" />
       <item value="whether we should request minified JS bundles." />
@@ -50,12 +51,11 @@
       <item value="* Returns the name of the bundle in assets. If this is null, and no file path is specified for * the bundle, the app will only work with {@code getUseDeveloperSupport} enabled and will * always try to load the JS bundle from the packager server. * e.g. &quot;index.android.bundle&quot;" />
       <item value="Returns a custom path of the bundle file. This is used in cases the bundle should be loaded * from a custom path. By default it is loaded from Android assets, from a path specified * by {@link getBundleAssetName}." />
       <item value="nuance Voice" />
-      <item value="If true, also generate a universal APK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
