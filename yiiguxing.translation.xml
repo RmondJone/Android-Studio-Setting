@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
       <item value="Unable to resolve module" />
       <item value="Returns a list of RunningTaskInfo records describing each of * the running tasks." />
       <item value="* * @param intent The desired intent as per resolveActivity(). * @param flags Additional option flags to modify the data returned. The * most important is {@link #MATCH_DEFAULT_ONLY}, to limit the * resolution to only those activities that support the * {@link android.content.Intent#CATEGORY_DEFAULT}. Or, set * {@link #MATCH_ALL} to prevent any filtering of the results. * @return Returns a List of ResolveInfo objects containing one entry for * each matching activity, ordered from best to worst. In other * words, the first item is what would be returned by * {@link #resolveActivity}. If there are no matching activities, an * empty list is returned." />
@@ -50,12 +51,11 @@
       <item value="Already disposed" />
       <item value="Error: Option 'mapper' isn't supported by the Node crawler" />
       <item value="Option 'mapper' isn't supported by the Node crawler" />
-      <item value="The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
