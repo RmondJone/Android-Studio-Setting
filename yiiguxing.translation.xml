@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="isabling all transitive dependencies of this dependency" />
+      <item value="disabling all transitive dependencies of this dependency" />
+      <item value="in case of versions conflict '3.1' version of hibernate wins" />
       <item value="/by artifact name" />
       <item value="Failed to authenticate with proxy" />
       <item value="deserted" />
@@ -48,14 +51,11 @@
       <item value="We use reflection here to pick up the class that initializes Flipper, since Flipper library is not available in release mode" />
       <item value="This should be set on project.ext.react and mirrored here. If it is not set * on project.ext.react, JavaScript will not be compiled to Hermes Bytecode * and the benefits of using Hermes will therefore be sharply reduced." />
       <item value="the transform cache was reset." />
-      <item value="The following packages use deprecated &quot;rnpm&quot; config that will stop working from next release" />
-      <item value="react-native-reanimated could not be found within the project" />
-      <item value="the transform cache was reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
