@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true" />
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="null pointer dereference" />
       <item value="isabling all transitive dependencies of this dependency" />
@@ -50,12 +51,11 @@
       <item value="Handle overlay permission." />
       <item value="permissions are denied." />
       <item value="permissions are granted." />
-      <item value="We use reflection here to pick up the class that initializes Flipper, since Flipper library is not available in release mode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
