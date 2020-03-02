@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Create a drawable for the given image. * It is guaranteed that this method is only called if * {@link #supportsImageType(CloseableImage)} returned tru" />
+      <item value="Returns true if the factory can create a Drawable for the given image." />
+      <item value="Set whether a debug overlay that displays image information, like dimensions and size * should be drawn on top of a Drawee view." />
       <item value="Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager" />
       <item value="Fresco has already been initialized! `Fresco.initialize(...)` should only be called 1 single time to avoid memory leaks!" />
       <item value="if the Bitmap cannot be allocated" />
@@ -48,14 +51,11 @@
       <item value="exopackage" />
       <item value="Enable the exopackage SoSource." />
       <item value="Loads Flipper in React Native templates." />
-      <item value="set task dependencies for caching" />
-      <item value="Create dirs if they are not there" />
-      <item value="Set up inputs and outputs so gradle can cache the result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
