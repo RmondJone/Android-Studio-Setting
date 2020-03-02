@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Check if uri represents local file" />
+      <item value="Check if uri represents local content" />
       <item value="Immutable Quality Info.FULL QUALITY" />
       <item value="Returns quality information for the image" />
       <item value="* Create a drawable for the given image. * It is guaranteed that this method is only called if * {@link #supportsImageType(CloseableImage)} returned tru" />
@@ -49,13 +51,11 @@
       <item value="Whether JS bundle should be minified." />
       <item value="Whether dev mode should be enabled in JS bundles" />
       <item value="Whether debug information about transitions should be displayed" />
-      <item value="whether an overlay showing current FPS should be shown" />
-      <item value="exopackage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
