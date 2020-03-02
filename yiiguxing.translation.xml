@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Immutable Quality Info.FULL QUALITY" />
+      <item value="Returns quality information for the image" />
       <item value="* Create a drawable for the given image. * It is guaranteed that this method is only called if * {@link #supportsImageType(CloseableImage)} returned tru" />
       <item value="Returns true if the factory can create a Drawable for the given image." />
       <item value="Set whether a debug overlay that displays image information, like dimensions and size * should be drawn on top of a Drawee view." />
@@ -49,13 +51,11 @@
       <item value="Whether debug information about transitions should be displayed" />
       <item value="whether an overlay showing current FPS should be shown" />
       <item value="exopackage" />
-      <item value="Enable the exopackage SoSource." />
-      <item value="Loads Flipper in React Native templates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
