@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager" />
+      <item value="Fresco has already been initialized! `Fresco.initialize(...)` should only be called 1 single time to avoid memory leaks!" />
       <item value="if the Bitmap cannot be allocated" />
       <item value="max Memory" />
       <item value="Gets the image pipeline instance" />
@@ -49,13 +51,11 @@
       <item value="set task dependencies for caching" />
       <item value="Create dirs if they are not there" />
       <item value="Set up inputs and outputs so gradle can cache the result" />
-      <item value="// by default the gradle tasks are skipped if none of the JS files or assets change; this means * // that we don't look at files in android/ or ios/ to determine whether the tasks are up to * // date; if you have any other folders that you want to ignore for performance reasons (gradle * // indexes the entire tree), add them here. Alternatively, if you have JS files in android/ * // for example, you might want to remove it from here." />
-      <item value="Expose a minimal interface on the application variant and the task itself:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
