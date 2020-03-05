@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=": Process 'command 'cmd'' finished with non-zero exit value 1" />
+      <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0" />
       <item value="spawn C:\apollo-mobile-rn\node_modules\@sentry\cli\sentry-cli.exe ENOENT" />
       <item value="failed to invoke sentry-cli" />
       <item value="Check if uri represents local file" />
@@ -48,14 +51,11 @@
       <item value="It was renamed in D15958697 so it doesn't get stuck with no way to turn it off:" />
       <item value="This option is no longer exposed in the dev menu UI." />
       <item value="It was renamed in D15958697 so it doesn't get stuck with no way to turn it off" />
-      <item value="Whether Start Sampling Profiler on App Start is enabled." />
-      <item value="Whether Nuclide JS debugging is enabled." />
-      <item value="Whether JS bundle should be minified." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
