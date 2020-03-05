@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spawn C:\apollo-mobile-rn\node_modules\@sentry\cli\sentry-cli.exe ENOENT" />
+      <item value="failed to invoke sentry-cli" />
       <item value="Check if uri represents local file" />
       <item value="Check if uri represents local content" />
       <item value="Immutable Quality Info.FULL QUALITY" />
@@ -49,13 +51,11 @@
       <item value="Whether Start Sampling Profiler on App Start is enabled." />
       <item value="Whether Nuclide JS debugging is enabled." />
       <item value="Whether JS bundle should be minified." />
-      <item value="Whether dev mode should be enabled in JS bundles" />
-      <item value="Whether debug information about transitions should be displayed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
