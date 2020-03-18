@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="平台" />
       <item value="Could not find any matches for com.mob:MobTools:+ as no versions of com.mob:MobTools are available" />
       <item value="receive Command" />
       <item value="Flushes events queued up, but keeps the client enabled. Not implemented yet." />
@@ -50,12 +51,11 @@
       <item value="bundle URL" />
       <item value="whether we should request minified JS bundles." />
       <item value="// We store JS bundle loaded from dev server in a single destination in app's data dir. // In case when someone schedule 2 subsequent reloads it may happen that JS thread will // start reading first reload output while the second reload starts writing to the same // file. As this should only be the case in dev mode we leave it as it is. // TODO(6418010): Fix readers-writers problem in debug reload from HTTP server" />
-      <item value="We store JS bundle loaded from dev server in a single destination in app's data dir. // In case when someone schedule 2 subsequent reloads it may happen that JS thread will // start reading first reload output while the second reload starts writing to the same // file. As this should only be the case in dev mode we leave it as it is. // TODO(6418010): Fix readers-writers problem in debug reload from HTTP server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
