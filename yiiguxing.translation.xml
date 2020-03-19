@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="checkArgs fail, thumbData is invalid" />
       <item value="程序" />
       <item value="Program type already present" />
       <item value="We Chat Channel" />
@@ -50,12 +51,11 @@
       <item value="* * @param intent The desired intent as per resolveActivity(). * @param flags Additional option flags to modify the data returned. The * most important is {@link #MATCH_DEFAULT_ONLY}, to limit the * resolution to only those activities that support the * {@link android.content.Intent#CATEGORY_DEFAULT}. Or, set * {@link #MATCH_ALL} to prevent any filtering of the results. * @return Returns a List of ResolveInfo objects containing one entry for * each matching activity, ordered from best to worst. In other * words, the first item is what would be returned by * {@link #resolveActivity}. If there are no matching activities, an * empty list is returned." />
       <item value="Retrieve all activities that can be performed for the given intent" />
       <item value="This experimental syntax requires enabling the parser plugin" />
-      <item value="SyntaxError: C:\apollo-mobile-rn\app\entry\router.js: Unexpected token (57:18)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
