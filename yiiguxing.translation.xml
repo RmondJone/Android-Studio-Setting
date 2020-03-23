@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Opens the camera driver and initializes the hardware parameters." />
       <item value="checkArgs fail, thumbData should not be null or exceed 128kb" />
       <item value="supports Rtl" />
       <item value="目标大小" />
@@ -50,12 +51,11 @@
       <item value="Top-level build file where you can add configuration options common to all sub-projects/modules" />
       <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
       <item value="Unable to resolve module" />
-      <item value="Returns a list of RunningTaskInfo records describing each of * the running tasks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
