@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="微信" />
       <item value="登录方式" />
       <item value="Opens the camera driver and initializes the hardware parameters." />
       <item value="checkArgs fail, thumbData should not be null or exceed 128kb" />
@@ -50,7 +51,6 @@
       <item value="废弃的" />
       <item value="废弃" />
       <item value="Top-level build file where you can add configuration options common to all sub-projects/modules" />
-      <item value="All of React Native (JS, Obj-C sources, Android binaries) is installed from npm" />
     </histories>
     <option name="languageScores">
       <map>
