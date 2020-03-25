@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同意协议" />
+      <item value="同意" />
       <item value="上次登录" />
       <item value="一键登录" />
       <item value="微信" />
@@ -49,8 +51,6 @@
       <item value="in case of versions conflict '3.1' version of hibernate wins" />
       <item value="/by artifact name" />
       <item value="Failed to authenticate with proxy" />
-      <item value="deserted" />
-      <item value="废弃的" />
     </histories>
     <option name="languageScores">
       <map>
