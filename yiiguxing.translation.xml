@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上次登录" />
       <item value="一键登录" />
       <item value="微信" />
       <item value="登录方式" />
@@ -50,7 +51,6 @@
       <item value="Failed to authenticate with proxy" />
       <item value="deserted" />
       <item value="废弃的" />
-      <item value="废弃" />
     </histories>
     <option name="languageScores">
       <map>
