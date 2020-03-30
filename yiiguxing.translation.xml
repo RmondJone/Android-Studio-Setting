@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to obtain auth token - is the device online" />
       <item value="来源" />
       <item value="同意协议" />
       <item value="同意" />
@@ -50,12 +51,11 @@
       <item value="isabling all transitive dependencies of this dependency" />
       <item value="disabling all transitive dependencies of this dependency" />
       <item value="in case of versions conflict '3.1' version of hibernate wins" />
-      <item value="/by artifact name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
