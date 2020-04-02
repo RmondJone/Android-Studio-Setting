@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uninitialized ActivityThread, likely app-created Instrumentation, disabling AppComponentFactory" />
+      <item value="Instrumentation" />
+      <item value="com.eg.android.AlipayGphone was not granted this permission: android.permission.WRITE_SETTINGS" />
+      <item value="om.eg.android.AlipayGphone was not granted this permission: android.permission.WRITE_SETTINGS." />
       <item value="Brackets" />
       <item value="Bracket" />
       <item value="Retrieve the top-level window decor view (containing the standard * window frame/decorations and the client's content inside of that), which * can be added as a window to the window manager." />
@@ -47,15 +51,11 @@
       <item value="Couldn't read row 0, col -1 from CursorWindow. Make sure the Cursor is initialized correctly before accessing data from it." />
       <item value="ools:replace specified at line:31 for attribute android:allowBackup, but no new value specified" />
       <item value="Validation failed, exiting" />
-      <item value="Unexpected trailing comma after rest element" />
-      <item value="Could not resolve project :react-native-webview." />
-      <item value="true" />
-      <item value="null pointer dereference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="154" />
-        <entry key="ENGLISH" value="155" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
