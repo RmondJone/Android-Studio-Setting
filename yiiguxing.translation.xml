@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="do compress image when return value was true, otherwise, do not compress the image file" />
       <item value="do not compress when the origin image file size less than one value" />
+      <item value="the value of file size, unit KB, default 100K" />
+      <item value="do compress image when return value was true, otherwise, do not compress the image file" />
       <item value="Uninitialized ActivityThread, likely app-created Instrumentation, disabling AppComponentFactory" />
       <item value="Uid has been sent, ignore" />
       <item value="Instrumentation" />
@@ -50,12 +51,11 @@
       <item value="if the Bitmap cannot be allocated" />
       <item value="max Memory" />
       <item value="Gets the image pipeline instance" />
-      <item value="Channel is unrecoverably broken and will be disposed!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="165" />
+        <entry key="ENGLISH" value="166" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
