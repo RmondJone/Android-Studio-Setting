@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Run Proguard to shrink the Java bytecode in release builds." />
+      <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="* Sets the environment. This string is freeform and not set by default. A release can be * associated with more than one environment to separate them in the UI Think staging vs prod or * similar." />
       <item value="* SEVERE is a message level indicating a serious failure. * &lt;p&gt; * In general SEVERE messages should describe events that are * of considerable importance and which will prevent normal * program execution. They should be reasonably intelligible * to end users and to system administrators. * This level is initialized to &lt;CODE&gt;1000&lt;/CODE&gt;." />
       <item value="do not compress when the origin image file size less than one value" />
@@ -49,13 +51,11 @@
       <item value="Returns true if the factory can create a Drawable for the given image." />
       <item value="Set whether a debug overlay that displays image information, like dimensions and size * should be drawn on top of a Drawee view." />
       <item value="Could not find generated setter for class com.facebook.react.views.text.frescosupport.FrescoBasedReactTextInlineImageViewManager" />
-      <item value="Fresco has already been initialized! `Fresco.initialize(...)` should only be called 1 single time to avoid memory leaks!" />
-      <item value="if the Bitmap cannot be allocated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
       </map>
