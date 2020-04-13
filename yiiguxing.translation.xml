@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UT Analytics" />
       <item value="When counter is down, it will be execute continue ,but index bigger than interceptors size, then U know." />
       <item value="Callback on interrupt." />
       <item value="Run Proguard to shrink the Java bytecode in release builds." />
@@ -50,14 +51,14 @@
       <item value="Immutable Quality Info.FULL QUALITY" />
       <item value="Returns quality information for the image" />
       <item value="* Create a drawable for the given image. * It is guaranteed that this method is only called if * {@link #supportsImageType(CloseableImage)} returned tru" />
-      <item value="Returns true if the factory can create a Drawable for the given image." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
+        <entry key="CHINESE" value="172" />
         <entry key="ENGLISH" value="172" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
   </component>
