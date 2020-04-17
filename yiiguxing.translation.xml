@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断" />
       <item value="交集" />
       <item value="Intersection" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first" />
@@ -50,7 +51,6 @@
       <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0" />
       <item value="spawn C:\apollo-mobile-rn\node_modules\@sentry\cli\sentry-cli.exe ENOENT" />
-      <item value="failed to invoke sentry-cli" />
     </histories>
     <option name="languageScores">
       <map>
