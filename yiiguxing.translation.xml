@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
       <item value="Problems reading data from Binary store in C:\Users\guohanlin\AppData\Local\Temp\gradle6629715279744076869.bin" />
       <item value="判断" />
       <item value="交集" />
@@ -50,12 +51,11 @@
       <item value="Capture the event" />
       <item value=": Process 'command 'cmd'' finished with non-zero exit value 1" />
       <item value="Use '--warning-mode all' to show the individual deprecation warnings." />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 6.0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
