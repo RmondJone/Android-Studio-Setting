@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="去重" />
       <item value="crossing" />
       <item value="Intersection" />
       <item value="交集" />
@@ -50,12 +51,11 @@
       <item value="Could not find any matches for com.mob:MobTools:+ as no versions of com.mob:MobTools are available" />
       <item value="receive Command" />
       <item value="Flushes events queued up, but keeps the client enabled. Not implemented yet." />
-      <item value="Capture the event" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
