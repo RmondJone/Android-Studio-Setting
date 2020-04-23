@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="View Snapshot" />
       <item value="Please commit or stash them" />
       <item value="You have unstaged changes." />
       <item value="去重" />
@@ -50,12 +51,11 @@
       <item value="We Chat Channel" />
       <item value="scene" />
       <item value="平台" />
-      <item value="Could not find any matches for com.mob:MobTools:+ as no versions of com.mob:MobTools are available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
