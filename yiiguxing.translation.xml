@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="对比" />
       <item value="合并" />
       <item value="// The root view always assumes any view that was tapped wants the touch // and sends the event to JS as such. // We don't need to do bubbling in native (it's already happening in JS). // For an explanation of bubbling and capturing, see // http://javascript.info/tutorial/bubbling-and-capturing#capturing" />
       <item value="Neither the container nor its children receive events" />
@@ -50,7 +51,6 @@
       <item value="supports Rtl" />
       <item value="目标大小" />
       <item value="checkArgs fail, thumbData is invalid" />
-      <item value="程序" />
     </histories>
     <option name="languageScores">
       <map>
