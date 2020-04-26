@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * The {@link ZoomButtonsController} handles showing and hiding the zoom * controls and positioning it relative to an owner view. It also gives the * client access to the zoom controls container, allowing for additional * accessory buttons to be shown in the zoom controls window. * &lt;p&gt; * Typically, clients should call {@link #setVisible(boolean) setVisible(true)} * on a touch down or move (no need to call {@link #setVisible(boolean) * setVisible(false)} since it will time out on its own). Also, whenever the * owner cannot be zoomed further, the client should update * {@link #setZoomInEnabled(boolean)} and {@link #setZoomOutEnabled(boolean)}. * &lt;p&gt; * If you are using this with a custom View, please call * {@link #setVisible(boolean) setVisible(false)} from * {@link View#onDetachedFromWindow} and from {@link View#onVisibilityChanged} * when &lt;code&gt;visibility != View.VISIBLE&lt;/code&gt;. * * @deprecated This functionality and UI is better handled with custom views and layouts * rather than a dedicated zoom-control widget */" />
+      <item value="* Sets whether the WebView should display on-screen zoom controls when * using the built-in zoom mechanisms. See {@link #setBuiltInZoomControls}. * The default is {@code true}." />
+      <item value="Sets whether the WebView should display on-screen zoom controls when" />
+      <item value="Gets whether the zoom mechanisms built into WebView are being used." />
+      <item value="Sets whether the WebView should use its built-in zoom mechanisms. The * built-in zoom mechanisms comprise on-screen zoom controls, which are * displayed over the WebView's content, and the use of a pinch gesture to * control zooming. Whether or not these on-screen controls are displayed * can be set with {@link #setDisplayZoomControls}. The default is {@code false}. * &lt;p&gt; * The built-in mechanisms are the only currently supported zoom * mechanisms, so it is recommended that this setting is always enabled." />
       <item value="对比" />
       <item value="合并" />
       <item value="// The root view always assumes any view that was tapped wants the touch // and sends the event to JS as such. // We don't need to do bubbling in native (it's already happening in JS). // For an explanation of bubbling and capturing, see // http://javascript.info/tutorial/bubbling-and-capturing#capturing" />
@@ -46,16 +51,11 @@
       <item value="一键登录" />
       <item value="微信" />
       <item value="登录方式" />
-      <item value="Opens the camera driver and initializes the hardware parameters." />
-      <item value="checkArgs fail, thumbData should not be null or exceed 128kb" />
-      <item value="supports Rtl" />
-      <item value="目标大小" />
-      <item value="checkArgs fail, thumbData is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
