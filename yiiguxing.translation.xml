@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you are using NDK, verify the ndk.dir is set to a valid NDK directory. It is currently set to D:\androidSDK\ndk-bundle" />
+      <item value="If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning." />
       <item value="tools:replace specified at line:16 for attribute android:theme, but no new value specified" />
       <item value="Sets whether the WebView should display on-screen zoom controls when * using the built-in zoom mechanisms. See {@link #setBuiltInZoomControls}. * The default is {@code true}." />
       <item value="Only fullscreen activities can request orientation" />
@@ -49,13 +51,11 @@
       <item value="Unable to obtain auth token - is the device online" />
       <item value="来源" />
       <item value="同意协议" />
-      <item value="同意" />
-      <item value="上次登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="195" />
-        <entry key="ENGLISH" value="196" />
+        <entry key="CHINESE" value="197" />
+        <entry key="ENGLISH" value="198" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
