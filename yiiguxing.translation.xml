@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Alone" />
       <item value="Could not HEAD 'https://jcenter.bintray.com/io/reactivex/rxjava2/rxandroid/2.0.1/rxandroid-2.0.1.aar'." />
       <item value="Could not determine artifacts for io.reactivex.rxjava2:rxandroid:2.0.1" />
       <item value="If you are using NDK, verify the ndk.dir is set to a valid NDK directory. It is currently set to D:\androidSDK\ndk-bundle" />
@@ -50,12 +51,11 @@
       <item value="Brackets" />
       <item value="Bracket" />
       <item value="Retrieve the top-level window decor view (containing the standard * window frame/decorations and the client's content inside of that), which * can be added as a window to the window manager." />
-      <item value="Unable to obtain auth token - is the device online" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
