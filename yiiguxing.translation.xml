@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Base Recycler View Adapter Helper" />
       <item value="alls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="No subscribers registered for event" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
@@ -50,12 +51,11 @@
       <item value="do compress image when return value was true, otherwise, do not compress the image file" />
       <item value="Uninitialized ActivityThread, likely app-created Instrumentation, disabling AppComponentFactory" />
       <item value="Uid has been sent, ignore" />
-      <item value="Instrumentation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
