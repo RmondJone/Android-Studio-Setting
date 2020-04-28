@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] * and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. * * If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. * * Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on * the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
       <item value="Specifies that an additional static method needs to be generated from this element if it's a function. * If this element is a property, additional static getter/setter methods should be generated. * * See the [Kotlin language documentation](https://kotlinlang.org/docs/reference/java-to-kotlin-interop.html#static-methods) * for more information." />
       <item value="Alone" />
       <item value="Could not HEAD 'https://jcenter.bintray.com/io/reactivex/rxjava2/rxandroid/2.0.1/rxandroid-2.0.1.aar'." />
@@ -50,12 +51,11 @@
       <item value="com.eg.android.AlipayGphone was not granted this permission: android.permission.WRITE_SETTINGS" />
       <item value="om.eg.android.AlipayGphone was not granted this permission: android.permission.WRITE_SETTINGS." />
       <item value="Brackets" />
-      <item value="Bracket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
