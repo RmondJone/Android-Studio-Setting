@@ -10,6 +10,7 @@
   <template name="jt" value="()-&gt;" description="()=&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
   <template name="swi" value="switch ($a$) {&#10;    case $b$:&#10;        break;&#10;    case $c$:&#10;        break;&#10;    default:&#10;        break;&#10;}" description="switch函数" toReformat="false" toShortenFQNames="true">
