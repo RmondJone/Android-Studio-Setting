@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ViewPager does not have adapter instance" />
       <item value="展会地址" />
       <item value="公司简介" />
       <item value="公司名称" />
@@ -50,7 +51,6 @@
       <item value="Run Proguard to shrink the Java bytecode in release builds." />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="* Sets the environment. This string is freeform and not set by default. A release can be * associated with more than one environment to separate them in the UI Think staging vs prod or * similar." />
-      <item value="* SEVERE is a message level indicating a serious failure. * &lt;p&gt; * In general SEVERE messages should describe events that are * of considerable importance and which will prevent normal * program execution. They should be reasonably intelligible * to end users and to system administrators. * This level is initialized to &lt;CODE&gt;1000&lt;/CODE&gt;." />
     </histories>
     <option name="languageScores">
       <map>
