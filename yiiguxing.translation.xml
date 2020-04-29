@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="展会地址" />
+      <item value="公司简介" />
+      <item value="公司名称" />
       <item value="expo" />
       <item value="展厅" />
       <item value="Base Recycler View Adapter Helper" />
@@ -48,14 +51,11 @@
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
       <item value="* Sets the environment. This string is freeform and not set by default. A release can be * associated with more than one environment to separate them in the UI Think staging vs prod or * similar." />
       <item value="* SEVERE is a message level indicating a serious failure. * &lt;p&gt; * In general SEVERE messages should describe events that are * of considerable importance and which will prevent normal * program execution. They should be reasonably intelligible * to end users and to system administrators. * This level is initialized to &lt;CODE&gt;1000&lt;/CODE&gt;." />
-      <item value="do not compress when the origin image file size less than one value" />
-      <item value="the value of file size, unit KB, default 100K" />
-      <item value="do compress image when return value was true, otherwise, do not compress the image file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
