@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="透明" />
       <item value="Base Recycler View Adapter Helper" />
       <item value="ViewPager does not have adapter instance" />
       <item value="展会地址" />
@@ -50,12 +51,11 @@
       <item value="Callback on interrupt." />
       <item value="Run Proguard to shrink the Java bytecode in release builds." />
       <item value="Removing unused resources requires unused code shrinking to be turned on" />
-      <item value="* Sets the environment. This string is freeform and not set by default. A release can be * associated with more than one environment to separate them in the UI Think staging vs prod or * similar." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
