@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maximum number of items supported by BottomNavigationView is 5" />
       <item value="透明" />
       <item value="Base Recycler View Adapter Helper" />
       <item value="ViewPager does not have adapter instance" />
@@ -50,12 +51,11 @@
       <item value="When counter is down, it will be execute continue ,but index bigger than interceptors size, then U know." />
       <item value="Callback on interrupt." />
       <item value="Run Proguard to shrink the Java bytecode in release builds." />
-      <item value="Removing unused resources requires unused code shrinking to be turned on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="210" />
-        <entry key="ENGLISH" value="211" />
+        <entry key="CHINESE" value="211" />
+        <entry key="ENGLISH" value="212" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
