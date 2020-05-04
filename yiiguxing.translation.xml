@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="入口" />
       <item value="conduct" />
       <item value="进行" />
       <item value="may lead to runtime failures" />
@@ -50,12 +51,11 @@
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
       <item value="Problems reading data from Binary store in C:\Users\guohanlin\AppData\Local\Temp\gradle6629715279744076869.bin" />
       <item value="判断" />
-      <item value="The specified child already has a parent. You must call removeView() on the child's parent first" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
