@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="初始" />
       <item value="duplicated with element declared" />
       <item value="入口" />
       <item value="conduct" />
@@ -50,12 +51,11 @@
       <item value="交集" />
       <item value="Judgment" />
       <item value="Retains only the elements in this list that are contained in the * specified collection (optional operation). In other words, removes * from this list all of its elements that are not contained in the * specified collection." />
-      <item value="Problems reading data from Binary store in C:\Users\guohanlin\AppData\Local\Temp\gradle6629715279744076869.bin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
