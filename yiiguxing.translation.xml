@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
+      <item value="Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
       <item value="Parameter specified as non-null is null" />
       <item value="初始" />
       <item value="duplicated with element declared" />
@@ -49,13 +51,11 @@
       <item value="去重" />
       <item value="crossing" />
       <item value="Intersection" />
-      <item value="交集" />
-      <item value="Judgment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
