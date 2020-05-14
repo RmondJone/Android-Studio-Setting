@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="注册" />
       <item value="INSTALL FAILED USER RESTRICTED" />
       <item value="上次" />
       <item value="auto Play" />
@@ -50,12 +51,11 @@
       <item value="Sets whether the WebView should use its built-in zoom mechanisms. The * built-in zoom mechanisms comprise on-screen zoom controls, which are * displayed over the WebView's content, and the use of a pinch gesture to * control zooming. Whether or not these on-screen controls are displayed * can be set with {@link #setDisplayZoomControls}. The default is {@code false}. * &lt;p&gt; * The built-in mechanisms are the only currently supported zoom * mechanisms, so it is recommended that this setting is always enabled." />
       <item value="对比" />
       <item value="合并" />
-      <item value="// The root view always assumes any view that was tapped wants the touch // and sends the event to JS as such. // We don't need to do bubbling in native (it's already happening in JS). // For an explanation of bubbling and capturing, see // http://javascript.info/tutorial/bubbling-and-capturing#capturing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
