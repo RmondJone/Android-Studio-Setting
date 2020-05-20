@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LAYER TYPE" />
       <item value="Identifier 'Text' has already been declared" />
       <item value="申请" />
       <item value="Returns whether notifications from the calling package are not blocked." />
@@ -50,12 +51,11 @@
       <item value="Only fullscreen activities can request orientation" />
       <item value="/** * The {@link ZoomButtonsController} handles showing and hiding the zoom * controls and positioning it relative to an owner view. It also gives the * client access to the zoom controls container, allowing for additional * accessory buttons to be shown in the zoom controls window. * &lt;p&gt; * Typically, clients should call {@link #setVisible(boolean) setVisible(true)} * on a touch down or move (no need to call {@link #setVisible(boolean) * setVisible(false)} since it will time out on its own). Also, whenever the * owner cannot be zoomed further, the client should update * {@link #setZoomInEnabled(boolean)} and {@link #setZoomOutEnabled(boolean)}. * &lt;p&gt; * If you are using this with a custom View, please call * {@link #setVisible(boolean) setVisible(false)} from * {@link View#onDetachedFromWindow} and from {@link View#onVisibilityChanged} * when &lt;code&gt;visibility != View.VISIBLE&lt;/code&gt;. * * @deprecated This functionality and UI is better handled with custom views and layouts * rather than a dedicated zoom-control widget */" />
       <item value="* Sets whether the WebView should display on-screen zoom controls when * using the built-in zoom mechanisms. See {@link #setBuiltInZoomControls}. * The default is {@code true}." />
-      <item value="Sets whether the WebView should display on-screen zoom controls when" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
