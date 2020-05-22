@@ -1,52 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Returns the name of the current process. A package's default process name * is the same as its package name. Non-default processes will look like * &quot;$PACKAGE_NAME:$NAME&quot;, where $NAME corresponds to an android:process * attribute within AndroidManifest.xml." />
-      <item value="/** * Lifecycle state for an Activity. The state right after pause and right before resume are the * basically the same so this enum is in terms of the forward lifecycle progression (onResume, etc). * Eventually, if necessary, it could contain something like: * * BEFORE_CREATE, * CREATED, * VIEW_CREATED, * STARTED, * RESUMED */" />
-      <item value="&lt;p&gt;Adds a closure to be called immediately after this project has been evaluated. The project is passed to the * closure as a parameter. Such a listener gets notified when the build file belonging to this project has been * executed. A parent project may for example add such a listener to its child project. Such a listener can further * configure those child projects based on the state of the child projects after their build files have been * run.&lt;/p&gt; * * @param closure The closure to call." />
-      <item value="/** * Flag for {@link #setSystemUiVisibility(int)}: When using other layout * flags, we would like a stable view of the content insets given to * {@link #fitSystemWindows(Rect)}. This means that the insets seen there * will always represent the worst case that the application can expect * as a continuous state. In the stock Android UI this is the space for * the system bar, nav bar, and status bar, but not more transient elements * such as an input method. * * The stable layout your UI sees is based on the system UI modes you can * switch to. That is, if you specify {@link #SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN} * then you will get a stable layout for changes of the * {@link #SYSTEM_UI_FLAG_FULLSCREEN} mode; if you specify * {@link #SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN} and * {@link #SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION}, then you can transition * to {@link #SYSTEM_UI_FLAG_FULLSCREEN} and {@link #SYSTEM_UI_FLAG_HIDE_NAVIGATION} * with a stable layout. (Note that you should avoid using * {@link #SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION} by itself.) * * If you have set the window flag {@link WindowManager.LayoutParams#FLAG_FULLSCREEN} * to hide the status bar (instead of using {@link #SYSTEM_UI_FLAG_FULLSCREEN}), * then a hidden status bar will be considered a &quot;stable&quot; state for purposes * here. This allows your UI to continually hide the status bar, while still * using the system UI flags to hide the action bar while still retaining * a stable layout. Note that changing the window fullscreen flag will never * provide a stable layout for a clean transition. * * &lt;p&gt;If you are using ActionBar in * overlay mode with {@link Window#FEATURE_ACTION_BAR_OVERLAY * Window.FEATURE_ACTION_BAR_OVERLAY}, this flag will also impact the * insets it adds to those given to the application. */" />
-      <item value="Flags that can impact the layout in relation to system UI." />
-      <item value="These are the system UI flags that can be cleared by events outside * of an application. Currently this is just the ability to tap on the * screen while hiding the navigation bar to have it return." />
-      <item value="Process 'command 'cmd'' finished with non-zero exit value 1" />
-      <item value="The SourceSet 'instrumentTest' is not recognized by the Android Gradle Plugin. Perhaps you misspelled something?" />
-      <item value="Provides additional operating flags. Currently may be * 0 or have the {@link #SHOW_IMPLICIT} bit set." />
-      <item value="The resource identifier of the style to apply." />
-      <item value="* Sets the working directory for the process. The supplied argument is evaluated as per {@link * org.gradle.api.Project#file(Object)}. *" />
-      <item value="The tasks. These are evaluated as per {@link org.gradle.api.Task#dependsOn(Object...)}." />
-      <item value="Registers some tasks which build the files of this collection." />
-      <item value="registerGeneratedResFolders for Android plugin 3.x" />
-      <item value="Create dirs if they are not there (e.g. the &quot;clean&quot; task just ran)" />
-      <item value="Workaround for Android Gradle Plugin 3.2+ new asset directory" />
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0.&#10;Use '--warning-mode all' to show the individual deprecation warnings." />
-      <item value="versionName cannot be set on a mergedFlavor directly" />
-      <item value="This property has no effect, AAPT2 is now always used." />
-      <item value="Affected Modules" />
-      <item value="ERROR: versionName cannot be set on a mergedFlavor directly.&#10;versionNameOverride can instead be set for variant outputs using the following syntax:" />
-      <item value="api revisionclaims claimsitemtype mergeu search" />
-      <item value="Changeofitinerary" />
-      <item value="Campensate" />
-      <item value="Campensate Fast Activity" />
-      <item value="campensate" />
-      <item value="有关详细信息, 请使用" />
-      <item value="person" />
-      <item value="会员中心" />
-      <item value="STARTTIME" />
-      <item value="常量" />
-      <item value="菜单" />
-      <item value="准备" />
-      <item value="点击生成图片" />
-      <item value="Image View" />
+      <item value="INSTALL PARSE FAILED UNEXPECTED EXCEPTION" />
     </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
-        <entry key="DUTCH" value="1" />
-      </map>
-    </option>
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
   </component>
 </application>
