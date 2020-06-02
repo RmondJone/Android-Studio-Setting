@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="requires a placeholder substitution but no value for &lt;GETUI_APP_KEY&gt; is provided" />
       <item value="INDICATOR" />
       <item value="You are not allowed to push code to protected branches on this project" />
       <item value="LAYER TYPE" />
@@ -50,12 +51,11 @@
       <item value="If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning." />
       <item value="tools:replace specified at line:16 for attribute android:theme, but no new value specified" />
       <item value="Sets whether the WebView should display on-screen zoom controls when * using the built-in zoom mechanisms. See {@link #setBuiltInZoomControls}. * The default is {@code true}." />
-      <item value="Only fullscreen activities can request orientation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
