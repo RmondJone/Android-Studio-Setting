@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="容器" />
+      <item value="小程序" />
       <item value="INSTALL PARSE FAILED MANIFEST MALFORMED" />
       <item value="requires a placeholder substitution but no value for &lt;GETUI_APP_KEY&gt; is provided" />
       <item value="INDICATOR" />
@@ -49,13 +51,11 @@
       <item value="Could not HEAD 'https://jcenter.bintray.com/io/reactivex/rxjava2/rxandroid/2.0.1/rxandroid-2.0.1.aar'." />
       <item value="Could not determine artifacts for io.reactivex.rxjava2:rxandroid:2.0.1" />
       <item value="If you are using NDK, verify the ndk.dir is set to a valid NDK directory. It is currently set to D:\androidSDK\ndk-bundle" />
-      <item value="If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning." />
-      <item value="tools:replace specified at line:16 for attribute android:theme, but no new value specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="239" />
+        <entry key="CHINESE" value="239" />
+        <entry key="ENGLISH" value="240" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
