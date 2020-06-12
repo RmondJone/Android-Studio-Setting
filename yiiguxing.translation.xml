@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="visualized" />
       <item value="A class allows recognizing double key tap of &quot;R&quot;, used to reload JS in {@link * AbstractReactActivity}, {@link RedBoxDialog} and {@link ReactActivity}." />
       <item value="Cannot loadApp while app is already running." />
       <item value="Error while updating property 'display' in shadow node of type: RCTView" />
@@ -50,12 +51,11 @@
       <item value="展厅" />
       <item value="alls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="No subscribers registered for event" />
-      <item value="Calls the specified function [block] with `this` value as its argument and returns its result." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
