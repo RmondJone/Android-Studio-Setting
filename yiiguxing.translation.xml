@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Force Bundle task to produce sourcemap files if they are not pre-configured by user yet" />
+      <item value="compose array with one item - current build flavor name" />
       <item value="if its intermediates/sourcemaps/react then it should be generated/sourcemaps/react" />
       <item value="load Synchronously" />
       <item value="* Returns the name of the main module. Determines the URL used to fetch the JS bundle from the * packager server. It is only used when dev support is enabled. This is the first file to be * executed once the {@link ReactInstanceManager} is created. e.g. &quot;index.android&quot;" />
@@ -49,13 +51,11 @@
       <item value="ViewPager does not have adapter instance" />
       <item value="展会地址" />
       <item value="公司简介" />
-      <item value="公司名称" />
-      <item value="expo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
