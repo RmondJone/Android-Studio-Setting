@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * By default, all onBackPress() calls should not execute the default backpress handler and should * instead propagate it to the JS instance. If JS doesn't want to handle the back press itself, it * shall call back into native to invoke this function which should execute the default handler */" />
       <item value="This method will give JS the opportunity to consume the back button event. If JS does not * consume the event, mDefaultBackButtonImpl will be invoked at the end of the round trip to JS." />
       <item value="Invoke without round trip to JS." />
       <item value="Fast Forward media key" />
@@ -50,12 +51,11 @@
       <item value="默认" />
       <item value="Maximum number of items supported by BottomNavigationView is 5" />
       <item value="透明" />
-      <item value="Base Recycler View Adapter Helper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="258" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
