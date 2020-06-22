@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Don't show the dialog if the host is paused" />
       <item value="* Call this from {@link Activity#onPause()}. This notifies any listening modules so they can do * any necessary cleanup. The passed Activity is the current Activity being paused. This will * always be the foreground activity that would be returned by {@link * ReactContext#getCurrentActivity()}." />
       <item value="Unmount the react application at this root view, reclaiming any JS memory associated with that * application. If {@link #startReactApplication} is called, this method must be called before the * ReactRootView is garbage collected (typically in your Activity's onDestroy, or in your * Fragment's onDestroyView)." />
       <item value="current" />
@@ -50,12 +51,11 @@
       <item value="入口" />
       <item value="conduct" />
       <item value="进行" />
-      <item value="may lead to runtime failures" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
