@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Default cache usage mode. If the navigation type doesn't impose any * specific behavior, use cached resources when they are available * and not expired, otherwise load resources from the network. * Use with {@link #setCacheMode}." />
+      <item value="Use cached resources when they are available, even if they have expired." />
+      <item value="Don't use the cache, load from the network." />
       <item value="Callback on interrupt." />
       <item value="Callback after navigation." />
       <item value="Callback after lose your way." />
@@ -48,14 +51,11 @@
       <item value="animation style to use when the popup appears * and disappears. Set to -1 for the default animation, 0 for no * animation, or a resource identifier for an explicit animation." />
       <item value="token null is not valid; is your activity running?" />
       <item value="Internal server error, please try again later." />
-      <item value="physical pixels" />
-      <item value="* Set the text size to &lt;code&gt;size&lt;/code&gt; physical pixels, or to &lt;code&gt;size&lt;/code&gt; * device-independent pixels if &lt;code&gt;dip&lt;/code&gt; is true." />
-      <item value="* Flags for {@link #fromHtml(String, int, ImageGetter, TagHandler)}: Separate block-level * elements with blank lines (two newline characters) in between. This is the legacy behavior * prior to N." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
