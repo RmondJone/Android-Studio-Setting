@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NORMAL" />
+      <item value="SINGLE COLUMN" />
+      <item value="NARROW COLUMNS" />
       <item value="Default cache usage mode. If the navigation type doesn't impose any * specific behavior, use cached resources when they are available * and not expired, otherwise load resources from the network. * Use with {@link #setCacheMode}." />
       <item value="Use cached resources when they are available, even if they have expired." />
       <item value="Don't use the cache, load from the network." />
@@ -48,14 +51,11 @@
       <item value="INSTALL FAILED USER RESTRICTED" />
       <item value="上次" />
       <item value="auto Play" />
-      <item value="animation style to use when the popup appears * and disappears. Set to -1 for the default animation, 0 for no * animation, or a resource identifier for an explicit animation." />
-      <item value="token null is not valid; is your activity running?" />
-      <item value="Internal server error, please try again later." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="275" />
+        <entry key="ENGLISH" value="276" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
