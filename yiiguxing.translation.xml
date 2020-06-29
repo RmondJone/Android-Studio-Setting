@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Mock version of the WebView. * Only non override public methods from the real WebView have been added in there. * Methods that take an unknown class as parameter or as return object, have been removed for now. * * TODO: generate automatically." />
       <item value="Calling View methods on another thread than the UI thread." />
       <item value="Indicates that the view does not have a layer." />
       <item value="容器" />
@@ -50,12 +51,11 @@
       <item value="Returns whether notifications from the calling package are not blocked." />
       <item value="Some privileges permanently disabled, may need to set up in the execute." />
       <item value="注册" />
-      <item value="INSTALL FAILED USER RESTRICTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
