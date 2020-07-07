@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accs bindapp error" />
       <item value="suitcase" />
       <item value="treasure" />
       <item value="* Mock version of the WebView. * Only non override public methods from the real WebView have been added in there. * Methods that take an unknown class as parameter or as return object, have been removed for now. * * TODO: generate automatically." />
@@ -50,12 +51,11 @@
       <item value="LAYER TYPE" />
       <item value="Identifier 'Text' has already been declared" />
       <item value="申请" />
-      <item value="Returns whether notifications from the calling package are not blocked." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
