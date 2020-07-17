@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load For Request" />
+      <item value="save From Response" />
       <item value="Ensures all cookies currently accessible through the getCookie API are * written to persistent storage. * This call will block the caller until it is done and may perform I/O." />
       <item value="The number of method references in a .dex file cannot exceed 64K." />
       <item value="request" />
@@ -49,13 +51,11 @@
       <item value="Error while updating prop display" />
       <item value="Expected to run on UI thread!" />
       <item value="小程序" />
-      <item value="INSTALL PARSE FAILED MANIFEST MALFORMED" />
-      <item value="requires a placeholder substitution but no value for &lt;GETUI_APP_KEY&gt; is provided" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="291" />
+        <entry key="ENGLISH" value="292" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
