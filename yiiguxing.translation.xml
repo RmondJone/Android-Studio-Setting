@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="load Synchronously" />
       <item value="load For Request" />
       <item value="save From Response" />
       <item value="Ensures all cookies currently accessible through the getCookie API are * written to persistent storage. * This call will block the caller until it is done and may perform I/O." />
@@ -42,7 +43,6 @@
       <item value="Force Bundle task to produce sourcemap files if they are not pre-configured by user yet" />
       <item value="compose array with one item - current build flavor name" />
       <item value="if its intermediates/sourcemaps/react then it should be generated/sourcemaps/react" />
-      <item value="load Synchronously" />
       <item value="* Returns the name of the main module. Determines the URL used to fetch the JS bundle from the * packager server. It is only used when dev support is enabled. This is the first file to be * executed once the {@link ReactInstanceManager} is created. e.g. &quot;index.android&quot;" />
       <item value="visualized" />
       <item value="A class allows recognizing double key tap of &quot;R&quot;, used to reload JS in {@link * AbstractReactActivity}, {@link RedBoxDialog} and {@link ReactActivity}." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
