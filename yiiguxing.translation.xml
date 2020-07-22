@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot convert undefined value to object" />
+      <item value="No implementation found for void libcore.icu.Transliterator.destroy" />
       <item value="load Synchronously" />
       <item value="Add a listener to be notified of react instance events." />
       <item value="Returns the high-level media type, such as &quot;text&quot;, &quot;image&quot;, &quot;audio&quot;, &quot;video&quot;, or * &quot;application&quot;." />
@@ -49,13 +51,11 @@
       <item value="visualized" />
       <item value="A class allows recognizing double key tap of &quot;R&quot;, used to reload JS in {@link * AbstractReactActivity}, {@link RedBoxDialog} and {@link ReactActivity}." />
       <item value="Cannot loadApp while app is already running." />
-      <item value="Error while updating property 'display' in shadow node of type: RCTView" />
-      <item value="Error while updating prop display" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
