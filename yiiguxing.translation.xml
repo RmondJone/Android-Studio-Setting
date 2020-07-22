@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Returns the high-level media type, such as &quot;text&quot;, &quot;image&quot;, &quot;audio&quot;, &quot;video&quot;, or * &quot;application&quot;." />
       <item value="load Synchronously" />
+      <item value="Add a listener to be notified of react instance events." />
+      <item value="Returns the high-level media type, such as &quot;text&quot;, &quot;image&quot;, &quot;audio&quot;, &quot;video&quot;, or * &quot;application&quot;." />
       <item value="load For Request" />
       <item value="save From Response" />
       <item value="Ensures all cookies currently accessible through the getCookie API are * written to persistent storage. * This call will block the caller until it is done and may perform I/O." />
@@ -50,12 +51,11 @@
       <item value="Cannot loadApp while app is already running." />
       <item value="Error while updating property 'display' in shadow node of type: RCTView" />
       <item value="Error while updating prop display" />
-      <item value="Expected to run on UI thread!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
