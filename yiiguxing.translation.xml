@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when the react context is initialized (all modules registered). Always called on the * UI thread." />
+      <item value="Add a listener to be notified of react instance events" />
       <item value="Cannot convert undefined value to object" />
       <item value="No implementation found for void libcore.icu.Transliterator.destroy" />
       <item value="load Synchronously" />
@@ -49,13 +51,11 @@
       <item value="if its intermediates/sourcemaps/react then it should be generated/sourcemaps/react" />
       <item value="* Returns the name of the main module. Determines the URL used to fetch the JS bundle from the * packager server. It is only used when dev support is enabled. This is the first file to be * executed once the {@link ReactInstanceManager} is created. e.g. &quot;index.android&quot;" />
       <item value="visualized" />
-      <item value="A class allows recognizing double key tap of &quot;R&quot;, used to reload JS in {@link * AbstractReactActivity}, {@link RedBoxDialog} and {@link ReactActivity}." />
-      <item value="Cannot loadApp while app is already running." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
