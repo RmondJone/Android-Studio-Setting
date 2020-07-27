@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成功" />
       <item value="尝试重新读取" />
       <item value="Set up the call to the compose-source-maps script" />
-      <item value="成功" />
       <item value="Called when the react context is initialized (all modules registered). Always called on the * UI thread." />
       <item value="Add a listener to be notified of react instance events" />
       <item value="Cannot convert undefined value to object" />
