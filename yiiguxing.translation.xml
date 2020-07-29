@@ -1,6 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Constant for {@link #importance}: This process is running something * that is actively visible to the user, though not in the immediate * foreground. This may be running a window that is behind the current * foreground (so paused and with its state saved, not interacting with * the user, but visible to them to some degree); it may also be running * other services under the system's control that it inconsiders important." />
+      <item value="* Constant for {@link #importance}: This process is not something the user * is directly aware of, but is otherwise perceptible to them to some degree." />
+      <item value="* Constant for {@link #importance}: {@link #IMPORTANCE_PERCEPTIBLE} had this wrong value * before {@link Build.VERSION_CODES#O}. Since the {@link Build.VERSION_CODES#O} SDK, * the value of {@link #IMPORTANCE_PERCEPTIBLE} has been fixed. * * &lt;p&gt;The system will return this value instead of {@link #IMPORTANCE_PERCEPTIBLE} * on Android versions below {@link Build.VERSION_CODES#O}. * * &lt;p&gt;On Android version {@link Build.VERSION_CODES#O} and later, this value will still be * returned for apps with the target API level below {@link Build.VERSION_CODES#O}. * For apps targeting version {@link Build.VERSION_CODES#O} and later, * the correct value {@link #IMPORTANCE_PERCEPTIBLE} will be returned." />
+      <item value="* @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
+      <item value="* Constant for {@link #importance}: This process is contains services * that should remain running. These are background services apps have * started, not something the user is aware of, so they may be killed by * the system relatively freely (though it is generally desired that they * stay running as long as they want to)." />
+      <item value="/** * @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
+      <item value="* Constant for {@link #importance}: This process is running a foreground * service, for example to perform music playback even while the user is * not immediately in the app. This generally indicates that the process * is doing something the user actively cares about." />
+      <item value="* Constant for {@link #importance}: This process is running the * foreground UI; that is, it is the thing currently at the top of the screen * that the user is interacting with." />
+      <item value="* The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values." />
+      <item value="The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values. */" />
+      <item value="Have the system immediately kill all background processes associated * with the given package. This is the same as the kernel killing those * processes to reclaim memory; the system will take care of restarting * these processes in the future as needed. * * @param packageName The name of the package whose processes are to * be killed." />
       <item value="* Level for {@link #onTrimMemory(int)}: the process is nearing the end * of the background LRU list, and if more memory isn't found soon it will * be killed." />
       <item value="* Level for {@link #onTrimMemory(int)}: the process has gone on to the * LRU list. This is a good opportunity to clean up resources that can * efficiently and quickly be re-built if the user returns to the app." />
       <item value="Level for {@link #onTrimMemory(int)}: the process is nearing the end * of the background LRU list, and if more memory isn't found soon it will * be killed." />
@@ -40,22 +51,11 @@
       <item value="NARROW COLUMNS" />
       <item value="Default cache usage mode. If the navigation type doesn't impose any * specific behavior, use cached resources when they are available * and not expired, otherwise load resources from the network. * Use with {@link #setCacheMode}." />
       <item value="Use cached resources when they are available, even if they have expired." />
-      <item value="Don't use the cache, load from the network." />
-      <item value="Callback on interrupt." />
-      <item value="Callback after navigation." />
-      <item value="Callback after lose your way." />
-      <item value="Callback when find the destination." />
-      <item value="Destroy this React instance and the attached JS context." />
-      <item value="we currently don't have an onCreate callback so we call onResume for both transitions" />
-      <item value="mDialog must exist when we call updateProperties" />
-      <item value="Don't show the dialog if the host is paused" />
-      <item value="* Call this from {@link Activity#onPause()}. This notifies any listening modules so they can do * any necessary cleanup. The passed Activity is the current Activity being paused. This will * always be the foreground activity that would be returned by {@link * ReactContext#getCurrentActivity()}." />
-      <item value="Unmount the react application at this root view, reclaiming any JS memory associated with that * application. If {@link #startReactApplication} is called, this method must be called before the * ReactRootView is garbage collected (typically in your Activity's onDestroy, or in your * Fragment's onDestroyView)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
