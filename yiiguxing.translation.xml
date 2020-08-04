@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发送短信" />
       <item value="This field should be initialized via a function call to // prevent its value being inlined in the app during compilation because // we will later set it to the value based on the app's target SDK" />
       <item value="The name of the second instruction set (CPU type + ABI convention) of native code." />
       <item value="/** * Gets the hardware serial number, if available. * * &lt;p class=&quot;note&quot;&gt;&lt;b&gt;Note:&lt;/b&gt; Root access may allow you to modify device identifiers, such as * the hardware serial number. If you change these identifiers, you can use * &lt;a href=&quot;/training/articles/security-key-attestation.html&quot;&gt;key attestation&lt;/a&gt; to obtain * proof of the device's original identifiers. * * @return The serial number if specified. */" />
@@ -50,12 +51,11 @@
       <item value="The number of method references in a .dex file cannot exceed 64K." />
       <item value="request" />
       <item value="Expected a string but was BEGIN_ARRAY at line 1 column 2 path $" />
-      <item value="Expected a string but was BEGIN_OBJECT at line 1 column 2 path $" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
