@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This field should be initialized via a function call to // prevent its value being inlined in the app during compilation because // we will later set it to the value based on the app's target SDK" />
+      <item value="The name of the second instruction set (CPU type + ABI convention) of native code." />
+      <item value="/** * Gets the hardware serial number, if available. * * &lt;p class=&quot;note&quot;&gt;&lt;b&gt;Note:&lt;/b&gt; Root access may allow you to modify device identifiers, such as * the hardware serial number. If you change these identifiers, you can use * &lt;a href=&quot;/training/articles/security-key-attestation.html&quot;&gt;key attestation&lt;/a&gt; to obtain * proof of the device's original identifiers. * * @return The serial number if specified. */" />
+      <item value="Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID);" />
       <item value="统一回调" />
       <item value="// Object added to the page via AddJavascriptInterface() that is used by the test Javascript to // notify back to Java if the Service Worker registration was successful." />
       <item value="/** * Systrace stub that mostly does nothing but delegates to Trace for beginning/ending sections. The * internal version of this file has not been opensourced yet. */" />
@@ -47,15 +51,11 @@
       <item value="request" />
       <item value="Expected a string but was BEGIN_ARRAY at line 1 column 2 path $" />
       <item value="Expected a string but was BEGIN_OBJECT at line 1 column 2 path $" />
-      <item value="accs bindapp error" />
-      <item value="suitcase" />
-      <item value="treasure" />
-      <item value="* Mock version of the WebView. * Only non override public methods from the real WebView have been added in there. * Methods that take an unknown class as parameter or as return object, have been removed for now. * * TODO: generate automatically." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="338" />
+        <entry key="ENGLISH" value="339" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
