@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Whether the method can be called from JS synchronously **on the JS thread**, possibly returning * a result. * * &lt;p&gt;WARNING: in the vast majority of cases, you should leave this to false which allows your * native module methods to be called asynchronously: calling methods synchronously can have * strong performance penalties and introduce threading-related bugs to your native modules. * * &lt;p&gt;In order to support remote debugging, both the method args and return type must be * serializable to JSON: this means that we only support the same args as {@link ReactMethod}, and * the hook can only be void or return JSON values (e.g. bool, number, String, {@link * WritableMap}, or {@link WritableArray}). Calling these methods when running under the websocket * executor is currently not supported. */" />
       <item value="发送短信" />
       <item value="This field should be initialized via a function call to // prevent its value being inlined in the app during compilation because // we will later set it to the value based on the app's target SDK" />
       <item value="The name of the second instruction set (CPU type + ABI convention) of native code." />
@@ -9,7 +10,6 @@
       <item value="统一回调" />
       <item value="// Object added to the page via AddJavascriptInterface() that is used by the test Javascript to // notify back to Java if the Service Worker registration was successful." />
       <item value="/** * Systrace stub that mostly does nothing but delegates to Trace for beginning/ending sections. The * internal version of this file has not been opensourced yet. */" />
-      <item value="/** * Whether the method can be called from JS synchronously **on the JS thread**, possibly returning * a result. * * &lt;p&gt;WARNING: in the vast majority of cases, you should leave this to false which allows your * native module methods to be called asynchronously: calling methods synchronously can have * strong performance penalties and introduce threading-related bugs to your native modules. * * &lt;p&gt;In order to support remote debugging, both the method args and return type must be * serializable to JSON: this means that we only support the same args as {@link ReactMethod}, and * the hook can only be void or return JSON values (e.g. bool, number, String, {@link * WritableMap}, or {@link WritableArray}). Calling these methods when running under the websocket * executor is currently not supported. */" />
       <item value="is Blocking Synchronous Method" />
       <item value="/** * Level for {@link #onTrimMemory(int)}: the process has gone on to the * LRU list. This is a good opportunity to clean up resources that can * efficiently and quickly be re-built if the user returns to the app. */" />
       <item value="/** * Binder IPC calls go through the public entry point. * This can be called with or without the global lock held. */" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
