@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this is ignored, this value is set automatically when needed. */" />
+      <item value="this value is set automatically when needed." />
       <item value="Permission denial: writing to settings requires android.permission.WRITE_SETTINGS" />
       <item value="writing to settings requires android.permission.WRITE_SETTINGS" />
       <item value="/** * A camera instance can be used to compute 3D transformations and * generate a matrix that can be applied, for instance, on a * {@link Canvas}. */" />
@@ -49,13 +51,11 @@
       <item value="Add a listener to be notified of react instance events." />
       <item value="Returns the high-level media type, such as &quot;text&quot;, &quot;image&quot;, &quot;audio&quot;, &quot;video&quot;, or * &quot;application&quot;." />
       <item value="load For Request" />
-      <item value="save From Response" />
-      <item value="Ensures all cookies currently accessible through the getCookie API are * written to persistent storage. * This call will block the caller until it is done and may perform I/O." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
