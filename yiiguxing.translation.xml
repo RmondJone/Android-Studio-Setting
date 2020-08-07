@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permission denial: writing to settings requires android.permission.WRITE_SETTINGS" />
+      <item value="writing to settings requires android.permission.WRITE_SETTINGS" />
       <item value="/** * A camera instance can be used to compute 3D transformations and * generate a matrix that can be applied, for instance, on a * {@link Canvas}. */" />
       <item value="/** * Whether the method can be called from JS synchronously **on the JS thread**, possibly returning * a result. * * &lt;p&gt;WARNING: in the vast majority of cases, you should leave this to false which allows your * native module methods to be called asynchronously: calling methods synchronously can have * strong performance penalties and introduce threading-related bugs to your native modules. * * &lt;p&gt;In order to support remote debugging, both the method args and return type must be * serializable to JSON: this means that we only support the same args as {@link ReactMethod}, and * the hook can only be void or return JSON values (e.g. bool, number, String, {@link * WritableMap}, or {@link WritableArray}). Calling these methods when running under the websocket * executor is currently not supported. */" />
       <item value="发送短信" />
@@ -49,13 +51,11 @@
       <item value="load For Request" />
       <item value="save From Response" />
       <item value="Ensures all cookies currently accessible through the getCookie API are * written to persistent storage. * This call will block the caller until it is done and may perform I/O." />
-      <item value="The number of method references in a .dex file cannot exceed 64K." />
-      <item value="request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
