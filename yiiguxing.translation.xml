@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If you are trying to bundle for an out-of-tree platform, it may not be installed" />
+      <item value="Invalid platform &quot;android&quot; selected" />
       <item value="差距" />
       <item value="heigth" />
       <item value="set Take Picktrue Orientation" />
@@ -49,13 +51,11 @@
       <item value="Level for {@link #onTrimMemory(int)}: the process is around the middle * of the background LRU list; freeing memory can help the system keep * other processes running later in the list for better overall performance." />
       <item value="The following required arguments were not provided" />
       <item value="compose array with one item - current build flavor name" />
-      <item value="extract Current Variants" />
-      <item value="Found argument 'react-native' which wasn't expected, or isn't valid in this context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
