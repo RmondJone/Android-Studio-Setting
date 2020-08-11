@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Can only use lower 16 bits for requestCode" />
       <item value="For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90)." />
       <item value="/** * Sets the clockwise rotation angle in degrees relative to the * orientation of the camera. This affects the pictures returned from * JPEG {@link PictureCallback}. The camera driver may set orientation * in the EXIF header without rotating the picture. Or the driver may * rotate the picture and the EXIF thumbnail. If the Jpeg picture is * rotated, the orientation in the EXIF header will be missing or 1 (row * #0 is top and column #0 is left side). * * &lt;p&gt; * If applications want to rotate the picture to match the orientation * of what users see, apps should use * {@link android.view.OrientationEventListener} and * {@link android.hardware.Camera.CameraInfo}. The value from * OrientationEventListener is relative to the natural orientation of * the device. CameraInfo.orientation is the angle between camera * orientation and natural device orientation. The sum of the two is the * rotation angle for back-facing camera. The difference of the two is * the rotation angle for front-facing camera. Note that the JPEG * pictures of front-facing cameras are not mirrored as in preview * display. * * &lt;p&gt; * For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90). * * &lt;p&gt;The reference code is as follows. * * &lt;pre&gt; * public void onOrientationChanged(int orientation) { * if (orientation == ORIENTATION_UNKNOWN) return; * android.hardware.Camera.CameraInfo info = * new android.hardware.Camera.CameraInfo(); * android.hardware.Camera.getCameraInfo(cameraId, info); * orientation = (orientation + 45) / 90 * 90; * int rotation = 0; * if (info.facing == CameraInfo.CAMERA_FACING_FRONT) { * rotation = (info.orientation - orientation + 360) % 360; * } else { // back-facing camera * rotation = (info.orientation + orientation) % 360; * } * mParameters.setRotation(rotation); * } * &lt;/pre&gt; * * @param rotation The rotation angle in degrees relative to the * orientation of the camera. Rotation can only be 0, * 90, 180 or 270. * @throws IllegalArgumentException if rotation value is invalid. * @see android.view.OrientationEventListener * @see #getCameraInfo(int, CameraInfo) */" />
       <item value="if rotation value is invalid." />
@@ -50,12 +51,11 @@
       <item value="* The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values." />
       <item value="The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values. */" />
       <item value="Have the system immediately kill all background processes associated * with the given package. This is the same as the kernel killing those * processes to reclaim memory; the system will take care of restarting * these processes in the future as needed. * * @param packageName The name of the package whose processes are to * be killed." />
-      <item value="* Level for {@link #onTrimMemory(int)}: the process is nearing the end * of the background LRU list, and if more memory isn't found soon it will * be killed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
