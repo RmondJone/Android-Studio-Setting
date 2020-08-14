@@ -1,13 +1,68 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Caution! In production, you need to generate your own keystore file." />
-      <item value="INSTALL PARSE FAILED UNEXPECTED EXCEPTION" />
+      <item value="Translates a string into {@code application/x-www-form-urlencoded} * format using a specific encoding scheme. This method uses the * supplied encoding scheme to obtain the bytes for unsafe * characters." />
+      <item value="Can only use lower 16 bits for requestCode" />
+      <item value="For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90)." />
+      <item value="/** * Sets the clockwise rotation angle in degrees relative to the * orientation of the camera. This affects the pictures returned from * JPEG {@link PictureCallback}. The camera driver may set orientation * in the EXIF header without rotating the picture. Or the driver may * rotate the picture and the EXIF thumbnail. If the Jpeg picture is * rotated, the orientation in the EXIF header will be missing or 1 (row * #0 is top and column #0 is left side). * * &lt;p&gt; * If applications want to rotate the picture to match the orientation * of what users see, apps should use * {@link android.view.OrientationEventListener} and * {@link android.hardware.Camera.CameraInfo}. The value from * OrientationEventListener is relative to the natural orientation of * the device. CameraInfo.orientation is the angle between camera * orientation and natural device orientation. The sum of the two is the * rotation angle for back-facing camera. The difference of the two is * the rotation angle for front-facing camera. Note that the JPEG * pictures of front-facing cameras are not mirrored as in preview * display. * * &lt;p&gt; * For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90). * * &lt;p&gt;The reference code is as follows. * * &lt;pre&gt; * public void onOrientationChanged(int orientation) { * if (orientation == ORIENTATION_UNKNOWN) return; * android.hardware.Camera.CameraInfo info = * new android.hardware.Camera.CameraInfo(); * android.hardware.Camera.getCameraInfo(cameraId, info); * orientation = (orientation + 45) / 90 * 90; * int rotation = 0; * if (info.facing == CameraInfo.CAMERA_FACING_FRONT) { * rotation = (info.orientation - orientation + 360) % 360; * } else { // back-facing camera * rotation = (info.orientation + orientation) % 360; * } * mParameters.setRotation(rotation); * } * &lt;/pre&gt; * * @param rotation The rotation angle in degrees relative to the * orientation of the camera. Rotation can only be 0, * 90, 180 or 270. * @throws IllegalArgumentException if rotation value is invalid. * @see android.view.OrientationEventListener * @see #getCameraInfo(int, CameraInfo) */" />
+      <item value="if rotation value is invalid." />
+      <item value="默认" />
+      <item value="If using preview allocations, don't allow preview size changes" />
+      <item value="If you are trying to bundle for an out-of-tree platform, it may not be installed" />
+      <item value="Invalid platform &quot;android&quot; selected" />
+      <item value="差距" />
+      <item value="heigth" />
+      <item value="set Take Picktrue Orientation" />
+      <item value="Cannot take picture without preview enabled" />
+      <item value="* Creates a new Camera object to access the first back-facing camera on the * device. If the device does not have a back-facing camera, this returns * null. Otherwise acts like the {@link #open(int)} call. * * @return a new Camera object for the first back-facing camera, or null if there is no * backfacing camera * @see #open(int)" />
+      <item value="/** * Returns the rotation of the screen from its &quot;natural&quot; orientation. * The returned value may be {@link Surface#ROTATION_0 Surface.ROTATION_0} * (no rotation), {@link Surface#ROTATION_90 Surface.ROTATION_90}, * {@link Surface#ROTATION_180 Surface.ROTATION_180}, or * {@link Surface#ROTATION_270 Surface.ROTATION_270}. For * example, if a device has a naturally tall screen, and the user has * turned it on its side to go into a landscape orientation, the value * returned here may be either {@link Surface#ROTATION_90 Surface.ROTATION_90} * or {@link Surface#ROTATION_270 Surface.ROTATION_270} depending on * the direction it was turned. The angle is the rotation of the drawn * graphics on the screen, which is the opposite direction of the physical * rotation of the device. For example, if the device is rotated 90 * degrees counter-clockwise, to compensate rendering will be rotated by * 90 degrees clockwise and thus the returned value here will be * {@link Surface#ROTATION_90 Surface.ROTATION_90}. */" />
+      <item value="set display orientation failed" />
+      <item value="Test if the supplied orientation is in landscape." />
+      <item value="* &lt;p&gt;The available stream configurations that this * camera device supports; also includes the minimum frame durations * and the stall durations for each format/size combination.&lt;/p&gt; * &lt;p&gt;All camera devices will support sensor maximum resolution (defined by * {@link CameraCharacteristics#SENSOR_INFO_ACTIVE_ARRAY_SIZE android.sensor.info.activeArraySize}) for the JPEG format.&lt;/p&gt; * &lt;p&gt;For a given use case, the actual maximum supported resolution * may be lower than what is listed here, depending on the destination * Surface for the image data. For example, for recording video, * the video encoder chosen may have a maximum size limit (e.g. 1080p) * smaller than what the camera (e.g. maximum resolution is 3264x2448) * can provide.&lt;/p&gt; * &lt;p&gt;Please reference the documentation for the image data destination to * check if it limits the maximum size for image data.&lt;/p&gt; * &lt;p&gt;The following table describes the minimum required output stream * configurations based on the hardware level" />
+      <item value="* Set the flash unit's torch mode of the camera of the given ID without opening the camera * device." />
+      <item value="landscape" />
+      <item value="is Landscape" />
+      <item value="an image format from {@link ImageFormat} or {@link PixelFormat}" />
+      <item value="this is ignored, this value is set automatically when needed. */" />
+      <item value="this value is set automatically when needed." />
+      <item value="Permission denial: writing to settings requires android.permission.WRITE_SETTINGS" />
+      <item value="writing to settings requires android.permission.WRITE_SETTINGS" />
+      <item value="/** * A camera instance can be used to compute 3D transformations and * generate a matrix that can be applied, for instance, on a * {@link Canvas}. */" />
+      <item value="/** * Whether the method can be called from JS synchronously **on the JS thread**, possibly returning * a result. * * &lt;p&gt;WARNING: in the vast majority of cases, you should leave this to false which allows your * native module methods to be called asynchronously: calling methods synchronously can have * strong performance penalties and introduce threading-related bugs to your native modules. * * &lt;p&gt;In order to support remote debugging, both the method args and return type must be * serializable to JSON: this means that we only support the same args as {@link ReactMethod}, and * the hook can only be void or return JSON values (e.g. bool, number, String, {@link * WritableMap}, or {@link WritableArray}). Calling these methods when running under the websocket * executor is currently not supported. */" />
+      <item value="发送短信" />
+      <item value="This field should be initialized via a function call to // prevent its value being inlined in the app during compilation because // we will later set it to the value based on the app's target SDK" />
+      <item value="The name of the second instruction set (CPU type + ABI convention) of native code." />
+      <item value="/** * Gets the hardware serial number, if available. * * &lt;p class=&quot;note&quot;&gt;&lt;b&gt;Note:&lt;/b&gt; Root access may allow you to modify device identifiers, such as * the hardware serial number. If you change these identifiers, you can use * &lt;a href=&quot;/training/articles/security-key-attestation.html&quot;&gt;key attestation&lt;/a&gt; to obtain * proof of the device's original identifiers. * * @return The serial number if specified. */" />
+      <item value="Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID);" />
+      <item value="统一回调" />
+      <item value="// Object added to the page via AddJavascriptInterface() that is used by the test Javascript to // notify back to Java if the Service Worker registration was successful." />
+      <item value="/** * Systrace stub that mostly does nothing but delegates to Trace for beginning/ending sections. The * internal version of this file has not been opensourced yet. */" />
+      <item value="is Blocking Synchronous Method" />
+      <item value="/** * Level for {@link #onTrimMemory(int)}: the process has gone on to the * LRU list. This is a good opportunity to clean up resources that can * efficiently and quickly be re-built if the user returns to the app. */" />
+      <item value="/** * Binder IPC calls go through the public entry point. * This can be called with or without the global lock held. */" />
+      <item value="/** * Have the system immediately kill all background processes associated * with the given package. This is the same as the kernel killing those * processes to reclaim memory; the system will take care of restarting * these processes in the future as needed. * * @param packageName The name of the package whose processes are to * be killed. */" />
+      <item value="* Constant for {@link #importance}: This process is running something * that is actively visible to the user, though not in the immediate * foreground. This may be running a window that is behind the current * foreground (so paused and with its state saved, not interacting with * the user, but visible to them to some degree); it may also be running * other services under the system's control that it inconsiders important." />
+      <item value="* Constant for {@link #importance}: This process is not something the user * is directly aware of, but is otherwise perceptible to them to some degree." />
+      <item value="* Constant for {@link #importance}: {@link #IMPORTANCE_PERCEPTIBLE} had this wrong value * before {@link Build.VERSION_CODES#O}. Since the {@link Build.VERSION_CODES#O} SDK, * the value of {@link #IMPORTANCE_PERCEPTIBLE} has been fixed. * * &lt;p&gt;The system will return this value instead of {@link #IMPORTANCE_PERCEPTIBLE} * on Android versions below {@link Build.VERSION_CODES#O}. * * &lt;p&gt;On Android version {@link Build.VERSION_CODES#O} and later, this value will still be * returned for apps with the target API level below {@link Build.VERSION_CODES#O}. * For apps targeting version {@link Build.VERSION_CODES#O} and later, * the correct value {@link #IMPORTANCE_PERCEPTIBLE} will be returned." />
+      <item value="* @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
+      <item value="* Constant for {@link #importance}: This process is contains services * that should remain running. These are background services apps have * started, not something the user is aware of, so they may be killed by * the system relatively freely (though it is generally desired that they * stay running as long as they want to)." />
+      <item value="/** * @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
+      <item value="* Constant for {@link #importance}: This process is running a foreground * service, for example to perform music playback even while the user is * not immediately in the app. This generally indicates that the process * is doing something the user actively cares about." />
+      <item value="* Constant for {@link #importance}: This process is running the * foreground UI; that is, it is the thing currently at the top of the screen * that the user is interacting with." />
+      <item value="* The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values." />
+      <item value="The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="NORWEGIAN" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>

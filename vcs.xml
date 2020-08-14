@@ -1,5 +1,19 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.xyz.cn" />
+          <option name="userName" value="guohanlin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="2318560278@qq.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
   </component>
 </application>
