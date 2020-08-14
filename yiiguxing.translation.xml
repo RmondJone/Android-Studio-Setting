@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="from" />
+      <item value="form" />
+      <item value="address" />
       <item value="Translates a string into {@code application/x-www-form-urlencoded} * format using a specific encoding scheme. This method uses the * supplied encoding scheme to obtain the bytes for unsafe * characters." />
       <item value="Can only use lower 16 bits for requestCode" />
       <item value="For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90)." />
@@ -48,13 +51,10 @@
       <item value="* Constant for {@link #importance}: This process is contains services * that should remain running. These are background services apps have * started, not something the user is aware of, so they may be killed by * the system relatively freely (though it is generally desired that they * stay running as long as they want to)." />
       <item value="/** * @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
       <item value="* Constant for {@link #importance}: This process is running a foreground * service, for example to perform music playback even while the user is * not immediately in the app. This generally indicates that the process * is doing something the user actively cares about." />
-      <item value="* Constant for {@link #importance}: This process is running the * foreground UI; that is, it is the thing currently at the top of the screen * that the user is interacting with." />
-      <item value="* The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values." />
-      <item value="The relative importance level that the system places on this process. * These constants are numbered so that &quot;more important&quot; values are * always smaller than &quot;less important&quot; values. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
+        <entry key="CHINESE" value="370" />
         <entry key="ENGLISH" value="370" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
