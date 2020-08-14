@@ -1,7 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Caution! In production, you need to generate your own keystore file." />
       <item value="INSTALL PARSE FAILED UNEXPECTED EXCEPTION" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
