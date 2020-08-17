@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Permission android.permission.READ_EXTERNAL_STORAGE denied for package com.oiltreasure" />
       <item value="from" />
       <item value="form" />
       <item value="address" />
@@ -50,12 +51,11 @@
       <item value="* @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
       <item value="* Constant for {@link #importance}: This process is contains services * that should remain running. These are background services apps have * started, not something the user is aware of, so they may be killed by * the system relatively freely (though it is generally desired that they * stay running as long as they want to)." />
       <item value="/** * @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
-      <item value="* Constant for {@link #importance}: This process is running a foreground * service, for example to perform music playback even while the user is * not immediately in the app. This generally indicates that the process * is doing something the user actively cares about." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
