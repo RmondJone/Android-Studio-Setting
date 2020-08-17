@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
+      <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
+      <item value="The constructed Notification will be posted on this" />
+      <item value="通知" />
       <item value="透明" />
       <item value="Window type can not be changed after the window is added." />
       <item value="Window type: dialogs that the keyguard shows * In multiuser systems shows on all users' windows." />
@@ -47,15 +51,11 @@
       <item value="is Blocking Synchronous Method" />
       <item value="/** * Level for {@link #onTrimMemory(int)}: the process has gone on to the * LRU list. This is a good opportunity to clean up resources that can * efficiently and quickly be re-built if the user returns to the app. */" />
       <item value="/** * Binder IPC calls go through the public entry point. * This can be called with or without the global lock held. */" />
-      <item value="/** * Have the system immediately kill all background processes associated * with the given package. This is the same as the kernel killing those * processes to reclaim memory; the system will take care of restarting * these processes in the future as needed. * * @param packageName The name of the package whose processes are to * be killed. */" />
-      <item value="* Constant for {@link #importance}: This process is running something * that is actively visible to the user, though not in the immediate * foreground. This may be running a window that is behind the current * foreground (so paused and with its state saved, not interacting with * the user, but visible to them to some degree); it may also be running * other services under the system's control that it inconsiders important." />
-      <item value="* Constant for {@link #importance}: This process is not something the user * is directly aware of, but is otherwise perceptible to them to some degree." />
-      <item value="* Constant for {@link #importance}: {@link #IMPORTANCE_PERCEPTIBLE} had this wrong value * before {@link Build.VERSION_CODES#O}. Since the {@link Build.VERSION_CODES#O} SDK, * the value of {@link #IMPORTANCE_PERCEPTIBLE} has been fixed. * * &lt;p&gt;The system will return this value instead of {@link #IMPORTANCE_PERCEPTIBLE} * on Android versions below {@link Build.VERSION_CODES#O}. * * &lt;p&gt;On Android version {@link Build.VERSION_CODES#O} and later, this value will still be * returned for apps with the target API level below {@link Build.VERSION_CODES#O}. * For apps targeting version {@link Build.VERSION_CODES#O} and later, * the correct value {@link #IMPORTANCE_PERCEPTIBLE} will be returned." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
