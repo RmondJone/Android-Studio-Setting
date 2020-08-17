@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="透明" />
       <item value="Window type can not be changed after the window is added." />
       <item value="Window type: dialogs that the keyguard shows * In multiuser systems shows on all users' windows." />
       <item value="Permission android.permission.READ_EXTERNAL_STORAGE denied for package com.oiltreasure" />
@@ -50,12 +51,11 @@
       <item value="* Constant for {@link #importance}: This process is running something * that is actively visible to the user, though not in the immediate * foreground. This may be running a window that is behind the current * foreground (so paused and with its state saved, not interacting with * the user, but visible to them to some degree); it may also be running * other services under the system's control that it inconsiders important." />
       <item value="* Constant for {@link #importance}: This process is not something the user * is directly aware of, but is otherwise perceptible to them to some degree." />
       <item value="* Constant for {@link #importance}: {@link #IMPORTANCE_PERCEPTIBLE} had this wrong value * before {@link Build.VERSION_CODES#O}. Since the {@link Build.VERSION_CODES#O} SDK, * the value of {@link #IMPORTANCE_PERCEPTIBLE} has been fixed. * * &lt;p&gt;The system will return this value instead of {@link #IMPORTANCE_PERCEPTIBLE} * on Android versions below {@link Build.VERSION_CODES#O}. * * &lt;p&gt;On Android version {@link Build.VERSION_CODES#O} and later, this value will still be * returned for apps with the target API level below {@link Build.VERSION_CODES#O}. * For apps targeting version {@link Build.VERSION_CODES#O} and later, * the correct value {@link #IMPORTANCE_PERCEPTIBLE} will be returned." />
-      <item value="* @deprecated Pre-{@link android.os.Build.VERSION_CODES#P} version of * {@link #IMPORTANCE_TOP_SLEEPING}. As of Android * {@link android.os.Build.VERSION_CODES#P}, this is considered much less * important since we want to reduce what apps can do when the screen is off." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="372" />
-        <entry key="ENGLISH" value="373" />
+        <entry key="CHINESE" value="373" />
+        <entry key="ENGLISH" value="374" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
