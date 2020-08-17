@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
+      <item value="Sets whether notifications posted to this channel should display notification lights, * on devices that support that feature." />
+      <item value="An identifier for this notification unique within your * application." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
       <item value="The constructed Notification will be posted on this" />
@@ -48,14 +51,11 @@
       <item value="统一回调" />
       <item value="// Object added to the page via AddJavascriptInterface() that is used by the test Javascript to // notify back to Java if the Service Worker registration was successful." />
       <item value="/** * Systrace stub that mostly does nothing but delegates to Trace for beginning/ending sections. The * internal version of this file has not been opensourced yet. */" />
-      <item value="is Blocking Synchronous Method" />
-      <item value="/** * Level for {@link #onTrimMemory(int)}: the process has gone on to the * LRU list. This is a good opportunity to clean up resources that can * efficiently and quickly be re-built if the user returns to the app. */" />
-      <item value="/** * Binder IPC calls go through the public entry point. * This can be called with or without the global lock held. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
