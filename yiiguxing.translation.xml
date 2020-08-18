@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="startForeground from pid=6126, uid=10878 requires android.permission.FOREGROUND_SERVICE" />
       <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
       <item value="Sets whether notifications posted to this channel should display notification lights, * on devices that support that feature." />
       <item value="An identifier for this notification unique within your * application." />
@@ -50,12 +51,11 @@
       <item value="Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID);" />
       <item value="统一回调" />
       <item value="// Object added to the page via AddJavascriptInterface() that is used by the test Javascript to // notify back to Java if the Service Worker registration was successful." />
-      <item value="/** * Systrace stub that mostly does nothing but delegates to Trace for beginning/ending sections. The * internal version of this file has not been opensourced yet. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
