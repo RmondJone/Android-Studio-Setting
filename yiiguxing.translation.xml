@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="An identifier for this notification unique within your * application." />
       <item value="is Terminated" />
       <item value="Subscriber class com.rmondjone.lockscreen.NotificationService and its super classes have no public methods with the @Subscribe annotation" />
       <item value="startForeground from pid=6126, uid=10878 requires android.permission.FOREGROUND_SERVICE" />
       <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
       <item value="Sets whether notifications posted to this channel should display notification lights, * on devices that support that feature." />
-      <item value="An identifier for this notification unique within your * application." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
       <item value="The constructed Notification will be posted on this" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="382" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="383" />
+        <entry key="ENGLISH" value="384" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
