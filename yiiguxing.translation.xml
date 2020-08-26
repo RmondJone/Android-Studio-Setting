@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="model" />
       <item value="波点" />
       <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;." />
       <item value="天气" />
@@ -50,11 +51,10 @@
       <item value="this value is set automatically when needed." />
       <item value="Permission denial: writing to settings requires android.permission.WRITE_SETTINGS" />
       <item value="writing to settings requires android.permission.WRITE_SETTINGS" />
-      <item value="/** * A camera instance can be used to compute 3D transformations and * generate a matrix that can be applied, for instance, on a * {@link Canvas}. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
+        <entry key="CHINESE" value="389" />
         <entry key="ENGLISH" value="389" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
