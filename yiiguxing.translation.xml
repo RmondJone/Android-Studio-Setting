@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="用时" />
+      <item value="耗时" />
       <item value="model" />
       <item value="波点" />
       <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;." />
@@ -49,13 +51,11 @@
       <item value="an image format from {@link ImageFormat} or {@link PixelFormat}" />
       <item value="this is ignored, this value is set automatically when needed. */" />
       <item value="this value is set automatically when needed." />
-      <item value="Permission denial: writing to settings requires android.permission.WRITE_SETTINGS" />
-      <item value="writing to settings requires android.permission.WRITE_SETTINGS" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
