@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to resolve: com.amap.api:navi-3dmap:7.6.0" />
       <item value="Latitude" />
       <item value="Altitude" />
       <item value="加油站" />
@@ -50,12 +51,11 @@
       <item value="/** * Returns the rotation of the screen from its &quot;natural&quot; orientation. * The returned value may be {@link Surface#ROTATION_0 Surface.ROTATION_0} * (no rotation), {@link Surface#ROTATION_90 Surface.ROTATION_90}, * {@link Surface#ROTATION_180 Surface.ROTATION_180}, or * {@link Surface#ROTATION_270 Surface.ROTATION_270}. For * example, if a device has a naturally tall screen, and the user has * turned it on its side to go into a landscape orientation, the value * returned here may be either {@link Surface#ROTATION_90 Surface.ROTATION_90} * or {@link Surface#ROTATION_270 Surface.ROTATION_270} depending on * the direction it was turned. The angle is the rotation of the drawn * graphics on the screen, which is the opposite direction of the physical * rotation of the device. For example, if the device is rotated 90 * degrees counter-clockwise, to compensate rendering will be rotated by * 90 degrees clockwise and thus the returned value here will be * {@link Surface#ROTATION_90 Surface.ROTATION_90}. */" />
       <item value="set display orientation failed" />
       <item value="Test if the supplied orientation is in landscape." />
-      <item value="* &lt;p&gt;The available stream configurations that this * camera device supports; also includes the minimum frame durations * and the stall durations for each format/size combination.&lt;/p&gt; * &lt;p&gt;All camera devices will support sensor maximum resolution (defined by * {@link CameraCharacteristics#SENSOR_INFO_ACTIVE_ARRAY_SIZE android.sensor.info.activeArraySize}) for the JPEG format.&lt;/p&gt; * &lt;p&gt;For a given use case, the actual maximum supported resolution * may be lower than what is listed here, depending on the destination * Surface for the image data. For example, for recording video, * the video encoder chosen may have a maximum size limit (e.g. 1080p) * smaller than what the camera (e.g. maximum resolution is 3264x2448) * can provide.&lt;/p&gt; * &lt;p&gt;Please reference the documentation for the image data destination to * check if it limits the maximum size for image data.&lt;/p&gt; * &lt;p&gt;The following table describes the minimum required output stream * configurations based on the hardware level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
-        <entry key="ENGLISH" value="395" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
