@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="记录" />
       <item value="Suffix" />
       <item value="Para" />
       <item value="have Para" />
@@ -50,12 +51,11 @@
       <item value="if rotation value is invalid." />
       <item value="默认" />
       <item value="If using preview allocations, don't allow preview size changes" />
-      <item value="If you are trying to bundle for an out-of-tree platform, it may not be installed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="402" />
+        <entry key="ENGLISH" value="403" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
