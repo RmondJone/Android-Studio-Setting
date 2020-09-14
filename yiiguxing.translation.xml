@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="记录" />
-      <item value="Suffix" />
       <item value="Para" />
+      <item value="Suffix" />
+      <item value="记录" />
       <item value="have Para" />
       <item value="参数" />
       <item value="pramas" />
@@ -54,13 +54,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="404" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
       </map>
     </option>
   </component>
