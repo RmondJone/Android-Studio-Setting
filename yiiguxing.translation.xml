@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compressed data, so row and pixel strides are 0. To uncompress, use" />
       <item value="The maximum number of images the user will want to * access simultaneously. This should be as small as possible to * limit memory use. Once maxImages Images are obtained by the * user, one of them has to be released before a new Image will * become available for access through * {@link #acquireLatestImage()} or {@link #acquireNextImage()}. * Must be greater than 0." />
       <item value="acquire Latest Image" />
       <item value="Illegal callback invocation from native module. This callback type only permits a single invocation from native code." />
@@ -50,12 +51,11 @@
       <item value="address" />
       <item value="Translates a string into {@code application/x-www-form-urlencoded} * format using a specific encoding scheme. This method uses the * supplied encoding scheme to obtain the bytes for unsafe * characters." />
       <item value="Can only use lower 16 bits for requestCode" />
-      <item value="For example, suppose the natural orientation of the device is * portrait. The device is rotated 270 degrees clockwise, so the device * orientation is 270. Suppose a back-facing camera sensor is mounted in * landscape and the top side of the camera sensor is aligned with the * right edge of the display in natural orientation. So the camera * orientation is 90. The rotation should be set to 0 (270 + 90)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
