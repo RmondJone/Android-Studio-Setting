@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieve the current decor view, but only if it has already been created; * otherwise returns null." />
       <item value="Creates a new bitmap, scaled from an existing bitmap, when possible. If the * specified width and height are the same as the current width and height of * the source bitmap, the source bitmap is returned and no new bitmap is * created." />
       <item value="Compressed data, so row and pixel strides are 0. To uncompress, use" />
       <item value="The maximum number of images the user will want to * access simultaneously. This should be as small as possible to * limit memory use. Once maxImages Images are obtained by the * user, one of them has to be released before a new Image will * become available for access through * {@link #acquireLatestImage()} or {@link #acquireNextImage()}. * Must be greater than 0." />
@@ -50,12 +51,11 @@
       <item value="from" />
       <item value="form" />
       <item value="address" />
-      <item value="Translates a string into {@code application/x-www-form-urlencoded} * format using a specific encoding scheme. This method uses the * supplied encoding scheme to obtain the bytes for unsafe * characters." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="411" />
+        <entry key="ENGLISH" value="412" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
