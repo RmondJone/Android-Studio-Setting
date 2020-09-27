@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A functional interface (callback) that returns true or false for the given input path should be compressed." />
       <item value="to keep alpha channel, the compress speed will be slow." />
       <item value="View manager for AndroidViews (plain React Views)." />
       <item value="Retrieve the current decor view, but only if it has already been created; * otherwise returns null." />
@@ -50,12 +51,11 @@
       <item value="Window type can not be changed after the window is added." />
       <item value="Window type: dialogs that the keyguard shows * In multiuser systems shows on all users' windows." />
       <item value="Permission android.permission.READ_EXTERNAL_STORAGE denied for package com.oiltreasure" />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
