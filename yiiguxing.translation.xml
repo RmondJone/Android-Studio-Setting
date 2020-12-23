@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="纯净" />
       <item value="on Received Error" />
       <item value="/** * Called when host activity receives destroy event (e.g. {@link Activity#onDestroy}. Only called * for the last React activity to be destroyed. */" />
       <item value="/** * Tells JavaScript to open windows automatically. This applies to the * JavaScript function {@code window.open()}. The default is {@code false}. * * @param flag {@code true} if JavaScript can open windows automatically */" />
@@ -50,12 +51,11 @@
       <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
       <item value="The constructed Notification will be posted on this" />
       <item value="通知" />
-      <item value="透明" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="417" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="CHINESE" value="418" />
+        <entry key="ENGLISH" value="419" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
