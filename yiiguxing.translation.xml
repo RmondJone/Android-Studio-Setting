@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="秒" />
       <item value="纯净" />
       <item value="on Received Error" />
       <item value="/** * Called when host activity receives destroy event (e.g. {@link Activity#onDestroy}. Only called * for the last React activity to be destroyed. */" />
@@ -50,7 +51,6 @@
       <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
       <item value="The constructed Notification will be posted on this" />
-      <item value="通知" />
     </histories>
     <option name="languageScores">
       <map>
