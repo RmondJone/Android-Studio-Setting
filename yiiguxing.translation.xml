@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Received Error" />
       <item value="/** * Called when host activity receives destroy event (e.g. {@link Activity#onDestroy}. Only called * for the last React activity to be destroyed. */" />
       <item value="/** * Tells JavaScript to open windows automatically. This applies to the * JavaScript function {@code window.open()}. The default is {@code false}. * * @param flag {@code true} if JavaScript can open windows automatically */" />
       <item value="A functional interface (callback) that returns true or false for the given input path should be compressed." />
@@ -50,12 +51,11 @@
       <item value="The constructed Notification will be posted on this" />
       <item value="通知" />
       <item value="透明" />
-      <item value="Window type can not be changed after the window is added." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="417" />
+        <entry key="ENGLISH" value="418" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
