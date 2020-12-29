@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hardware Renderer" />
       <item value="Runs the callback with a new scope which gets dropped at the end" />
       <item value="秒" />
       <item value="纯净" />
@@ -50,12 +51,11 @@
       <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
       <item value="Sets whether notifications posted to this channel should display notification lights, * on devices that support that feature." />
       <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
-      <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
