@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called after security checks have been made." />
       <item value="Retrieves and removes the head (first element) of this list." />
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
       <item value="Hardware Renderer" />
@@ -50,12 +51,11 @@
       <item value="is Terminated" />
       <item value="Subscriber class com.rmondjone.lockscreen.NotificationService and its super classes have no public methods with the @Subscribe annotation" />
       <item value="startForeground from pid=6126, uid=10878 requires android.permission.FOREGROUND_SERVICE" />
-      <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="424" />
+        <entry key="ENGLISH" value="425" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
