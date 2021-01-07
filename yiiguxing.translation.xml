@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* A factory function that generates, defines and returns the proxy class given * the ClassLoader and array of interfaces." />
+      <item value="Choose a name for the proxy class to generate." />
+      <item value="How proxies are generated." />
+      <item value="* Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods." />
+      <item value="/** * Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods. * * @param methods the methods to find exceptions for, ordered by name and * signature. */" />
+      <item value="Generate the proxy directly instead of calling // through to ProxyGenerator." />
+      <item value="SecurityManager / permission checks." />
+      <item value="BEGIN Android-changed: Excluded AccessController.doPrivileged call." />
+      <item value="Look up or generate the designated proxy class." />
       <item value="Called after security checks have been made." />
       <item value="Retrieves and removes the head (first element) of this list." />
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
@@ -42,20 +51,11 @@
       <item value="耗时" />
       <item value="model" />
       <item value="波点" />
-      <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;." />
-      <item value="天气" />
-      <item value="No custom big content view required" />
-      <item value="24" />
-      <item value="No custom content view required" />
-      <item value="An identifier for this notification unique within your * application." />
-      <item value="is Terminated" />
-      <item value="Subscriber class com.rmondjone.lockscreen.NotificationService and its super classes have no public methods with the @Subscribe annotation" />
-      <item value="startForeground from pid=6126, uid=10878 requires android.permission.FOREGROUND_SERVICE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="425" />
-        <entry key="ENGLISH" value="426" />
+        <entry key="CHINESE" value="434" />
+        <entry key="ENGLISH" value="435" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
