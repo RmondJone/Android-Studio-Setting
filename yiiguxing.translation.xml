@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generate the proxy directly instead of calling // through to ProxyGenerator." />
       <item value="SecurityManager / permission checks." />
       <item value="* A factory function that generates, defines and returns the proxy class given * the ClassLoader and array of interfaces." />
       <item value="Choose a name for the proxy class to generate." />
       <item value="How proxies are generated." />
       <item value="* Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods." />
       <item value="/** * Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods. * * @param methods the methods to find exceptions for, ordered by name and * signature. */" />
-      <item value="Generate the proxy directly instead of calling // through to ProxyGenerator." />
       <item value="BEGIN Android-changed: Excluded AccessController.doPrivileged call." />
       <item value="Look up or generate the designated proxy class." />
       <item value="Called after security checks have been made." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="435" />
-        <entry key="ENGLISH" value="436" />
+        <entry key="CHINESE" value="436" />
+        <entry key="ENGLISH" value="437" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
