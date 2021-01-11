@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
       <item value="If there was an error, for any reason, tell the activity manager to stop us" />
       <item value="restore action in case it was changed" />
       <item value="(left mouse button)." />
@@ -50,12 +51,11 @@
       <item value="Failed to resolve: com.amap.api:navi-3dmap:7.6.0" />
       <item value="Latitude" />
       <item value="Altitude" />
-      <item value="加油站" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="444" />
-        <entry key="ENGLISH" value="445" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
