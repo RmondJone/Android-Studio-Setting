@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Call this when you want to know the new location. If it returns true, * the animation is not yet finished." />
+      <item value="The amount of friction applied to scrolls and flings." />
       <item value="How proxies are generated." />
       <item value="Generate the proxy directly instead of calling // through to ProxyGenerator." />
       <item value="SecurityManager / permission checks." />
@@ -49,13 +51,11 @@
       <item value="Control whether the timestamp set with {@link #setWhen(long) setWhen} is shown * in the content view." />
       <item value="用时" />
       <item value="耗时" />
-      <item value="model" />
-      <item value="波点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
