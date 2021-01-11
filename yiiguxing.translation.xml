@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when activity resume is complete (after {@link #onResume} has * been called). Applications will generally not implement this method; * it is intended for system classes to do final setup after application * resume code has run. * * &lt;p&gt;&lt;em&gt;Derived classes must call through to the super class's * implementation of this method. If they do not, an exception will be * thrown.&lt;/em&gt;&lt;/p&gt;" />
+      <item value="Push resumeArgs into the activity for consideration" />
+      <item value="handle Resume Activity" />
       <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
       <item value="If there was an error, for any reason, tell the activity manager to stop us" />
       <item value="restore action in case it was changed" />
@@ -48,14 +51,11 @@
       <item value="导航" />
       <item value="width, height, and densityDpi must be greater than 0" />
       <item value="截取屏幕" />
-      <item value="Failed to resolve: com.amap.api:navi-3dmap:7.6.0" />
-      <item value="Latitude" />
-      <item value="Altitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
