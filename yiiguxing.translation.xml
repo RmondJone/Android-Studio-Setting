@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
+      <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
+      <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
       <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
       <item value="Filter the touch event to apply security policies." />
       <item value="/** * Notifies the verifier that a given event was unhandled and the rest of the * trace for the event should be ignored. * This method should only be called if the event was previously checked by * the consistency verifier using {@link #onInputEvent} and other methods. * @param event The event. * @param nestingLevel The nesting level: 0 if called from the base class, * or 1 from a subclass. If the event was already checked by this consistency verifier * at a higher nesting level, it will not be checked again. Used to handle the situation * where a subclass dispatching method delegates to its superclass's dispatching method * and both dispatching methods call into the consistency verifier. */" />
@@ -48,14 +51,11 @@
       <item value="Suffix" />
       <item value="记录" />
       <item value="have Para" />
-      <item value="参数" />
-      <item value="pramas" />
-      <item value="Simple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="454" />
+        <entry key="ENGLISH" value="455" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
