@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Offer this request to the cache" />
       <item value="If we have a cache response too, then we're doing a conditional get." />
       <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
       <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
@@ -50,12 +51,11 @@
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
       <item value="Hardware Renderer" />
       <item value="Runs the callback with a new scope which gets dropped at the end" />
-      <item value="秒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
