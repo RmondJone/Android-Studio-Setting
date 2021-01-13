@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If we have a cache response too, then we're doing a conditional get." />
+      <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
+      <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
+      <item value="If we don't need the network, we're done." />
+      <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
       <item value="Ready async calls in the order they'll be ru" />
       <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
       <item value="Used by {@code Call#execute} to signal it is in-flight." />
@@ -46,16 +51,11 @@
       <item value="Hardware Renderer" />
       <item value="Runs the callback with a new scope which gets dropped at the end" />
       <item value="秒" />
-      <item value="纯净" />
-      <item value="on Received Error" />
-      <item value="/** * Called when host activity receives destroy event (e.g. {@link Activity#onDestroy}. Only called * for the last React activity to be destroyed. */" />
-      <item value="/** * Tells JavaScript to open windows automatically. This applies to the * JavaScript function {@code window.open()}. The default is {@code false}. * * @param flag {@code true} if JavaScript can open windows automatically */" />
-      <item value="A functional interface (callback) that returns true or false for the given input path should be compressed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
-        <entry key="ENGLISH" value="469" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
