@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
+      <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
+      <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
+      <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
+      <item value="Policy on when async requests are executed" />
       <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
       <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
       <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
@@ -46,16 +51,11 @@
       <item value="The maximum number of images the user will want to * access simultaneously. This should be as small as possible to * limit memory use. Once maxImages Images are obtained by the * user, one of them has to be released before a new Image will * become available for access through * {@link #acquireLatestImage()} or {@link #acquireNextImage()}. * Must be greater than 0." />
       <item value="acquire Latest Image" />
       <item value="Illegal callback invocation from native module. This callback type only permits a single invocation from native code." />
-      <item value="可回溯" />
-      <item value="Para" />
-      <item value="Suffix" />
-      <item value="记录" />
-      <item value="have Para" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
