@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Specifies whether parameter names and values are already URL encoded" />
+      <item value="Specifies whether parameter names and values are already URL encoded." />
       <item value="Offer this request to the cache" />
       <item value="If we have a cache response too, then we're doing a conditional get." />
       <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
@@ -49,13 +51,11 @@
       <item value="Called after security checks have been made." />
       <item value="Retrieves and removes the head (first element) of this list." />
       <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
-      <item value="Hardware Renderer" />
-      <item value="Runs the callback with a new scope which gets dropped at the end" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="476" />
+        <entry key="ENGLISH" value="477" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
