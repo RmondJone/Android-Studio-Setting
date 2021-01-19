@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Swaps the two specified elements in the specified array" />
       <item value="Specifies whether parameter names and values are already URL encoded" />
       <item value="Specifies whether parameter names and values are already URL encoded." />
       <item value="Offer this request to the cache" />
@@ -50,12 +51,11 @@
       <item value="Look up or generate the designated proxy class." />
       <item value="Called after security checks have been made." />
       <item value="Retrieves and removes the head (first element) of this list." />
-      <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="476" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
