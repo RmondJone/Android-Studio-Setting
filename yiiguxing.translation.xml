@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Called when the message queue has run out of messages and will now * wait for more. Return true to keep your idle handler active, false * to have it removed. This may be called if there are still messages * pending in the queue, but they are all scheduled to be dispatched * after the current time. */" />
       <item value="Only one Looper may be created per thread" />
       <item value="Be lenient about moving outside of buttons" />
       <item value="// Must notify autofill manager before performing the click actions to avoid scenarios where // the app has a click listener that changes the state of views the autofill service might // be interested on." />
@@ -50,12 +51,11 @@
       <item value="* A factory function that generates, defines and returns the proxy class given * the ClassLoader and array of interfaces." />
       <item value="Choose a name for the proxy class to generate." />
       <item value="* Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods." />
-      <item value="/** * Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods. * * @param methods the methods to find exceptions for, ordered by name and * signature. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="481" />
-        <entry key="ENGLISH" value="482" />
+        <entry key="CHINESE" value="482" />
+        <entry key="ENGLISH" value="483" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
