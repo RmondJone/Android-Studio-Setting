@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Be lenient about moving outside of buttons" />
       <item value="// Must notify autofill manager before performing the click actions to avoid scenarios where // the app has a click listener that changes the state of views the autofill service might // be interested on." />
       <item value="Must only be called on the looper thread or the finalizer." />
       <item value="Swaps the two specified elements in the specified array" />
@@ -50,12 +51,11 @@
       <item value="* Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods." />
       <item value="/** * Remove methods that have the same name, parameters and return type. This * computes the exceptions of each method; this is the intersection of the * exceptions of equivalent methods. * * @param methods the methods to find exceptions for, ordered by name and * signature. */" />
       <item value="BEGIN Android-changed: Excluded AccessController.doPrivileged call." />
-      <item value="Look up or generate the designated proxy class." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
