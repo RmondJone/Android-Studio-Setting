@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
       <item value="No virtual method" />
       <item value="Could not invoke UMengBridge.initUmeng" />
       <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
@@ -50,12 +51,11 @@
       <item value="The amount of friction applied to scrolls and flings." />
       <item value="How proxies are generated." />
       <item value="Generate the proxy directly instead of calling // through to ProxyGenerator." />
-      <item value="SecurityManager / permission checks." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="486" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
