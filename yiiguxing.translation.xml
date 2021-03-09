@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="/** * Called when host activity receives destroy event (e.g. {@link Activity#onDestroy}. Only called * for the last React activity to be destroyed. */" />
-      <item value="/** * Tells JavaScript to open windows automatically. This applies to the * JavaScript function {@code window.open()}. The default is {@code false}. * * @param flag {@code true} if JavaScript can open windows automatically */" />
-      <item value="A functional interface (callback) that returns true or false for the given input path should be compressed." />
-      <item value="to keep alpha channel, the compress speed will be slow." />
-      <item value="View manager for AndroidViews (plain React Views)." />
-      <item value="Retrieve the current decor view, but only if it has already been created; * otherwise returns null." />
-      <item value="Creates a new bitmap, scaled from an existing bitmap, when possible. If the * specified width and height are the same as the current width and height of * the source bitmap, the source bitmap is returned and no new bitmap is * created." />
-      <item value="Compressed data, so row and pixel strides are 0. To uncompress, use" />
-      <item value="The maximum number of images the user will want to * access simultaneously. This should be as small as possible to * limit memory use. Once maxImages Images are obtained by the * user, one of them has to be released before a new Image will * become available for access through * {@link #acquireLatestImage()} or {@link #acquireNextImage()}. * Must be greater than 0." />
-      <item value="acquire Latest Image" />
-      <item value="Illegal callback invocation from native module. This callback type only permits a single invocation from native code." />
-      <item value="可回溯" />
-      <item value="Para" />
-      <item value="Suffix" />
-      <item value="记录" />
-      <item value="have Para" />
-      <item value="参数" />
-      <item value="pramas" />
-      <item value="Simple" />
-      <item value="导航" />
-      <item value="width, height, and densityDpi must be greater than 0" />
-      <item value="截取屏幕" />
-      <item value="Failed to resolve: com.amap.api:navi-3dmap:7.6.0" />
-      <item value="Latitude" />
-      <item value="Altitude" />
-      <item value="加油站" />
-      <item value="附近" />
-      <item value="到达" />
-      <item value="Control whether the timestamp set with {@link #setWhen(long) setWhen} is shown * in the content view." />
-      <item value="用时" />
-      <item value="耗时" />
-      <item value="model" />
-      <item value="波点" />
-      <item value="the previous value associated with &lt;tt&gt;key&lt;/tt&gt;, or * &lt;tt&gt;null&lt;/tt&gt; if there was no mapping for &lt;tt&gt;key&lt;/tt&gt;. * (A &lt;tt&gt;null&lt;/tt&gt; return can also indicate that the map * previously associated &lt;tt&gt;null&lt;/tt&gt; with &lt;tt&gt;key&lt;/tt&gt;." />
-      <item value="天气" />
-      <item value="No custom big content view required" />
-      <item value="24" />
-      <item value="No custom content view required" />
-      <item value="An identifier for this notification unique within your * application." />
-      <item value="is Terminated" />
-      <item value="Subscriber class com.rmondjone.lockscreen.NotificationService and its super classes have no public methods with the @Subscribe annotation" />
-      <item value="startForeground from pid=6126, uid=10878 requires android.permission.FOREGROUND_SERVICE" />
-      <item value="Sets whether notification posted to this channel should vibrate. The vibration pattern can * be set with {@link #setVibrationPattern(long[])}." />
-      <item value="Sets whether notifications posted to this channel should display notification lights, * on devices that support that feature." />
-      <item value="Supply custom RemoteViews to use instead of the platform template in the expanded form. * * This will override the expanded layout that would otherwise be constructed by this * Builder object." />
-      <item value="Supply custom RemoteViews to use instead of the platform template in the heads up dialog. * * This will override the heads-up layout that would otherwise be constructed by this * Builder object." />
-      <item value="The constructed Notification will be posted on this" />
-      <item value="通知" />
-      <item value="透明" />
-      <item value="Window type can not be changed after the window is added." />
+      <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
+      <item value="Pausing an activity that is not the current activity, this is incorrect!" />
+      <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
+      <item value="No virtual method" />
+      <item value="Could not invoke UMengBridge.initUmeng" />
+      <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
+      <item value="/** * Called when the message queue has run out of messages and will now * wait for more. Return true to keep your idle handler active, false * to have it removed. This may be called if there are still messages * pending in the queue, but they are all scheduled to be dispatched * after the current time. */" />
+      <item value="Only one Looper may be created per thread" />
+      <item value="Be lenient about moving outside of buttons" />
+      <item value="// Must notify autofill manager before performing the click actions to avoid scenarios where // the app has a click listener that changes the state of views the autofill service might // be interested on." />
+      <item value="Must only be called on the looper thread or the finalizer." />
+      <item value="Swaps the two specified elements in the specified array" />
+      <item value="Specifies whether parameter names and values are already URL encoded" />
+      <item value="Specifies whether parameter names and values are already URL encoded." />
+      <item value="Offer this request to the cache" />
+      <item value="If we have a cache response too, then we're doing a conditional get." />
+      <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
+      <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
+      <item value="If we don't need the network, we're done." />
+      <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
+      <item value="Ready async calls in the order they'll be ru" />
+      <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
+      <item value="Used by {@code Call#execute} to signal it is in-flight." />
+      <item value="Returns the number of running calls that share a host with" />
+      <item value="Encodes HTTP requests and decodes HTTP responses" />
+      <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
+      <item value="Connection is upgrading, but we need to ensure interceptors see a non-null response body." />
+      <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
+      <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
+      <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
+      <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
+      <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
+      <item value="Policy on when async requests are executed" />
+      <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
+      <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
+      <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
+      <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
+      <item value="Filter the touch event to apply security policies." />
+      <item value="/** * Notifies the verifier that a given event was unhandled and the rest of the * trace for the event should be ignored. * This method should only be called if the event was previously checked by * the consistency verifier using {@link #onInputEvent} and other methods. * @param event The event. * @param nestingLevel The nesting level: 0 if called from the base class, * or 1 from a subclass. If the event was already checked by this consistency verifier * at a higher nesting level, it will not be checked again. Used to handle the situation * where a subclass dispatching method delegates to its superclass's dispatching method * and both dispatching methods call into the consistency verifier. */" />
+      <item value="Called when activity resume is complete (after {@link #onResume} has * been called). Applications will generally not implement this method; * it is intended for system classes to do final setup after application * resume code has run. * * &lt;p&gt;&lt;em&gt;Derived classes must call through to the super class's * implementation of this method. If they do not, an exception will be * thrown.&lt;/em&gt;&lt;/p&gt;" />
+      <item value="Push resumeArgs into the activity for consideration" />
+      <item value="handle Resume Activity" />
+      <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
+      <item value="If there was an error, for any reason, tell the activity manager to stop us" />
+      <item value="restore action in case it was changed" />
+      <item value="(left mouse button)." />
+      <item value="First touch target in the linked list of touch targets." />
+      <item value="@return Return true to steal motion events from the children and have * them dispatched to this ViewGroup through onTouchEvent(). * The current target will receive an ACTION_CANCEL event, and no further * messages will be delivered here" />
+      <item value="* Call this when you want to know the new location. If it returns true, * the animation is not yet finished." />
+      <item value="The amount of friction applied to scrolls and flings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
