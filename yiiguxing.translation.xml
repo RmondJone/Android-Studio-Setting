@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceed" />
       <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
       <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
       <item value="Pausing an activity that is not the current activity, this is incorrect!" />
@@ -50,7 +51,6 @@
       <item value="(left mouse button)." />
       <item value="First touch target in the linked list of touch targets." />
       <item value="@return Return true to steal motion events from the children and have * them dispatched to this ViewGroup through onTouchEvent(). * The current target will receive an ACTION_CANCEL event, and no further * messages will be delivered here" />
-      <item value="* Call this when you want to know the new location. If it returns true, * the animation is not yet finished." />
     </histories>
     <option name="languageScores">
       <map>
