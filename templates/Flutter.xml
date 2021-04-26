@@ -10,6 +10,10 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="stless" value="import 'package:flutter/cupertino.dart';&#10;&#10;class $NAME$ extends StatelessWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateless widget" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
   <template name="fc" value="/// 注释：$c$&#10;/// 时间：$a$ $b$&#10;/// 作者：郭翰林 " toReformat="false" toShortenFQNames="true">
     <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="a" expression="date()" defaultValue="" alwaysStopAt="true" />
