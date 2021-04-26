@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="opaque" />
       <item value="Unimplemented handling of missing static target" />
       <item value="The default value of an optional parameter must be constant." />
       <item value="date Bean." />
@@ -53,7 +54,6 @@
       <item value="handle Resume Activity" />
       <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
       <item value="If there was an error, for any reason, tell the activity manager to stop us" />
-      <item value="restore action in case it was changed" />
     </histories>
     <option name="languageScores">
       <map>
