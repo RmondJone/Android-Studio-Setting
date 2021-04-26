@@ -10,4 +10,12 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="fc" value="/// 注释：$c$&#10;/// 时间：$a$ $b$&#10;/// 作者：郭翰林 " toReformat="false" toShortenFQNames="true">
+    <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="a" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="b" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
