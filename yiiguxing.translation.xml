@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="build Transitions" />
+      <item value="barrier" />
       <item value="opaque" />
       <item value="Unimplemented handling of missing static target" />
       <item value="The default value of an optional parameter must be constant." />
@@ -52,8 +54,6 @@
       <item value="Called when activity resume is complete (after {@link #onResume} has * been called). Applications will generally not implement this method; * it is intended for system classes to do final setup after application * resume code has run. * * &lt;p&gt;&lt;em&gt;Derived classes must call through to the super class's * implementation of this method. If they do not, an exception will be * thrown.&lt;/em&gt;&lt;/p&gt;" />
       <item value="Push resumeArgs into the activity for consideration" />
       <item value="handle Resume Activity" />
-      <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
-      <item value="If there was an error, for any reason, tell the activity manager to stop us" />
     </histories>
     <option name="languageScores">
       <map>
