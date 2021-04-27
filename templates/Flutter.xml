@@ -22,7 +22,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="jt" value="()=&gt;{}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="jt" value="()=&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
     </context>
