@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Failed assertion: boolean expression must not be null" />
       <item value="Vertical viewport was given unbounded height" />
       <item value="PopupTransAnimationStatee4777(ticker active) was disposed with an active Ticker." />
       <item value="基点&#10;" />
@@ -53,7 +54,6 @@
       <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
       <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
       <item value="Filter the touch event to apply security policies." />
-      <item value="/** * Notifies the verifier that a given event was unhandled and the rest of the * trace for the event should be ignored. * This method should only be called if the event was previously checked by * the consistency verifier using {@link #onInputEvent} and other methods. * @param event The event. * @param nestingLevel The nesting level: 0 if called from the base class, * or 1 from a subclass. If the event was already checked by this consistency verifier * at a higher nesting level, it will not be checked again. Used to handle the situation * where a subclass dispatching method delegates to its superclass's dispatching method * and both dispatching methods call into the consistency verifier. */" />
     </histories>
     <option name="languageScores">
       <map>
