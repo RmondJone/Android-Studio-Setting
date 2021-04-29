@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="tsx" type="JavaScript" />
+      <mapping pattern="IUserService" type="CLASS" />
       <mapping ext="ts" type="JavaScript" />
-      <mapping ext="bundle" type="PLAIN_TEXT" />
+      <mapping ext="tsx" type="JavaScript" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="bundle" type="PLAIN_TEXT" />
       <removed_mapping ext="tsx" approved="true" type="JAVA" />
     </extensionMap>
   </component>
