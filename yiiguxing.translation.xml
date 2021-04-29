@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Declare repository providing the artifact" />
       <item value="Failed assertion: boolean expression must not be null" />
       <item value="Vertical viewport was given unbounded height" />
       <item value="PopupTransAnimationStatee4777(ticker active) was disposed with an active Ticker." />
@@ -53,7 +54,6 @@
       <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
       <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
       <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
-      <item value="Filter the touch event to apply security policies." />
     </histories>
     <option name="languageScores">
       <map>
