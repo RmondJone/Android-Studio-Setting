@@ -4,7 +4,7 @@
     <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="7890" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
-    <option name="PROXY_EXCEPTIONS" value="maven.carzone365.com" />
+    <option name="PROXY_EXCEPTIONS" value="*.carzone365.com" />
     <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="http://127.0.0.1:8090/proxy.pac" />
   </component>
