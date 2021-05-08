@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="转账" />
       <item value="Not using buildInfo properties file for this build." />
       <item value="[Fatal Error] vivo-push-2.9.0.pom:2:10: 已经看到 doctype" />
       <item value="A RenderFlex overflowed by 9.1 pixels on the bottom." />
@@ -53,7 +54,6 @@
       <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
       <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
       <item value="Policy on when async requests are executed" />
-      <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
     </histories>
     <option name="languageScores">
       <map>
