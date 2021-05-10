@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Exact" />
       <item value="The specified child already has a parent" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first" />
       <item value="转账" />
@@ -53,7 +54,6 @@
       <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
       <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
       <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
-      <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
     </histories>
     <option name="languageScores">
       <map>
