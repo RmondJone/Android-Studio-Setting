@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="群聊" />
+      <item value="qun" />
       <item value="Exact" />
       <item value="The specified child already has a parent" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first" />
@@ -52,8 +54,6 @@
       <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
       <item value="Connection is upgrading, but we need to ensure interceptors see a non-null response body." />
       <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
-      <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
-      <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
     </histories>
     <option name="languageScores">
       <map>
