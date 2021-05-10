@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="企业" />
+      <item value="qi" />
       <item value="群聊" />
       <item value="qun" />
       <item value="Exact" />
@@ -52,8 +54,6 @@
       <item value="Returns the number of running calls that share a host with" />
       <item value="Encodes HTTP requests and decodes HTTP responses" />
       <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
-      <item value="Connection is upgrading, but we need to ensure interceptors see a non-null response body." />
-      <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
     </histories>
     <option name="languageScores">
       <map>
