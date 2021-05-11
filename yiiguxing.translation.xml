@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="反馈" />
       <item value="企业" />
       <item value="qi" />
       <item value="群聊" />
@@ -53,7 +54,6 @@
       <item value="Used by {@code Call#execute} to signal it is in-flight." />
       <item value="Returns the number of running calls that share a host with" />
       <item value="Encodes HTTP requests and decodes HTTP responses" />
-      <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620265315320" />
+    <option name="lastTrimTime" value="1620703130048" />
   </component>
 </application>
