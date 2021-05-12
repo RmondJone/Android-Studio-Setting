@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="must not be nullntat" />
+      <item value="java.lang.IllegalStateException: EMClient.getInstance().c…Util.getHuanxinGroupId()) must not be nullntat com.twl.qichechaoren_business.messagecenter.view.MessageCenterPageFragment" />
       <item value="反馈" />
       <item value="企业" />
       <item value="qi" />
@@ -52,8 +54,6 @@
       <item value="Ready async calls in the order they'll be ru" />
       <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
       <item value="Used by {@code Call#execute} to signal it is in-flight." />
-      <item value="Returns the number of running calls that share a host with" />
-      <item value="Encodes HTTP requests and decodes HTTP responses" />
     </histories>
     <option name="languageScores">
       <map>
