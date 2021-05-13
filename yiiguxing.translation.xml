@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Cannot invoke observe on a background thread" />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="must not be null" />
       <item value="must not be nullntat" />
@@ -53,7 +54,6 @@
       <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
       <item value="If we don't need the network, we're done." />
       <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
-      <item value="Ready async calls in the order they'll be ru" />
     </histories>
     <option name="languageScores">
       <map>
