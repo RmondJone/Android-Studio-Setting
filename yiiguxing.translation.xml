@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Inserts an element into the list at the specified" />
       <item value="消息通知" />
       <item value="消息" />
       <item value="Number Format Exception" />
@@ -53,7 +54,6 @@
       <item value="Specifies whether parameter names and values are already URL encoded" />
       <item value="Specifies whether parameter names and values are already URL encoded." />
       <item value="Offer this request to the cache" />
-      <item value="If we have a cache response too, then we're doing a conditional get." />
     </histories>
     <option name="languageScores">
       <map>
