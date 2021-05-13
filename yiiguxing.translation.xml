@@ -4,12 +4,12 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Cannot invoke observe on a background thread" />
       <item value="Inserts an element into the list at the specified" />
       <item value="消息通知" />
       <item value="消息" />
       <item value="Number Format Exception" />
       <item value="java.lang.NumberFormatException: Expected an int but was" />
-      <item value="Cannot invoke observe on a background thread" />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="must not be null" />
       <item value="must not be nullntat" />
