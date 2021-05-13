@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="消息通知" />
+      <item value="消息" />
       <item value="Number Format Exception" />
       <item value="java.lang.NumberFormatException: Expected an int but was" />
       <item value="Cannot invoke observe on a background thread" />
@@ -52,8 +54,6 @@
       <item value="Specifies whether parameter names and values are already URL encoded." />
       <item value="Offer this request to the cache" />
       <item value="If we have a cache response too, then we're doing a conditional get." />
-      <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
-      <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
     </histories>
     <option name="languageScores">
       <map>
