@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="placeholder" />
       <item value="Delivered" />
       <item value="Cannot invoke observe on a background thread" />
       <item value="Inserts an element into the list at the specified" />
@@ -53,7 +54,6 @@
       <item value="Must only be called on the looper thread or the finalizer." />
       <item value="Swaps the two specified elements in the specified array" />
       <item value="Specifies whether parameter names and values are already URL encoded" />
-      <item value="Specifies whether parameter names and values are already URL encoded." />
     </histories>
     <option name="languageScores">
       <map>
