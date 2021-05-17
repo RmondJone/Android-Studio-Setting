@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="剩余" />
       <item value="监听" />
       <item value="placeholder" />
       <item value="Delivered" />
@@ -53,7 +54,6 @@
       <item value="Be lenient about moving outside of buttons" />
       <item value="// Must notify autofill manager before performing the click actions to avoid scenarios where // the app has a click listener that changes the state of views the autofill service might // be interested on." />
       <item value="Must only be called on the looper thread or the finalizer." />
-      <item value="Swaps the two specified elements in the specified array" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620703130048" />
+    <option name="lastTrimTime" value="1621245762555" />
   </component>
 </application>
