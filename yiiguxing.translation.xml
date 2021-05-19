@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="The color is dark and will require a light text color to achieve readable" />
+      <item value="The brightness of the top status bar icons." />
+      <item value="Only honored in Android version M and greater." />
+      <item value="A RenderFlex overflowed by 60 pixels on the right." />
       <item value="disturb" />
       <item value="勿扰" />
       <item value="已读" />
@@ -50,10 +54,6 @@
       <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
       <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
       <item value="Pausing an activity that is not the current activity, this is incorrect!" />
-      <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
-      <item value="No virtual method" />
-      <item value="Could not invoke UMengBridge.initUmeng" />
-      <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
     </histories>
     <option name="languageScores">
       <map>
