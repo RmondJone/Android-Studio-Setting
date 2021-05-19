@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="4085" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="disturb" />
+      <item value="勿扰" />
       <item value="已读" />
       <item value="End of input at character 0 of" />
       <item value="汇款&#10;" />
@@ -52,8 +54,6 @@
       <item value="No virtual method" />
       <item value="Could not invoke UMengBridge.initUmeng" />
       <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
-      <item value="/** * Called when the message queue has run out of messages and will now * wait for more. Return true to keep your idle handler active, false * to have it removed. This may be called if there are still messages * pending in the queue, but they are all scheduled to be dispatched * after the current time. */" />
-      <item value="Only one Looper may be created per thread" />
     </histories>
     <option name="languageScores">
       <map>
