@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="EMPushHelper is not registered, abort token upload action" />
       <item value="appId or appKey can't be empty when enable MI push" />
       <item value="No implementation found for void com.hyphenate.chat.adapter.EMAChatConfig.nativeLogE" />
       <item value="java.lang.Unsatisfied Link Erro" />
@@ -53,7 +54,6 @@
       <item value="opaque" />
       <item value="Unimplemented handling of missing static target" />
       <item value="The default value of an optional parameter must be constant." />
-      <item value="date Bean." />
     </histories>
     <option name="languageScores">
       <map>
