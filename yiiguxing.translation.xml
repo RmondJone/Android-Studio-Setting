@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
       <item value="Absolute path are not supported when setting an output file name" />
       <item value="No signature of method" />
       <item value="Val cannot be reassigned" />
@@ -53,7 +54,6 @@
       <item value="PopupTransAnimationStatee4777(ticker active) was disposed with an active Ticker." />
       <item value="基点&#10;" />
       <item value="build Transitions" />
-      <item value="barrier" />
     </histories>
     <option name="languageScores">
       <map>
