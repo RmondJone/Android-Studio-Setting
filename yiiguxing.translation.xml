@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="Absolute path are not supported when setting an output file name" />
+      <item value="No signature of method" />
       <item value="Val cannot be reassigned" />
       <item value="EMPushHelper is not registered, abort token upload action" />
       <item value="appId or appKey can't be empty when enable MI push" />
@@ -52,8 +54,6 @@
       <item value="基点&#10;" />
       <item value="build Transitions" />
       <item value="barrier" />
-      <item value="opaque" />
-      <item value="Unimplemented handling of missing static target" />
     </histories>
     <option name="languageScores">
       <map>
