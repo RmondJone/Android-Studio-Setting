@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="No implementation found for void com.hyphenate.chat.adapter.EMAChatConfig.nativeLogE" />
+      <item value="java.lang.Unsatisfied Link Erro" />
       <item value="汇款" />
       <item value="The color is dark and will require a light text color to achieve readable" />
       <item value="The brightness of the top status bar icons." />
@@ -52,8 +54,6 @@
       <item value="The default value of an optional parameter must be constant." />
       <item value="date Bean." />
       <item value="exceed" />
-      <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
-      <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621245762555" />
+    <option name="lastTrimTime" value="1621840597035" />
   </component>
 </application>
