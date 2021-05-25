@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customservice" />
       <item value="should Override Url Loading" />
       <item value="exceed" />
       <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
@@ -50,7 +51,6 @@
       <item value="If there was an error, for any reason, tell the activity manager to stop us" />
       <item value="restore action in case it was changed" />
       <item value="(left mouse button)." />
-      <item value="First touch target in the linked list of touch targets." />
     </histories>
     <option name="languageScores">
       <map>
