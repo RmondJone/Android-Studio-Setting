@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="Program type already present: com.alibaba.android.arouter.routes.ARouterGroupim" />
       <item value="Immersive" />
       <item value="Program type already present" />
       <item value="Error while merging dex archives" />
@@ -53,7 +54,6 @@
       <item value="The specified child already has a parent" />
       <item value="The specified child already has a parent. You must call removeView() on the child's parent first" />
       <item value="转账" />
-      <item value="Not using buildInfo properties file for this build." />
     </histories>
     <option name="languageScores">
       <map>
