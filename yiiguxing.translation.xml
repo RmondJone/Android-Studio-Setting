@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="307" />
     <histories>
       <item value="signature authentication fail!" />
+      <item value="r Groupim" />
+      <item value="Program type already present" />
       <item value="bundle Lib Res Debug" />
       <item value="立减" />
       <item value="咯见" />
@@ -52,8 +54,6 @@
       <item value="Not using buildInfo properties file for this build." />
       <item value="[Fatal Error] vivo-push-2.9.0.pom:2:10: 已经看到 doctype" />
       <item value="A RenderFlex overflowed by 9.1 pixels on the bottom." />
-      <item value="Declare repository providing the artifact" />
-      <item value="Failed assertion: boolean expression must not be null" />
     </histories>
     <option name="languageScores">
       <map>
