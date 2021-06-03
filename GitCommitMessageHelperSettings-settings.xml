@@ -1,0 +1,57 @@
+<application>
+  <component name="GitCommitMessageHelperSettings">
+    <option name="dateSettings">
+      <DataSettings>
+        <option name="template" value="#if($type)${type}#end#if($scope)(${scope})#end: #if($subject)${subject}#end&#10;#if($body)${newline}${newline}${body}#end&#10;#if($changes)${newline}${newline}BREAKING CHANGE: ${changes}#end&#10;#if($closes)${newline}${newline}Closes ${closes}#end&#10;" />
+        <option name="typeAliases">
+          <list>
+            <TypeAlias>
+              <option name="title" value="feature" />
+              <option name="description" value="新的功能点、新的需求" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="fix" />
+              <option name="description" value="修复的Bug:现网发散Bug、测试阶段的Bug、验收阶段的Bug" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="docs" />
+              <option name="description" value="只是修改了文档:注释、README.md等" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="style" />
+              <option name="description" value="不影响代码功能的修改:CSS样式、代码格式化等" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="refactor" />
+              <option name="description" value="开发自测过程中遗漏的逻辑" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="perf" />
+              <option name="description" value="代码更改可以提高性能" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="test" />
+              <option name="description" value="添加缺失测试或更正现有测试" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="build" />
+              <option name="description" value="影响构建系统或外部依赖项的更改:build.gradle、package.json、Podfile等" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="ci" />
+              <option name="description" value="我们的CI配置文件和脚本的更改:Jenkinsfile等" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="revert" />
+              <option name="description" value="代码回退提交更改" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="chore" />
+              <option name="description" value="除以上所有类型之外的提交更改" />
+            </TypeAlias>
+          </list>
+        </option>
+      </DataSettings>
+    </option>
+  </component>
+</application>
