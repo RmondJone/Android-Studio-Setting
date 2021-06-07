@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="IUserService" type="CLASS" />
+      <mapping ext="webp" type="Image" />
       <mapping ext="ts" type="JavaScript" />
       <mapping ext="tsx" type="JavaScript" />
       <mapping ext="md" type="PLAIN_TEXT" />
