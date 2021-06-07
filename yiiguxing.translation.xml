@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="4742" />
     <option name="newTranslationDialogY" value="307" />
     <histories>
+      <item value="直发&#10;&#10;&#10;" />
+      <item value="厂家&#10;&#10;" />
+      <item value="厂家直发&#10;" />
+      <item value="厂家" />
       <item value="Scale" />
       <item value="decode" />
       <item value="ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface." />
@@ -50,10 +54,6 @@
       <item value="java.lang.IllegalStateException: EMClient.getInstance().c…Util.getHuanxinGroupId()) must not be nullntat com.twl.qichechaoren_business.messagecenter.view.MessageCenterPageFragment" />
       <item value="反馈" />
       <item value="企业" />
-      <item value="qi" />
-      <item value="群聊" />
-      <item value="qun" />
-      <item value="Exact" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622457715869" />
+    <option name="lastTrimTime" value="1623056339391" />
   </component>
 </application>
