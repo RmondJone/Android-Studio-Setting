@@ -1,59 +1,56 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
-    <option name="newTranslationDialogX" value="4742" />
-    <option name="newTranslationDialogY" value="307" />
     <histories>
-      <item value="直发&#10;&#10;&#10;" />
-      <item value="厂家&#10;&#10;" />
-      <item value="厂家直发&#10;" />
-      <item value="厂家" />
-      <item value="Scale" />
-      <item value="decode" />
-      <item value="ExifInterface got an unsupported image format file(ExifInterface supports JPEG and some RAW image formats only) or a corrupted JPEG file to ExifInterface." />
-      <item value="signature authentication fail!" />
-      <item value="Program type already present: com.alibaba.android.arouter.routes.ARouterGroupim" />
-      <item value="Immersive" />
-      <item value="Program type already present" />
-      <item value="Error while merging dex archives" />
-      <item value="r Groupim" />
-      <item value="bundle Lib Res Debug" />
-      <item value="立减" />
-      <item value="咯见" />
-      <item value="Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project." />
-      <item value="Absolute path are not supported when setting an output file name" />
-      <item value="No signature of method" />
-      <item value="Val cannot be reassigned" />
-      <item value="EMPushHelper is not registered, abort token upload action" />
-      <item value="appId or appKey can't be empty when enable MI push" />
-      <item value="No implementation found for void com.hyphenate.chat.adapter.EMAChatConfig.nativeLogE" />
-      <item value="java.lang.Unsatisfied Link Erro" />
-      <item value="汇款" />
-      <item value="The color is dark and will require a light text color to achieve readable" />
-      <item value="The brightness of the top status bar icons." />
-      <item value="Only honored in Android version M and greater." />
-      <item value="A RenderFlex overflowed by 60 pixels on the right." />
-      <item value="disturb" />
-      <item value="勿扰" />
-      <item value="已读" />
-      <item value="End of input at character 0 of" />
-      <item value="汇款&#10;" />
-      <item value="剩余" />
-      <item value="监听" />
-      <item value="placeholder" />
-      <item value="Delivered" />
-      <item value="Cannot invoke observe on a background thread" />
-      <item value="Inserts an element into the list at the specified" />
-      <item value="消息通知" />
-      <item value="消息" />
-      <item value="Number Format Exception" />
-      <item value="java.lang.NumberFormatException: Expected an int but was" />
-      <item value="Only the original thread that created a view hierarchy can touch its views" />
-      <item value="must not be null" />
-      <item value="must not be nullntat" />
-      <item value="java.lang.IllegalStateException: EMClient.getInstance().c…Util.getHuanxinGroupId()) must not be nullntat com.twl.qichechaoren_business.messagecenter.view.MessageCenterPageFragment" />
-      <item value="反馈" />
-      <item value="企业" />
+      <item value="get Supported Pay" />
+      <item value="customservice" />
+      <item value="should Override Url Loading" />
+      <item value="exceed" />
+      <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
+      <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
+      <item value="Pausing an activity that is not the current activity, this is incorrect!" />
+      <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
+      <item value="No virtual method" />
+      <item value="Could not invoke UMengBridge.initUmeng" />
+      <item value="Executes the given command at some time in the future. The command * may execute in a new thread, in a pooled thread, or in the calling * thread, at the discretion of the {@code Executor} implementation." />
+      <item value="/** * Called when the message queue has run out of messages and will now * wait for more. Return true to keep your idle handler active, false * to have it removed. This may be called if there are still messages * pending in the queue, but they are all scheduled to be dispatched * after the current time. */" />
+      <item value="Only one Looper may be created per thread" />
+      <item value="Be lenient about moving outside of buttons" />
+      <item value="// Must notify autofill manager before performing the click actions to avoid scenarios where // the app has a click listener that changes the state of views the autofill service might // be interested on." />
+      <item value="Must only be called on the looper thread or the finalizer." />
+      <item value="Swaps the two specified elements in the specified array" />
+      <item value="Specifies whether parameter names and values are already URL encoded" />
+      <item value="Specifies whether parameter names and values are already URL encoded." />
+      <item value="Offer this request to the cache" />
+      <item value="If we have a cache response too, then we're doing a conditional get." />
+      <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
+      <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
+      <item value="If we don't need the network, we're done." />
+      <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
+      <item value="Ready async calls in the order they'll be ru" />
+      <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
+      <item value="Used by {@code Call#execute} to signal it is in-flight." />
+      <item value="Returns the number of running calls that share a host with" />
+      <item value="Encodes HTTP requests and decodes HTTP responses" />
+      <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
+      <item value="Connection is upgrading, but we need to ensure interceptors see a non-null response body." />
+      <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
+      <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
+      <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
+      <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
+      <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
+      <item value="Policy on when async requests are executed" />
+      <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
+      <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
+      <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
+      <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
+      <item value="Filter the touch event to apply security policies." />
+      <item value="/** * Notifies the verifier that a given event was unhandled and the rest of the * trace for the event should be ignored. * This method should only be called if the event was previously checked by * the consistency verifier using {@link #onInputEvent} and other methods. * @param event The event. * @param nestingLevel The nesting level: 0 if called from the base class, * or 1 from a subclass. If the event was already checked by this consistency verifier * at a higher nesting level, it will not be checked again. Used to handle the situation * where a subclass dispatching method delegates to its superclass's dispatching method * and both dispatching methods call into the consistency verifier. */" />
+      <item value="Called when activity resume is complete (after {@link #onResume} has * been called). Applications will generally not implement this method; * it is intended for system classes to do final setup after application * resume code has run. * * &lt;p&gt;&lt;em&gt;Derived classes must call through to the super class's * implementation of this method. If they do not, an exception will be * thrown.&lt;/em&gt;&lt;/p&gt;" />
+      <item value="Push resumeArgs into the activity for consideration" />
+      <item value="handle Resume Activity" />
+      <item value="Perform calling of an activity's {@link Activity#onCreate} * method. The default implementation simply calls through to that method." />
+      <item value="If there was an error, for any reason, tell the activity manager to stop us" />
+      <item value="restore action in case it was changed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,7 +64,7 @@
       </map>
     </option>
   </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1623056339391" />
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
