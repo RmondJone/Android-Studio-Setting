@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="single" value="companion object {&#10;    val instance: $A$ by lazy(mode = LazyThreadSafetyMode.SYNCHRONIZED) {&#10;        $A$()&#10;    }&#10;}" description="Kotlin DCL单例" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
