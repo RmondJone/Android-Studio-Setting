@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="筛选" />
       <item value="门店" />
       <item value="售后" />
       <item value="Channel" />
@@ -53,7 +54,6 @@
       <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
       <item value="// If intercepted, start normal event dispatch. Also if there is already // a view that is handling the gesture, do normal event dispatch." />
       <item value="* Mask for use with setFlags indicating bits used for indicating whether * this view is enabled" />
-      <item value="Filter the touch event to apply security policies." />
     </histories>
     <option name="languageScores">
       <map>
