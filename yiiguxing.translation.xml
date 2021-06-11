@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="收起" />
       <item value="单子" />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="筛选" />
@@ -53,7 +54,6 @@
       <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
       <item value="Policy on when async requests are executed" />
       <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
-      <item value="/** * Transforms a motion event into the coordinate space of a particular child view, * filters out irrelevant pointer ids, and overrides its action if necessary. * If child is null, assumes the MotionEvent will be sent to this ViewGroup instead. */" />
     </histories>
     <option name="languageScores">
       <map>
