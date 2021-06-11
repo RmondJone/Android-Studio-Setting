@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Defaults to matching platform conventions." />
+      <item value="Once you have called dispose() on a StoreSaleListViewModel, it can no longer be used." />
+      <item value="Once you have called dispose() on a StoreSaleListViewModel" />
+      <item value="A StoreSaleListViewModel was used after being disposed" />
       <item value="收起" />
       <item value="单子" />
       <item value="Incorrect use of ParentDataWidget." />
@@ -50,10 +54,6 @@
       <item value="/** * Promotes eligible calls from {@link #readyAsyncCalls} to {@link #runningAsyncCalls} and runs * them on the executor service. Must not be called with synchronization because executing calls * can call into user code." />
       <item value="/** * Bridges from application code to network code. First it builds a network request from a user * request. Then it proceeds to call the network. Finally it builds a user response from the network * response. */" />
       <item value="Attempt to enqueue this async call on {@code executorService}. This will attempt to clean up * if the executor has been shut down by reporting the call as failed." />
-      <item value="* Returns &lt;tt&gt;true&lt;/tt&gt; if and only if the current thread holds the * monitor lock on the specified object. * * &lt;p&gt;This method is designed to allow a program to assert that * the current thread already holds a specified lock: * &lt;pre&gt; * assert Thread.holdsLock(obj); * &lt;/pre&gt;" />
-      <item value="* Marks this thread as either a {@linkplain #isDaemon daemon} thread * or a user thread. The Java Virtual Machine exits when the only * threads running are all daemon threads." />
-      <item value="Policy on when async requests are executed" />
-      <item value="// If the event targets the accessibility focused view and this is it, start // normal event dispatch. Maybe a descendant is what will handle the click." />
     </histories>
     <option name="languageScores">
       <map>
