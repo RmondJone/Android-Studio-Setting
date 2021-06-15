@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="减" />
+      <item value="减少" />
+      <item value="申请" />
       <item value="unable to find directory entry in pubspec.yaml" />
       <item value="Enable" />
       <item value="Use CupertinoAlertDialog for alert dialogs. Use CupertinoPopupSurface for custom popups" />
@@ -24,7 +27,6 @@
       <item value="Chanel" />
       <item value="sho" />
       <item value="申请售后&#10;" />
-      <item value="申请" />
       <item value="get Supported Pay" />
       <item value="customservice" />
       <item value="should Override Url Loading" />
@@ -52,8 +54,6 @@
       <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
       <item value="Ready async calls in the order they'll be ru" />
       <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
-      <item value="Used by {@code Call#execute} to signal it is in-flight." />
-      <item value="Returns the number of running calls that share a host with" />
     </histories>
     <option name="languageScores">
       <map>
