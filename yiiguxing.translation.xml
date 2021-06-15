@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Use CupertinoAlertDialog for alert dialogs. Use CupertinoPopupSurface for custom popups" />
       <item value="填写" />
       <item value="填写物流" />
       <item value="Mona" />
@@ -53,7 +54,6 @@
       <item value="Returns the number of running calls that share a host with" />
       <item value="Encodes HTTP requests and decodes HTTP responses" />
       <item value="/** * Returns a modifiable list of interceptors that observe a single network request and response. * These interceptors must call {@link Interceptor.Chain#proceed} exactly once: it is an error * for a network interceptor to short-circuit or repeat a network request. */" />
-      <item value="Connection is upgrading, but we need to ensure interceptors see a non-null response body." />
     </histories>
     <option name="languageScores">
       <map>
