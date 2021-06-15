@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="unable to find directory entry in pubspec.yaml" />
       <item value="Enable" />
       <item value="Use CupertinoAlertDialog for alert dialogs. Use CupertinoPopupSurface for custom popups" />
       <item value="填写" />
@@ -53,7 +54,6 @@
       <item value="* Set a callback to be invoked each time the dispatcher becomes idle (when the number of running * calls returns to zero)." />
       <item value="Used by {@code Call#execute} to signal it is in-flight." />
       <item value="Returns the number of running calls that share a host with" />
-      <item value="Encodes HTTP requests and decodes HTTP responses" />
     </histories>
     <option name="languageScores">
       <map>
