@@ -18,6 +18,7 @@
     <variable name="b" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="DART" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
