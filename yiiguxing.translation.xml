@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="576" />
+    <option name="newTranslationDialogWidth" value="574" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="问题描述" />
+      <item value="问题" />
       <item value="退款金额" />
       <item value="退款" />
       <item value="apply" />
@@ -52,8 +54,6 @@
       <item value="Offer this request to the cache" />
       <item value="If we have a cache response too, then we're doing a conditional get." />
       <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
-      <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
-      <item value="If we don't need the network, we're done." />
     </histories>
     <option name="languageScores">
       <map>
