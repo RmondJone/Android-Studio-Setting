@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="退款金额" />
+      <item value="退款" />
       <item value="apply" />
       <item value="减" />
       <item value="减少" />
@@ -52,8 +54,6 @@
       <item value="If we're crashing on I/O or otherwise, don't leak the cache body." />
       <item value="If we're forbidden from using the network and the cache is insufficient, fail" />
       <item value="If we don't need the network, we're done." />
-      <item value="/** * Attempts to exhaust {@code source}, returning true if successful. This is useful when reading a * complete source is helpful, such as when doing so completes a cache body or frees a socket * connection for reuse. */" />
-      <item value="Ready async calls in the order they'll be ru" />
     </histories>
     <option name="languageScores">
       <map>
