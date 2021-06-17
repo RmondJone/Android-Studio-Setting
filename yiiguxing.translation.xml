@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="566" />
+    <option name="newTranslationDialogWidth" value="564" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="进度" />
       <item value="A borderRadius can only be given for a uniform Border." />
       <item value="A borderRadius can only be given for a uniform Border" />
       <item value="cannot have an unbounded width" />
@@ -22,7 +23,6 @@
       <item value="which is a [Indicator] that draws outlined dot." />
       <item value="主" />
       <item value="zhu" />
-      <item value="进度" />
       <item value="问题描述" />
       <item value="问题" />
       <item value="退款金额" />
