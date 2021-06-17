@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="newTranslationDialogWidth" value="570" />
     <histories>
+      <item value="Horizontal viewport was given unbounded height." />
+      <item value="Horizontal viewport was given unbounded height" />
       <item value="[TextDirection], which disambiguates between left-to-right horizontal content and right-to-left horizontal content." />
       <item value="indent" />
       <item value="thickness" />
@@ -50,8 +52,6 @@
       <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
       <item value="Pausing an activity that is not the current activity, this is incorrect!" />
       <item value="# The following adds the Cupertino Icons font to your application. # Use with the CupertinoIcons class for iOS style icons." />
-      <item value="No virtual method" />
-      <item value="Could not invoke UMengBridge.initUmeng" />
     </histories>
     <option name="languageScores">
       <map>
