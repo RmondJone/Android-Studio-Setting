@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="A borderRadius can only be given for a uniform Border." />
+      <item value="A borderRadius can only be given for a uniform Border" />
       <item value="cannot have an unbounded width" />
       <item value="物流" />
       <item value="填写" />
@@ -52,8 +54,6 @@
       <item value="customservice" />
       <item value="should Override Url Loading" />
       <item value="exceed" />
-      <item value="This version of Android Studio cannot open this project, please retry with Android Studio 3.6 or newer" />
-      <item value="* @param invalidateCache Whether the drawing cache for this view should be * invalidated as well. This is usually true for a full * invalidate, but may be set to false if the View's contents or * dimensions have not changed." />
     </histories>
     <option name="languageScores">
       <map>
