@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="564" />
+    <option name="newTranslationDialogWidth" value="562" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="刷新页面" />
       <item value="BoxConstraints forces an infinite width" />
       <item value="A position of indicator inside both two connectors." />
       <item value="进度" />
@@ -53,7 +54,6 @@
       <item value="sho" />
       <item value="申请售后&#10;" />
       <item value="get Supported Pay" />
-      <item value="customservice" />
     </histories>
     <option name="languageScores">
       <map>
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623721911054" />
+    <option name="lastTrimTime" value="1624243762232" />
   </component>
 </application>
