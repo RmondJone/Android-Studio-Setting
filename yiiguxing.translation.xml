@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="558" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Returns true if this string is not empty." />
+      <item value="备注" />
       <item value="物流公司" />
       <item value="物流" />
       <item value="java.lang.reflect.Invocation Target Exception" />
@@ -52,8 +54,6 @@
       <item value="门店" />
       <item value="售后" />
       <item value="Channel" />
-      <item value="Chanel" />
-      <item value="sho" />
     </histories>
     <option name="languageScores">
       <map>
