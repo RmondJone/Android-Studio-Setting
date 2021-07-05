@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="compileSdkVersion is not specified" />
       <item value="厂家直发" />
       <item value="厂家" />
       <item value="Returns true if this string is not empty." />
@@ -53,7 +54,6 @@
       <item value="单子" />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="筛选" />
-      <item value="门店" />
     </histories>
     <option name="languageScores">
       <map>
