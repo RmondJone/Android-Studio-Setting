@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="reversed" />
       <item value="More than one file was found with OS independent path 'ioktornetworksocketsSocketTimeoutException.kotlin_metadata'" />
       <item value="More than one file was found with OS independent path 'META-INFktor-http.kotlin_module'" />
       <item value="Duplicate class com.google.zxing.Binarizer found in modules core-3.3.0.jar (com.google.zxing:core:3.3.0) and zxing.jar (cn.yipianfengye.android:zxing-library:2.1)" />
@@ -53,7 +54,6 @@
       <item value="退款金额" />
       <item value="退款" />
       <item value="apply" />
-      <item value="减" />
     </histories>
     <option name="languageScores">
       <map>
