@@ -10,6 +10,10 @@
               <option name="description" value="新的功能点、新的需求" />
             </TypeAlias>
             <TypeAlias>
+              <option name="title" value="perfect" />
+              <option name="description" value="代码完善" />
+            </TypeAlias>
+            <TypeAlias>
               <option name="title" value="fix" />
               <option name="description" value="修复的Bug:现网发散Bug、测试阶段的Bug、验收阶段的Bug" />
             </TypeAlias>
@@ -23,7 +27,7 @@
             </TypeAlias>
             <TypeAlias>
               <option name="title" value="refactor" />
-              <option name="description" value="开发自测过程中遗漏的逻辑" />
+              <option name="description" value="代码重构" />
             </TypeAlias>
             <TypeAlias>
               <option name="title" value="perf" />
@@ -47,7 +51,11 @@
             </TypeAlias>
             <TypeAlias>
               <option name="title" value="chore" />
-              <option name="description" value="除以上所有类型之外的提交更改" />
+              <option name="description" value="构建过程或辅助工具的变动" />
+            </TypeAlias>
+            <TypeAlias>
+              <option name="title" value="other" />
+              <option name="description" value="除以上修改类型之外的改动" />
             </TypeAlias>
           </list>
         </option>
