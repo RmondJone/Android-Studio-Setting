@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogWidth" value="550" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="分类" />
+      <item value="Returns the adapter position of the last visible view. This position does not include adapter changes that were dispatched after the last layout pass. &lt;p&gt; Note that, this value is not affected by layout orientation or item order traversal. ({@link setReverseLayout(boolean)}). Views are sorted by their positions in the adapter, not in the layout. &lt;p&gt; If RecyclerView has item decorators, they will be considered in calculations as well. &lt;p&gt; LayoutManager may pre-cache some views that are not necessarily visible. Those views are ignored in this method. @return The adapter position of the last visible view or {@link RecyclerViewNO_POSITION} if there aren't any visible items. @see findLastCompletelyVisibleItemPosition() @see findFirstVisibleItemPosition()" />
+      <item value="Returns the adapter position of the last fully visible view. This position does not include adapter changes that were dispatched after the last layout pass. &lt;p&gt; Note that bounds check is only performed in the current orientation. That means, if LayoutManager is horizontal, it will only check the view's left and right edges. @return The adapter position of the last fully visible view or {@link RecyclerViewNO_POSITION} if there aren't any visible items. @see findLastVisibleItemPosition() @see findFirstCompletelyVisibleItemPosition()" />
       <item value="筛选" />
       <item value="阴影" />
       <item value="reversed" />
@@ -51,9 +54,6 @@
       <item value="which is a [Indicator] that draws outlined dot." />
       <item value="主" />
       <item value="zhu" />
-      <item value="问题描述" />
-      <item value="问题" />
-      <item value="退款金额" />
     </histories>
     <option name="languageScores">
       <map>
