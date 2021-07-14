@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Error inflating class com.twl.qichechaoren_business.search.widget.TirePropertiesFilter" />
       <item value="轮胎属性过滤" />
       <item value="轮胎属性" />
       <item value="轮胎属" />
@@ -53,7 +54,6 @@
       <item value="thickness" />
       <item value="overlap" />
       <item value="Align [TimelineTile.node] to start side." />
-      <item value="Align according to the [TimelineTile.nodePosition]." />
     </histories>
     <option name="languageScores">
       <map>
