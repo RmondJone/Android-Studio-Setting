@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="542" />
+    <option name="newTranslationDialogWidth" value="540" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="上一步" />
+      <item value="之前" />
       <item value="Recently Non Null" />
       <item value="Smooth scroll to the specified adapter position." />
       <item value="To support smooth scrolling, you must override" />
@@ -52,8 +54,6 @@
       <item value="cannot have an unbounded width" />
       <item value="填写" />
       <item value="Horizontal viewport was given unbounded height." />
-      <item value="Horizontal viewport was given unbounded height" />
-      <item value="[TextDirection], which disambiguates between left-to-right horizontal content and right-to-left horizontal content." />
     </histories>
     <option name="languageScores">
       <map>
