@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Recently Non Null" />
       <item value="Smooth scroll to the specified adapter position." />
       <item value="To support smooth scrolling, you must override" />
       <item value="hen set to true, layouts from end to start." />
@@ -53,7 +54,6 @@
       <item value="Horizontal viewport was given unbounded height." />
       <item value="Horizontal viewport was given unbounded height" />
       <item value="[TextDirection], which disambiguates between left-to-right horizontal content and right-to-left horizontal content." />
-      <item value="indent" />
     </histories>
     <option name="languageScores">
       <map>
