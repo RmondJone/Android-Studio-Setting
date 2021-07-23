@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Appending, but so was loaded failed!" />
       <item value="get cart itemcount" />
       <item value="不足&#10;" />
       <item value="不足" />
@@ -53,7 +54,6 @@
       <item value="compileSdkVersion is not specified" />
       <item value="厂家直发" />
       <item value="厂家" />
-      <item value="Returns true if this string is not empty." />
     </histories>
     <option name="languageScores">
       <map>
