@@ -4,6 +4,14 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="get Face Image By Face Token" />
+      <item value="RECOGNITION TRACK MISSING" />
+      <item value="RECOGNITION RETRY EXPIRED" />
+      <item value="RECOGNITION RETRY" />
+      <item value="RECOGNITION PASS" />
+      <item value="Face Pass Recognition Result" />
+      <item value="Recognize" />
+      <item value="smile" />
       <item value="Program type already present" />
       <item value="Program type already present: com.ncarzone.autoparts.BuildConfig" />
       <item value="库存缺少" />
@@ -46,14 +54,6 @@
       <item value="More than one file was found with OS independent path 'META-INFktor-http.kotlin_module'" />
       <item value="Duplicate class com.google.zxing.Binarizer found in modules core-3.3.0.jar (com.google.zxing:core:3.3.0) and zxing.jar (cn.yipianfengye.android:zxing-library:2.1)" />
       <item value="t's minSdk version to at least 21," />
-      <item value="uses-sdk:minSdkVersion 19 cannot be smaller than version 21" />
-      <item value="io.github.didi.dokit:dokitx-mc:3.4.0-alpha04 configuration runtime" />
-      <item value="task Graph.when Ready" />
-      <item value="projects Evaluated" />
-      <item value="publishNonDefault is deprecated and has no effect anymore. All variants are now published" />
-      <item value="slow Method" />
-      <item value="Cannot set the value of read-only property 'group' for DefaultExternalModuleDependency{group='io.github.didi.dokit', name='dokitx', version='3.4.0-alpha04', configuration='default'} of type org.gradle.api.internal.artifacts.dependencies.DefaultExternalModuleDependency" />
-      <item value="Annotation processors must be explicitly declared now. The following dependencies on the compile classpath are found to contain annotation processor. Please add them to the annotationProcessor configuration." />
     </histories>
     <option name="languageScores">
       <map>
