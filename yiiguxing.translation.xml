@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="520" />
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="属性" />
       <item value="get Face Image By Face Token" />
       <item value="RECOGNITION TRACK MISSING" />
       <item value="RECOGNITION RETRY EXPIRED" />
@@ -53,7 +54,6 @@
       <item value="More than one file was found with OS independent path 'ioktornetworksocketsSocketTimeoutException.kotlin_metadata'" />
       <item value="More than one file was found with OS independent path 'META-INFktor-http.kotlin_module'" />
       <item value="Duplicate class com.google.zxing.Binarizer found in modules core-3.3.0.jar (com.google.zxing:core:3.3.0) and zxing.jar (cn.yipianfengye.android:zxing-library:2.1)" />
-      <item value="t's minSdk version to at least 21," />
     </histories>
     <option name="languageScores">
       <map>
