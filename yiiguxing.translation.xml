@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="java.net.SocketException: Connection reset" />
       <item value="ailed to notify project evaluation listener." />
       <item value="属性" />
       <item value="get Face Image By Face Token" />
@@ -53,7 +54,6 @@
       <item value="阴影" />
       <item value="reversed" />
       <item value="More than one file was found with OS independent path 'ioktornetworksocketsSocketTimeoutException.kotlin_metadata'" />
-      <item value="More than one file was found with OS independent path 'META-INFktor-http.kotlin_module'" />
     </histories>
     <option name="languageScores">
       <map>
