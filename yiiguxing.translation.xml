@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="Invalid value: Valid value range is empty: 4" />
       <item value="java.net.SocketException: Connection reset" />
       <item value="ailed to notify project evaluation listener." />
       <item value="属性" />
@@ -53,7 +54,6 @@
       <item value="筛选" />
       <item value="阴影" />
       <item value="reversed" />
-      <item value="More than one file was found with OS independent path 'ioktornetworksocketsSocketTimeoutException.kotlin_metadata'" />
     </histories>
     <option name="languageScores">
       <map>
