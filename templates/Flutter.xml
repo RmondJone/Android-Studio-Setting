@@ -1,7 +1,6 @@
 <templateSet group="Flutter">
   <template name="stful" value="import 'package:flutter/material.dart';&#10;&#10;class $NAME$ extends StatefulWidget {&#10;  @override&#10;  _$NAME$State createState() =&gt; _$NAME$State();&#10;}&#10;&#10;class _$NAME$State extends State&lt;$NAME$&gt; {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateful widget" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="initfulpage" value="import 'package:flutter/material.dart';&#10;import 'package:ncz_flutter_common/ncz_common_widget.dart';&#10;&#10;class $pageName$ extends StatefulWidget {&#10;  @override&#10;  State&lt;StatefulWidget&gt; createState() {&#10;    // TODO: implement createState&#10;    return $pageName$State();&#10;  }&#10;}&#10;&#10;class $pageName$State extends State&lt;$pageName$&gt; {&#10;  @override&#10;  void initState() {&#10;    // TODO: implement initState&#10;    super.initState();&#10;  }&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      appBar: MyAppBar(&#10;        centerTitle: &quot;$b$&quot;,&#10;        backImg: Icon(Icons.arrow_back_ios),&#10;      ),&#10;      body: Container(),&#10;    );&#10;  }&#10;}&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="pageName" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
@@ -12,7 +11,6 @@
   </template>
   <template name="stless" value="import 'package:flutter/cupertino.dart';&#10;&#10;class $NAME$ extends StatelessWidget {&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container($END$);&#10;  }&#10;}&#10;" description="New Stateless widget" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="fc" value="/// 注释：$c$&#10;/// 时间：$a$ $b$&#10;/// 作者：郭翰林 " description="" toReformat="false" toShortenFQNames="true">
     <variable name="c" expression="" defaultValue="" alwaysStopAt="true" />
