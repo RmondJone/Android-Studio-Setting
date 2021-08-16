@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <AndroidXmlCodeStyleSettings>
+    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
+  </AndroidXmlCodeStyleSettings>
   <codeStyleSettings language="Groovy">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
