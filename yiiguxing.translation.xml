@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="4647" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="was not upgraded to websocket This was attempt 50. Will retry in 0:00:01.600000." />
+      <item value="If you do NOT see the Flutter application running, it might have crashed. The device logs (e.g. from adb or XCode) might have more details. If you do see the Flutter application running on the device, try re-running with --host-vmservice-port to use a specific port known to be available" />
+      <item value="Connecting to the VM Service is taking longer than expected" />
       <item value="Invalid value: Valid value range is empty: 4" />
       <item value="java.net.SocketException: Connection reset" />
       <item value="ailed to notify project evaluation listener." />
@@ -51,14 +54,11 @@
       <item value="分类" />
       <item value="Returns the adapter position of the last visible view. This position does not include adapter changes that were dispatched after the last layout pass. &lt;p&gt; Note that, this value is not affected by layout orientation or item order traversal. ({@link setReverseLayout(boolean)}). Views are sorted by their positions in the adapter, not in the layout. &lt;p&gt; If RecyclerView has item decorators, they will be considered in calculations as well. &lt;p&gt; LayoutManager may pre-cache some views that are not necessarily visible. Those views are ignored in this method. @return The adapter position of the last visible view or {@link RecyclerViewNO_POSITION} if there aren't any visible items. @see findLastCompletelyVisibleItemPosition() @see findFirstVisibleItemPosition()" />
       <item value="Returns the adapter position of the last fully visible view. This position does not include adapter changes that were dispatched after the last layout pass. &lt;p&gt; Note that bounds check is only performed in the current orientation. That means, if LayoutManager is horizontal, it will only check the view's left and right edges. @return The adapter position of the last fully visible view or {@link RecyclerViewNO_POSITION} if there aren't any visible items. @see findLastVisibleItemPosition() @see findFirstCompletelyVisibleItemPosition()" />
-      <item value="筛选" />
-      <item value="阴影" />
-      <item value="reversed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="489" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627288377205" />
+    <option name="lastTrimTime" value="1644559734628" />
   </component>
 </application>
