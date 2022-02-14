@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="enable Interactive Selection" />
+      <item value="correct" />
+      <item value="autocorrect" />
+      <item value="enable Suggestions" />
       <item value="Failed assertion: line 200 pos 15: 'initialValue == null || controller == null': is not true" />
       <item value="The current string the user is editing." />
       <item value="减" />
@@ -50,15 +54,11 @@
       <item value="Recently Non Null" />
       <item value="Smooth scroll to the specified adapter position." />
       <item value="To support smooth scrolling, you must override" />
-      <item value="hen set to true, layouts from end to start." />
-      <item value="Error inflating class com.twl.qichechaoren_business.search.widget.TirePropertiesFilter" />
-      <item value="轮胎属性过滤" />
-      <item value="轮胎属性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="516" />
+        <entry key="ENGLISH" value="517" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
