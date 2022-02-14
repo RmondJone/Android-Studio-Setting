@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Failed assertion: line 200 pos 15: 'initialValue == null || controller == null': is not true" />
+      <item value="The current string the user is editing." />
       <item value="减" />
       <item value="jian" />
       <item value="less&#10;" />
@@ -52,13 +54,11 @@
       <item value="Error inflating class com.twl.qichechaoren_business.search.widget.TirePropertiesFilter" />
       <item value="轮胎属性过滤" />
       <item value="轮胎属性" />
-      <item value="轮胎属" />
-      <item value="轮胎属性筛选" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="511" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
