@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="520" />
-    <option name="newTranslationDialogX" value="4647" />
-    <option name="newTranslationDialogY" value="450" />
+    <option name="newTranslationDialogWidth" value="516" />
+    <option name="newTranslationDialogX" value="10360" />
+    <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="减" />
+      <item value="jian" />
+      <item value="less&#10;" />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded" />
       <item value="was not upgraded to websocket This was attempt 50. Will retry in 0:00:01.600000." />
@@ -31,7 +34,6 @@
       <item value="Appending, but so was loaded failed!" />
       <item value="get cart itemcount" />
       <item value="不足&#10;" />
-      <item value="减" />
       <item value="Unresolved reference: url" />
       <item value="加购" />
       <item value="架构" />
@@ -52,13 +54,11 @@
       <item value="轮胎属性" />
       <item value="轮胎属" />
       <item value="轮胎属性筛选" />
-      <item value="轮胎" />
-      <item value="分类" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="494" />
-        <entry key="ENGLISH" value="495" />
+        <entry key="CHINESE" value="511" />
+        <entry key="ENGLISH" value="511" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
