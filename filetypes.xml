@@ -4,6 +4,7 @@
       <mapping pattern="IUserService" type="CLASS" />
       <mapping ext="tsx" type="JavaScript" />
       <mapping ext="ts" type="JavaScript" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="bundle" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
