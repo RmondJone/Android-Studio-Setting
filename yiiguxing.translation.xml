@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="512" />
+    <option name="newTranslationDialogWidth" value="510" />
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="光了" />
+      <item value="关了" />
       <item value="参加" />
       <item value="参与" />
       <item value="结算" />
@@ -52,13 +54,11 @@
       <item value="warehouse" />
       <item value="null cannot be cast to non-null type android.widget.LinearLayout.LayoutParams" />
       <item value="jintai" />
-      <item value="上一步" />
-      <item value="之前" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="541" />
+        <entry key="ENGLISH" value="542" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
