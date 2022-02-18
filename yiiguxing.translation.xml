@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="{@macro flutter.widgets.shadow.scrollBehavior} [ScrollBehavior]s also provide [ScrollPhysics]. If an explicit [ScrollPhysics] is provided in [physics], it will take precedence, followed by [scrollBehavior], and then the inherited ancestor [ScrollBehavior]. The [ScrollBehavior] of the inherited [ScrollConfiguration] will be modified by default to not apply a [Scrollbar]. This is because the NestedScrollView cannot assume the configuration of the outer and inner [Scrollable] widgets, particularly whether to treat them as one scrollable, or separate and desirous of unique behaviors." />
+      <item value="A sliver that contains a single box widget. Slivers are special-purpose widgets that can be combined using a [CustomScrollView] to create custom scroll effects. A [SliverToBoxAdapter] is a basic sliver that creates a bridge back to one of the usual box-based widgets. Rather than using multiple [SliverToBoxAdapter] widgets to display multiple box widgets in a [CustomScrollView], consider using [SliverList], [SliverFixedExtentList], [SliverPrototypeExtentList], or [SliverGrid], which are more efficient because they instantiate only those children that are actually visible through the scroll view's viewport." />
+      <item value="which displays multiple box widgets in a linear array." />
+      <item value="[CustomScrollView], which displays a scrollable list of slivers. [SliverList], which displays multiple box widgets in a linear array. [SliverFixedExtentList], which displays multiple box widgets with the same main-axis extent in a linear array. [SliverPrototypeExtentList], which displays multiple box widgets with the same main-axis extent as a prototype item, in a linear array. [SliverGrid], which displays multiple box widgets in arbitrary positions." />
+      <item value="Whether to show the shadow appropriate for the [elevation] even if the content is not scrolled under the [AppBar]. Defaults to false, meaning that the [elevation] is only applied when the [AppBar] is being displayed over content that is scrolled under it. When set to true, the [elevation] is applied regardless. Ignored when [elevation] is zero." />
       <item value="Controller's length property (2) does not match the number of tabs (0) present in TabBar's tabs property" />
       <item value="结算" />
       <item value="限制" />
@@ -49,16 +54,11 @@
       <item value="Appending, but so was loaded failed!" />
       <item value="get cart itemcount" />
       <item value="不足&#10;" />
-      <item value="Unresolved reference: url" />
-      <item value="加购" />
-      <item value="架构" />
-      <item value="三角" />
-      <item value="购物车" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="562" />
-        <entry key="ENGLISH" value="563" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
