@@ -27,4 +27,11 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="providerwidget" value="return ProviderWidget&lt;$A$&gt;(&#10;  model: $B$,&#10;  builder: (context,model,child){&#10;    return Container();&#10;  },&#10;);" description="ProviderWidget模板" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
