@@ -34,4 +34,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="try" value="try {&#10;&#10;} catch (e) {&#10;  log(e.toString());&#10;}" description="try catch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
