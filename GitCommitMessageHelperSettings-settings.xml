@@ -6,7 +6,7 @@
         <option name="typeAliases">
           <list>
             <TypeAlias>
-              <option name="title" value="feature" />
+              <option name="title" value="feat" />
               <option name="description" value="新的功能点、新的需求" />
             </TypeAlias>
             <TypeAlias>
