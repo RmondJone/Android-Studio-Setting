@@ -39,4 +39,12 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="selector" value="return Selector&lt;$A$, $C$&gt;(&#10;      selector: (_, model) =&gt; model.$B$,&#10;      builder: (context, value, child) {&#10;        return Container();&#10;      },&#10;    );" description="Selector" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
