@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="502" />
+    <option name="newTranslationDialogWidth" value="500" />
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="失效" />
       <item value="满赠" />
       <item value="Release to refresh" />
       <item value="Invalid value: Valid value range is empty: 0" />
@@ -53,12 +54,11 @@
       <item value="库存缺少" />
       <item value="库存" />
       <item value="缺少" />
-      <item value="不足" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
