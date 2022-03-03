@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
+      <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true" />
       <item value="Unexpected character (at character 2)" />
       <item value="确认选择" />
       <item value="确认 " />
@@ -52,13 +54,11 @@
       <item value="属性" />
       <item value="get Face Image By Face Token" />
       <item value="RECOGNITION TRACK MISSING" />
-      <item value="RECOGNITION RETRY EXPIRED" />
-      <item value="RECOGNITION RETRY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
