@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="No MediaQuery widget ancestor found." />
       <item value="Unresolved reference: maxOrNull" />
       <item value="defined in root package" />
       <item value="Target the interpolation quality for image scaling. If not given a value, defaults to FilterQuality.low." />
@@ -53,12 +54,11 @@
       <item value="If you do NOT see the Flutter application running, it might have crashed. The device logs (e.g. from adb or XCode) might have more details. If you do see the Flutter application running on the device, try re-running with --host-vmservice-port to use a specific port known to be available" />
       <item value="Connecting to the VM Service is taking longer than expected" />
       <item value="Invalid value: Valid value range is empty: 4" />
-      <item value="java.net.SocketException: Connection reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="613" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="614" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
