@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Unresolved reference: maxOrNull" />
+      <item value="defined in root package" />
       <item value="Target the interpolation quality for image scaling. If not given a value, defaults to FilterQuality.low." />
       <item value="Will resize the image in memory to have a certain height using [ResizeImage]" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
@@ -52,13 +54,11 @@
       <item value="Connecting to the VM Service is taking longer than expected" />
       <item value="Invalid value: Valid value range is empty: 4" />
       <item value="java.net.SocketException: Connection reset" />
-      <item value="ailed to notify project evaluation listener." />
-      <item value="属性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
