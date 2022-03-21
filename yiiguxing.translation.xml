@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
+      <item value="increase this project's minSdk version to at least 22" />
+      <item value="minSdkVersion 21 cannot be smaller than version 22 declared in library" />
       <item value="url.startsWith(&quot;http&quot;) || url.startsWith(&quot;https&quot;)" />
       <item value="TWL" />
       <item value="Animating the indicator's fade-out after not arming." />
@@ -51,14 +54,11 @@
       <item value="enable Suggestions" />
       <item value="Failed assertion: line 200 pos 15: 'initialValue == null || controller == null': is not true" />
       <item value="The current string the user is editing." />
-      <item value="减" />
-      <item value="jian" />
-      <item value="less&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647312704987" />
+    <option name="lastTrimTime" value="1647830153043" />
   </component>
 </application>
