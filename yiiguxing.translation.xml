@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="Failed to authorize your Git request: internal API unreachable" />
+      <item value="[remote rejected] (pre-receive hook declined)" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
       <item value="increase this project's minSdk version to at least 22" />
       <item value="minSdkVersion 21 cannot be smaller than version 22 declared in library" />
@@ -52,13 +54,11 @@
       <item value="correct" />
       <item value="autocorrect" />
       <item value="enable Suggestions" />
-      <item value="Failed assertion: line 200 pos 15: 'initialValue == null || controller == null': is not true" />
-      <item value="The current string the user is editing." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="620" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
