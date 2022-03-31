@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="咨询" />
+      <item value="z" />
       <item value="Failed to authorize your Git request: internal API unreachable" />
       <item value="[remote rejected] (pre-receive hook declined)" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
@@ -52,13 +54,11 @@
       <item value="参与" />
       <item value="enable Interactive Selection" />
       <item value="correct" />
-      <item value="autocorrect" />
-      <item value="enable Suggestions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="630" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647830153043" />
+    <option name="lastTrimTime" value="1648707286887" />
   </component>
 </application>
