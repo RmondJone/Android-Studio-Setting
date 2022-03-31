@@ -28,4 +28,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="builder" value="open class $A$ {&#10;&#10;    open fun newBuilder(): Builder {&#10;        return Builder(this)&#10;    }&#10;&#10;    class Builder internal constructor(builder: $A$) {&#10;        fun build(){}&#10;    }&#10;}" description="Kotlin Builder模式" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
