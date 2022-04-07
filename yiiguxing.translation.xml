@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="type 'Null' is not a subtype of type 'Expression' of 'v'" />
       <item value="Parameter is invalid!" />
       <item value="过期标记" />
       <item value="过期 " />
@@ -53,12 +54,11 @@
       <item value="返券" />
       <item value="光了" />
       <item value="关了" />
-      <item value="参加" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
+        <entry key="CHINESE" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648707286887" />
+    <option name="lastTrimTime" value="1649321350561" />
   </component>
 </application>
