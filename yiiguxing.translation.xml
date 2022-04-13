@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="IS HIGH CONCURRENCY" />
       <item value="RENDER MODE ADJUST RESOLUTION" />
       <item value="模块" />
       <item value="占位" />
@@ -53,12 +54,11 @@
       <item value="Whether to show the shadow appropriate for the [elevation] even if the content is not scrolled under the [AppBar]. Defaults to false, meaning that the [elevation] is only applied when the [AppBar] is being displayed over content that is scrolled under it. When set to true, the [elevation] is applied regardless. Ignored when [elevation] is zero." />
       <item value="Controller's length property (2) does not match the number of tabs (0) present in TabBar's tabs property" />
       <item value="限制" />
-      <item value="xian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="650" />
-        <entry key="ENGLISH" value="651" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="652" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649321350561" />
+    <option name="lastTrimTime" value="1649831967289" />
   </component>
 </application>
