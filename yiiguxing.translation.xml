@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="488" />
+    <option name="newTranslationDialogWidth" value="484" />
     <option name="newTranslationDialogX" value="10360" />
     <option name="newTranslationDialogY" value="472" />
     <histories>
+      <item value="筛选" />
+      <item value="概要" />
       <item value="IS HIGH CONCURRENCY" />
       <item value="RENDER MODE ADJUST RESOLUTION" />
       <item value="模块" />
@@ -52,13 +54,11 @@
       <item value="which displays multiple box widgets in a linear array." />
       <item value="[CustomScrollView], which displays a scrollable list of slivers. [SliverList], which displays multiple box widgets in a linear array. [SliverFixedExtentList], which displays multiple box widgets with the same main-axis extent in a linear array. [SliverPrototypeExtentList], which displays multiple box widgets with the same main-axis extent as a prototype item, in a linear array. [SliverGrid], which displays multiple box widgets in arbitrary positions." />
       <item value="Whether to show the shadow appropriate for the [elevation] even if the content is not scrolled under the [AppBar]. Defaults to false, meaning that the [elevation] is only applied when the [AppBar] is being displayed over content that is scrolled under it. When set to true, the [elevation] is applied regardless. Ignored when [elevation] is zero." />
-      <item value="Controller's length property (2) does not match the number of tabs (0) present in TabBar's tabs property" />
-      <item value="限制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="651" />
-        <entry key="ENGLISH" value="652" />
+        <entry key="CHINESE" value="677" />
+        <entry key="ENGLISH" value="678" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
