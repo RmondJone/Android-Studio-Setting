@@ -13,7 +13,7 @@
     <mask>*.java</mask>
     <mask>*.json</mask>
     <mask>*.kt</mask>
-    <mask>*.dart</mask>
     <mask>*.gradle</mask>
+    <mask>*.dart</mask>
   </component>
 </application>
