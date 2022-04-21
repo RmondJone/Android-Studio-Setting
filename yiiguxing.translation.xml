@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="480" />
+    <option name="newTranslationDialogWidth" value="478" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="监听" />
+      <item value="Listenter" />
+      <item value="Listent" />
       <item value="last block incomplete in decryption" />
       <item value=": Uncaught exception in binary message listener" />
       <item value="lint Vital Release" />
@@ -51,14 +54,11 @@
       <item value="Reference to a drawable to use as selection indicator for tabs. If this attribute is not specified, indicator defaults to a line along the bottom of the tab." />
       <item value="Ripple color for the tabs. This may be a color state list, if the desired ripple color should be stateful" />
       <item value="Whether the selection indicator width should fill the full width of the tab item, or if it should be fitted to the content of the tab text label. If no text label is present, it will be set to the width of the icon or to a minimum width of 24dp" />
-      <item value="Binary XML file line 8: Error inflating class com.google.android.material.tabs.TabLayout" />
-      <item value="失效" />
-      <item value="满赠" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="702" />
+        <entry key="ENGLISH" value="703" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
