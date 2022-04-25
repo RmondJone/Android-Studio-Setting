@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="476" />
+    <option name="newTranslationDialogWidth" value="474" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="浮层" />
       <item value="Duplicate class com.ta.utdid2.a.a.a found in modules jetified-alicloud-android-utdid-2.5.1-proguard (com.aliyun.ams:alicloud-android-utdid:2.5.1-proguard) and jetified-utdid-1.5.2.3 (com.umeng.umsdk:utdid:1.5.2.3)" />
       <item value="Duplicate class com.xiaomi.mipush.sdk.MiPushClient5 found in modules jetified-mi_push-3.8.9 (com.ncarzone.android:mi_push:3.8.9) and jetified-xiaomi-push-4.9.1 (com.umeng.umsdk:xiaomi-push:4.9.1)" />
       <item value="位" />
@@ -53,12 +54,11 @@
       <item value="确认 " />
       <item value="确认" />
       <item value="确认选中" />
-      <item value="结算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="714" />
+        <entry key="ENGLISH" value="715" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
