@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="472" />
+    <option name="newTranslationDialogWidth" value="468" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="属性" />
       <item value="多选" />
       <item value="双选" />
       <item value="Duplicate class com.ta.utdid2.a.a.a found in modules jetified-alicloud-android-utdid-2.5.1-proguard (com.aliyun.ams:alicloud-android-utdid:2.5.1-proguard) and jetified-utdid-1.5.2.3 (com.umeng.umsdk:utdid:1.5.2.3)" />
@@ -53,12 +54,11 @@
       <item value="Unexpected character (at character 2)" />
       <item value="确认选择" />
       <item value="确认 " />
-      <item value="确认" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="726" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="CHINESE" value="735" />
+        <entry key="ENGLISH" value="736" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
