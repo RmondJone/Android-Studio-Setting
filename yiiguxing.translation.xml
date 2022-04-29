@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="If the widget has no child, no `height`, no `width`, no [constraints], and no [alignment], but the parent provides bounded constraints, then [Container] expands to fit the constraints provided by the parent." />
       <item value="RenderBox was not laid out: RenderPhysicalShapee0188 relayoutBoundary=up2" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="多选" />
@@ -53,12 +54,11 @@
       <item value="Will resize the image in memory to have a certain height using [ResizeImage]" />
       <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
       <item value="Boolean that controls whether a view can take focus while in touch mode. If this is true for a view, that view can gain focus when clicked on, and can keep focus if another view is clicked on that doesn't have this attribute set to true" />
-      <item value="Unexpected character (at character 2)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="744" />
-        <entry key="ENGLISH" value="745" />
+        <entry key="CHINESE" value="745" />
+        <entry key="ENGLISH" value="746" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650764772993" />
+    <option name="lastTrimTime" value="1651217008110" />
   </component>
 </application>
