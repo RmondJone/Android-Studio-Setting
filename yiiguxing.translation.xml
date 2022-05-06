@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="462" />
+    <option name="newTranslationDialogWidth" value="458" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="多" />
       <item value="时效" />
+      <item value="失效" />
       <item value="默认" />
       <item value="The [BuildOwner] for this context. The [BuildOwner] is in charge of managing the rendering pipeline for this context." />
       <item value="If the widget has no child, no `height`, no `width`, no [constraints], and no [alignment], but the parent provides bounded constraints, then [Container] expands to fit the constraints provided by the parent." />
@@ -52,13 +54,11 @@
       <item value="Creates a widget that displays an [LottieComposition] obtained from a [Uint8List]." />
       <item value="No MediaQuery widget ancestor found." />
       <item value="Unresolved reference: maxOrNull" />
-      <item value="defined in root package" />
-      <item value="Target the interpolation quality for image scaling. If not given a value, defaults to FilterQuality.low." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="757" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="771" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
