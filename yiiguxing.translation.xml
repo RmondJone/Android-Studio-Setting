@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="466" />
+    <option name="newTranslationDialogWidth" value="464" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="默认" />
       <item value="The [BuildOwner] for this context. The [BuildOwner] is in charge of managing the rendering pipeline for this context." />
       <item value="If the widget has no child, no `height`, no `width`, no [constraints], and no [alignment], but the parent provides bounded constraints, then [Container] expands to fit the constraints provided by the parent." />
       <item value="RenderBox was not laid out: RenderPhysicalShapee0188 relayoutBoundary=up2" />
@@ -53,12 +54,11 @@
       <item value="defined in root package" />
       <item value="Target the interpolation quality for image scaling. If not given a value, defaults to FilterQuality.low." />
       <item value="Will resize the image in memory to have a certain height using [ResizeImage]" />
-      <item value="Controls whether a view can take focus. By default, this is &quot;auto&quot; which lets the framework determine whether a user can move focus to a view. By setting this attribute to true the view is allowed to take focus. By setting it to &quot;false&quot; the view will not take focus. This value does not impact the behavior of directly calling {@link android.view.ViewrequestFocus}, which will always request focus regardless of this view. It only impacts where focus navigation will try to move focus." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="750" />
+        <entry key="ENGLISH" value="751" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651217008110" />
+    <option name="lastTrimTime" value="1651802486290" />
   </component>
 </application>
