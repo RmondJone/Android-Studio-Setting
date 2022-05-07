@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="454" />
+    <option name="newTranslationDialogWidth" value="452" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="指示器" />
       <item value="省市区" />
       <item value="无效" />
       <item value="多" />
@@ -53,12 +54,11 @@
       <item value="Animating the indicator's fade-out after not arming." />
       <item value="Animating the indicator's fade-out after refreshing." />
       <item value="drag, Pointer is down. armed, Dragged far enough that an up event will run the onRefresh callback. snap, Animating to the indicator's final &quot;displacement&quot;. refresh, Running the refresh callback. done, Animating the indicator's fade-out after refreshing. canceled, Animating the indicator's fade-out after not arming. error, refresh failed" />
-      <item value="Creates a widget that displays an [LottieComposition] obtained from a [Uint8List]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="786" />
-        <entry key="ENGLISH" value="787" />
+        <entry key="CHINESE" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
