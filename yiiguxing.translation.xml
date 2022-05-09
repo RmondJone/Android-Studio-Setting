@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="448" />
+    <option name="newTranslationDialogWidth" value="446" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="切换地址" />
       <item value="isEdit" />
       <item value="isEd" />
       <item value="isEW" />
@@ -53,12 +54,11 @@
       <item value="Failed to authorize your Git request: internal API unreachable" />
       <item value="[remote rejected] (pre-receive hook declined)" />
       <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
-      <item value="increase this project's minSdk version to at least 22" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="801" />
-        <entry key="ENGLISH" value="801" />
+        <entry key="CHINESE" value="807" />
+        <entry key="ENGLISH" value="807" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
