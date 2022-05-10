@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="446" />
+    <option name="newTranslationDialogWidth" value="444" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="缺货提醒" />
+      <item value="缺货" />
+      <item value="缺货 " />
       <item value="切换地址" />
       <item value="isEdit" />
       <item value="isEd" />
@@ -51,14 +54,11 @@
       <item value="过期 " />
       <item value="咨询" />
       <item value="z" />
-      <item value="Failed to authorize your Git request: internal API unreachable" />
-      <item value="[remote rejected] (pre-receive hook declined)" />
-      <item value="You need to use a Theme.AppCompat theme (or descendant) with this activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="807" />
-        <entry key="ENGLISH" value="807" />
+        <entry key="CHINESE" value="812" />
+        <entry key="ENGLISH" value="812" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
