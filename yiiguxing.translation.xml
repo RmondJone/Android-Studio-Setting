@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="438" />
+    <option name="newTranslationDialogWidth" value="436" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="榜单" />
       <item value="时效" />
       <item value="刷新" />
       <item value="收货" />
@@ -53,12 +54,11 @@
       <item value="type 'Null' is not a subtype of type 'Expression' of 'v'" />
       <item value="Parameter is invalid!" />
       <item value="过期标记" />
-      <item value="过期 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="846" />
+        <entry key="CHINESE" value="862" />
+        <entry key="ENGLISH" value="862" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651802486290" />
+    <option name="lastTrimTime" value="1652684998319" />
   </component>
 </application>
