@@ -1,6 +1,6 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogWidth" value="434" />
     <option name="newTranslationDialogX" value="10194" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="862" />
-        <entry key="ENGLISH" value="862" />
+        <entry key="CHINESE" value="872" />
+        <entry key="ENGLISH" value="872" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
