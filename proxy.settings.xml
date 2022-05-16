@@ -5,7 +5,6 @@
     <option name="PROXY_PORT" value="7890" />
     <option name="KEEP_PROXY_PASSWORD" value="true" />
     <option name="PROXY_EXCEPTIONS" value="*.carzone365.com,*.carzone360.com,*.aliyun.com,*.huawei.com" />
-    <option name="USE_PAC_URL" value="true" />
     <option name="PAC_URL" value="http://127.0.0.1:8090/proxy.pac" />
   </component>
 </application>
