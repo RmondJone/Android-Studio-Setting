@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="432" />
-    <option name="newTranslationDialogX" value="10301" />
-    <option name="newTranslationDialogY" value="316" />
+    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogX" value="4622" />
+    <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="限购" />
       <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
       <item value="遮罩" />
       <item value="榜单" />
@@ -53,12 +54,11 @@
       <item value="RENDER MODE ADJUST RESOLUTION" />
       <item value="模块" />
       <item value="占位" />
-      <item value="type 'Null' is not a subtype of type 'Expression' of 'v'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="884" />
-        <entry key="ENGLISH" value="885" />
+        <entry key="CHINESE" value="890" />
+        <entry key="ENGLISH" value="891" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
