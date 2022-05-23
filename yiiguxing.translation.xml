@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="10301" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
       <item value="遮罩" />
       <item value="榜单" />
       <item value="时效" />
@@ -53,12 +54,11 @@
       <item value="模块" />
       <item value="占位" />
       <item value="type 'Null' is not a subtype of type 'Expression' of 'v'" />
-      <item value="Parameter is invalid!" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="884" />
-        <entry key="ENGLISH" value="884" />
+        <entry key="ENGLISH" value="885" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652684998319" />
+    <option name="lastTrimTime" value="1653277921141" />
   </component>
 </application>
