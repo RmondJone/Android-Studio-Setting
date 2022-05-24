@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="If you do NOT see the Flutter application running, it might have crashed. The device logs (e.g. from adb or XCode) might have more details." />
+      <item value="Still attempting to connect to the VM Service" />
+      <item value="Connecting to the VM Service is taking longer than expected" />
       <item value="限购" />
       <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
       <item value="遮罩" />
@@ -51,14 +54,11 @@
       <item value="筛选" />
       <item value="概要" />
       <item value="IS HIGH CONCURRENCY" />
-      <item value="RENDER MODE ADJUST RESOLUTION" />
-      <item value="模块" />
-      <item value="占位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="890" />
-        <entry key="ENGLISH" value="891" />
+        <entry key="CHINESE" value="892" />
+        <entry key="ENGLISH" value="893" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
