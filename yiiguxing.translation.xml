@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogWidth" value="430" />
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="差价" />
       <item value="允许" />
       <item value="上次值" />
       <item value="If true, and [bottomNavigationBar] or [persistentFooterButtons] is specified, then the [body] extends to the bottom of the Scaffold, instead of only extending to the top of the [bottomNavigationBar] or the [persistentFooterButtons]. If true, a [MediaQuery] widget whose bottom padding matches the height of the [bottomNavigationBar] will be added above the scaffold's [body]. This property is often useful when the [bottomNavigationBar] has a non-rectangular shape, like [CircularNotchedRectangle], which adds a [FloatingActionButton] sized notch to the top edge of the bar. In this case specifying `extendBody: true` ensures that scaffold's body will be visible through the bottom navigation bar's notch. See also: [extendBodyBehindAppBar], which extends the height of the body to the top of the scaffold." />
@@ -53,12 +54,11 @@
       <item value="last block incomplete in decryption" />
       <item value=": Uncaught exception in binary message listener" />
       <item value="lint Vital Release" />
-      <item value="&lt;!-- Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity. --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="907" />
-        <entry key="ENGLISH" value="908" />
+        <entry key="CHINESE" value="910" />
+        <entry key="ENGLISH" value="911" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
