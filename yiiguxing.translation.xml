@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="428" />
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="允许" />
       <item value="上次值" />
       <item value="If true, and [bottomNavigationBar] or [persistentFooterButtons] is specified, then the [body] extends to the bottom of the Scaffold, instead of only extending to the top of the [bottomNavigationBar] or the [persistentFooterButtons]. If true, a [MediaQuery] widget whose bottom padding matches the height of the [bottomNavigationBar] will be added above the scaffold's [body]. This property is often useful when the [bottomNavigationBar] has a non-rectangular shape, like [CircularNotchedRectangle], which adds a [FloatingActionButton] sized notch to the top edge of the bar. In this case specifying `extendBody: true` ensures that scaffold's body will be visible through the bottom navigation bar's notch. See also: [extendBodyBehindAppBar], which extends the height of the body to the top of the scaffold." />
       <item value="If true, and an [appBar] is specified, then the height of the [body] is extended to include the height of the app bar and the top of the body is aligned with the top of the app bar. This is useful if the app bar's [AppBar.backgroundColor] is not completely opaque. This property is false by default. It must not be null. See also: [extendBody], which extends the height of the body to the bottom of the scaffold." />
@@ -53,12 +54,11 @@
       <item value=": Uncaught exception in binary message listener" />
       <item value="lint Vital Release" />
       <item value="&lt;!-- Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity. --&gt;" />
-      <item value="Sets whether or not this view should account for system screen decorations such as the status bar and inset its content; that is, controlling whether the default implementation of {@link fitSystemWindows(Rect)} will be executed. See that method for more details. &lt;p&gt;Note that if you are providing your own implementation of {@link fitSystemWindows(Rect)}, then there is no need to set this flag to true -- your implementation will be overriding the default implementation that checks this flag. @param fitSystemWindows If true, then the default implementation of {@link fitSystemWindows(Rect)} will be executed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="903" />
-        <entry key="ENGLISH" value="904" />
+        <entry key="CHINESE" value="907" />
+        <entry key="ENGLISH" value="908" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
