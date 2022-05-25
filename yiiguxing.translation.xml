@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Params" />
+      <item value="Parma" />
       <item value="差价" />
       <item value="允许" />
       <item value="上次值" />
@@ -52,13 +54,11 @@
       <item value="Listenter" />
       <item value="Listent" />
       <item value="last block incomplete in decryption" />
-      <item value=": Uncaught exception in binary message listener" />
-      <item value="lint Vital Release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="910" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="912" />
+        <entry key="ENGLISH" value="913" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
