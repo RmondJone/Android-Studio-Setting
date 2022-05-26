@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="时效" />
       <item value="Params" />
       <item value="Parma" />
       <item value="差价" />
@@ -21,7 +22,6 @@
       <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
       <item value="遮罩" />
       <item value="榜单" />
-      <item value="时效" />
       <item value="刷新" />
       <item value="收货" />
       <item value="缺货提醒" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="912" />
-        <entry key="ENGLISH" value="913" />
+        <entry key="CHINESE" value="918" />
+        <entry key="ENGLISH" value="919" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
