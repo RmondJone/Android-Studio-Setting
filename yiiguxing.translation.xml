@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="ELEMENT TYPE" />
       <item value="时效" />
       <item value="Params" />
       <item value="Parma" />
@@ -53,7 +54,6 @@
       <item value="监听" />
       <item value="Listenter" />
       <item value="Listent" />
-      <item value="last block incomplete in decryption" />
     </histories>
     <option name="languageScores">
       <map>
