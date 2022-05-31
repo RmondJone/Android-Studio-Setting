@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="not find pkg use as proc name" />
       <item value="Permission Denial: broadcasting Intent { act=com.xiaomi.push.service_started flg=0x10 } from com.miui.voiceassist (pid=20633, uid=10096) requires com.xiaomi.permission.SEND_PUSH due to receiver com.miui.micloudsync.push.PushServiceStartedReceiver" />
       <item value="ELEMENT TYPE" />
       <item value="时效" />
@@ -53,12 +54,11 @@
       <item value="Duplicate class com.xiaomi.mipush.sdk.MiPushClient5 found in modules jetified-mi_push-3.8.9 (com.ncarzone.android:mi_push:3.8.9) and jetified-xiaomi-push-4.9.1 (com.umeng.umsdk:xiaomi-push:4.9.1)" />
       <item value="位" />
       <item value="监听" />
-      <item value="Listenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="918" />
-        <entry key="ENGLISH" value="919" />
+        <entry key="CHINESE" value="919" />
+        <entry key="ENGLISH" value="920" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653277921141" />
+    <option name="lastTrimTime" value="1653978631021" />
   </component>
 </application>
