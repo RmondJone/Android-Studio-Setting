@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="Immersive Status Bar" />
       <item value="not find pkg use as proc name" />
       <item value="Permission Denial: broadcasting Intent { act=com.xiaomi.push.service_started flg=0x10 } from com.miui.voiceassist (pid=20633, uid=10096) requires com.xiaomi.permission.SEND_PUSH due to receiver com.miui.micloudsync.push.PushServiceStartedReceiver" />
@@ -53,12 +54,11 @@
       <item value="双选" />
       <item value="Duplicate class com.ta.utdid2.a.a.a found in modules jetified-alicloud-android-utdid-2.5.1-proguard (com.aliyun.ams:alicloud-android-utdid:2.5.1-proguard) and jetified-utdid-1.5.2.3 (com.umeng.umsdk:utdid:1.5.2.3)" />
       <item value="Duplicate class com.xiaomi.mipush.sdk.MiPushClient5 found in modules jetified-mi_push-3.8.9 (com.ncarzone.android:mi_push:3.8.9) and jetified-xiaomi-push-4.9.1 (com.umeng.umsdk:xiaomi-push:4.9.1)" />
-      <item value="位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="920" />
-        <entry key="ENGLISH" value="921" />
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="922" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
