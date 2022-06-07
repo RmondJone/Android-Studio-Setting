@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="430" />
+    <option name="newTranslationDialogWidth" value="428" />
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="Rounding mode where the rounding operations throws an ArithmeticException for the case that rounding is necessary, i.e. for the case that the value cannot be represented exactly." />
+      <item value="2" />
+      <item value="2位" />
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="Immersive Status Bar" />
       <item value="not find pkg use as proc name" />
@@ -51,14 +54,11 @@
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="多选" />
       <item value="属性" />
-      <item value="双选" />
-      <item value="Duplicate class com.ta.utdid2.a.a.a found in modules jetified-alicloud-android-utdid-2.5.1-proguard (com.aliyun.ams:alicloud-android-utdid:2.5.1-proguard) and jetified-utdid-1.5.2.3 (com.umeng.umsdk:utdid:1.5.2.3)" />
-      <item value="Duplicate class com.xiaomi.mipush.sdk.MiPushClient5 found in modules jetified-mi_push-3.8.9 (com.ncarzone.android:mi_push:3.8.9) and jetified-xiaomi-push-4.9.1 (com.umeng.umsdk:xiaomi-push:4.9.1)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="921" />
-        <entry key="ENGLISH" value="922" />
+        <entry key="CHINESE" value="923" />
+        <entry key="ENGLISH" value="924" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653978631021" />
+    <option name="lastTrimTime" value="1654594461315" />
   </component>
 </application>
