@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogWidth" value="426" />
     <option name="newTranslationDialogX" value="4622" />
     <option name="newTranslationDialogY" value="449" />
     <histories>
+      <item value="A future that completes when this page is popped." />
       <item value="Rounding mode where the rounding operations throws an ArithmeticException for the case that rounding is necessary, i.e. for the case that the value cannot be represented exactly." />
       <item value="2" />
       <item value="2位" />
@@ -53,12 +54,11 @@
       <item value="RenderBox was not laid out: RenderPhysicalShapee0188 relayoutBoundary=up2" />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="多选" />
-      <item value="属性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="923" />
-        <entry key="ENGLISH" value="924" />
+        <entry key="CHINESE" value="924" />
+        <entry key="ENGLISH" value="925" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
