@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10415" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="DENIED" />
+      <item value="GRANTED" />
       <item value="has Always Denied Permission" />
       <item value="charm" />
       <item value="房间封面" />
@@ -53,13 +55,11 @@
       <item value="is" />
       <item value="s=" />
       <item value="si" />
-      <item value="指示器" />
-      <item value="省市区" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="955" />
-        <entry key="ENGLISH" value="956" />
+        <entry key="CHINESE" value="957" />
+        <entry key="ENGLISH" value="958" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
