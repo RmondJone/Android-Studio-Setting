@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10415" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
+      <item value="secondmove" />
       <item value="DENIED" />
       <item value="GRANTED" />
       <item value="has Always Denied Permission" />
@@ -53,14 +55,13 @@
       <item value="isEd" />
       <item value="isEW" />
       <item value="is" />
-      <item value="s=" />
-      <item value="si" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="957" />
-        <entry key="ENGLISH" value="958" />
+        <entry key="CHINESE" value="959" />
+        <entry key="ENGLISH" value="960" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="HMONG" value="1" />
