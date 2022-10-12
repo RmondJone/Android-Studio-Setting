@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="490" />
+    <option name="newTranslationDialogWidth" value="488" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="暂停" />
       <item value="主播" />
       <item value="推荐" />
       <item value="随便看看" />
@@ -54,12 +55,11 @@
       <item value="Still attempting to connect to the VM Service" />
       <item value="Connecting to the VM Service is taking longer than expected" />
       <item value="限购" />
-      <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="999" />
-        <entry key="ENGLISH" value="1000" />
+        <entry key="CHINESE" value="1028" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
