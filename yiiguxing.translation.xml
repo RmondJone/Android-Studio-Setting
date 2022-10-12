@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10415" />
     <option name="newTranslationDialogY" value="452" />
     <histories>
+      <item value="Unresolved reference: router" />
       <item value="generate Scale" />
       <item value="Unable to determine application id" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
@@ -54,12 +55,11 @@
       <item value="缺货 " />
       <item value="切换地址" />
       <item value="isEdit" />
-      <item value="isEd" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="961" />
-        <entry key="ENGLISH" value="962" />
+        <entry key="CHINESE" value="962" />
+        <entry key="ENGLISH" value="963" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
