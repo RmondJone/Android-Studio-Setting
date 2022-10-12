@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="498" />
+    <option name="newTranslationDialogWidth" value="494" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="随便看看" />
+      <item value="热门" />
+      <item value="热门直播" />
       <item value="沉浸式" />
       <item value="优化" />
       <item value="直播优化3.0" />
@@ -52,14 +55,11 @@
       <item value="retrofit2.adapter.rxjava2.HttpException: HTTP 403 Forbidden" />
       <item value="遮罩" />
       <item value="榜单" />
-      <item value="刷新" />
-      <item value="收货" />
-      <item value="缺货提醒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="983" />
-        <entry key="ENGLISH" value="984" />
+        <entry key="CHINESE" value="991" />
+        <entry key="ENGLISH" value="992" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
