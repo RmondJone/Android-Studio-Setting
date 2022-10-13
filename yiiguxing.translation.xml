@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="482" />
+    <option name="newTranslationDialogWidth" value="480" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="旋律" />
       <item value="推荐语音" />
       <item value="推荐" />
       <item value="主播" />
@@ -54,12 +55,11 @@
       <item value="subtract" />
       <item value="If you do NOT see the Flutter application running, it might have crashed. The device logs (e.g. from adb or XCode) might have more details." />
       <item value="Still attempting to connect to the VM Service" />
-      <item value="Connecting to the VM Service is taking longer than expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1045" />
-        <entry key="ENGLISH" value="1046" />
+        <entry key="CHINESE" value="1050" />
+        <entry key="ENGLISH" value="1051" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
