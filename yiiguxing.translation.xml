@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="470" />
+    <option name="newTranslationDialogWidth" value="466" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="金刚" />
+      <item value="金刚区" />
       <item value="监听" />
       <item value="遮罩" />
       <item value="java.lang.Illegal State Exception" />
@@ -53,13 +55,11 @@
       <item value="Parma" />
       <item value="差价" />
       <item value="允许" />
-      <item value="上次值" />
-      <item value="If true, and [bottomNavigationBar] or [persistentFooterButtons] is specified, then the [body] extends to the bottom of the Scaffold, instead of only extending to the top of the [bottomNavigationBar] or the [persistentFooterButtons]. If true, a [MediaQuery] widget whose bottom padding matches the height of the [bottomNavigationBar] will be added above the scaffold's [body]. This property is often useful when the [bottomNavigationBar] has a non-rectangular shape, like [CircularNotchedRectangle], which adds a [FloatingActionButton] sized notch to the top edge of the bar. In this case specifying `extendBody: true` ensures that scaffold's body will be visible through the bottom navigation bar's notch. See also: [extendBodyBehindAppBar], which extends the height of the body to the top of the scaffold." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1087" />
-        <entry key="ENGLISH" value="1088" />
+        <entry key="CHINESE" value="1119" />
+        <entry key="ENGLISH" value="1120" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
