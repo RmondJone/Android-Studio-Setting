@@ -1,13 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="466" />
+    <option name="newTranslationDialogWidth" value="462" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Listener" />
+      <item value="listent" />
+      <item value="listente" />
+      <item value="listenter" />
+      <item value="listen" />
+      <item value="监听" />
+      <item value="完成" />
       <item value="金刚" />
       <item value="金刚区" />
-      <item value="监听" />
       <item value="遮罩" />
       <item value="java.lang.Illegal State Exception" />
       <item value="继续" />
@@ -49,17 +55,11 @@
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="Immersive Status Bar" />
       <item value="not find pkg use as proc name" />
-      <item value="Permission Denial: broadcasting Intent { act=com.xiaomi.push.service_started flg=0x10 } from com.miui.voiceassist (pid=20633, uid=10096) requires com.xiaomi.permission.SEND_PUSH due to receiver com.miui.micloudsync.push.PushServiceStartedReceiver" />
-      <item value="ELEMENT TYPE" />
-      <item value="Params" />
-      <item value="Parma" />
-      <item value="差价" />
-      <item value="允许" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1119" />
-        <entry key="ENGLISH" value="1120" />
+        <entry key="CHINESE" value="1133" />
+        <entry key="ENGLISH" value="1134" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
