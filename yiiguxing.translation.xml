@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="No such property: articles for class: groovy.json.JsonDelegate" />
       <item value="盲盒" />
       <item value="include Edge" />
       <item value="音波" />
@@ -54,12 +55,11 @@
       <item value="A future that completes when this page is popped." />
       <item value="Rounding mode where the rounding operations throws an ArithmeticException for the case that rounding is necessary, i.e. for the case that the value cannot be represented exactly." />
       <item value="2" />
-      <item value="2位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1154" />
-        <entry key="ENGLISH" value="1155" />
+        <entry key="CHINESE" value="1156" />
+        <entry key="ENGLISH" value="1157" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
