@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="460" />
+    <option name="newTranslationDialogWidth" value="458" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="盲盒" />
       <item value="include Edge" />
       <item value="音波" />
       <item value="Listener" />
@@ -54,12 +55,11 @@
       <item value="Rounding mode where the rounding operations throws an ArithmeticException for the case that rounding is necessary, i.e. for the case that the value cannot be represented exactly." />
       <item value="2" />
       <item value="2位" />
-      <item value="Channel is unrecoverably broken and will be disposed!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1150" />
-        <entry key="ENGLISH" value="1151" />
+        <entry key="CHINESE" value="1154" />
+        <entry key="ENGLISH" value="1155" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
