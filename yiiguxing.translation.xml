@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="454" />
+    <option name="newTranslationDialogWidth" value="452" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="记录" />
       <item value="背包" />
       <item value="礼物" />
       <item value="MALFORMED" />
@@ -54,12 +55,11 @@
       <item value="操作" />
       <item value="时效" />
       <item value="Unterminated string (at character 62)" />
-      <item value="maybe Pop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1170" />
-        <entry key="ENGLISH" value="1171" />
+        <entry key="CHINESE" value="1173" />
+        <entry key="ENGLISH" value="1174" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
