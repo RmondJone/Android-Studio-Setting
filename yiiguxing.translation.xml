@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="448" />
+    <option name="newTranslationDialogWidth" value="446" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="充值" />
       <item value="筛选条件" />
       <item value="背包记录" />
       <item value="背包" />
@@ -54,12 +55,11 @@
       <item value="charm" />
       <item value="房间封面" />
       <item value="gifteffects" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1186" />
-        <entry key="ENGLISH" value="1187" />
+        <entry key="CHINESE" value="1193" />
+        <entry key="ENGLISH" value="1194" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
