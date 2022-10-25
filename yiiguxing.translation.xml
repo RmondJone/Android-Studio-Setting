@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="446" />
+    <option name="newTranslationDialogWidth" value="442" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="盲盒抽奖" />
+      <item value="盲盒" />
       <item value="充值" />
       <item value="筛选条件" />
       <item value="背包记录" />
@@ -15,7 +17,6 @@
       <item value="java.lang.IllegalStateException: Unable to parse composition" />
       <item value="You must set an images folder before loading an image. Set it with LottieCompositionsetImagesFolder or LottieDrawablesetImagesFolder" />
       <item value="No such property: articles for class: groovy.json.JsonDelegate" />
-      <item value="盲盒" />
       <item value="include Edge" />
       <item value="音波" />
       <item value="Listener" />
@@ -54,12 +55,11 @@
       <item value="has Always Denied Permission" />
       <item value="charm" />
       <item value="房间封面" />
-      <item value="gifteffects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1193" />
-        <entry key="ENGLISH" value="1194" />
+        <entry key="CHINESE" value="1202" />
+        <entry key="ENGLISH" value="1203" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
