@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="436" />
+    <option name="newTranslationDialogWidth" value="434" />
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="特效" />
       <item value="Remote host terminated the handshake" />
       <item value="耳窝" />
       <item value="抽奖" />
@@ -54,12 +55,11 @@
       <item value="Unable to determine application id" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
       <item value="secondmove" />
-      <item value="DENIED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1219" />
-        <entry key="ENGLISH" value="1220" />
+        <entry key="CHINESE" value="1221" />
+        <entry key="ENGLISH" value="1222" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
