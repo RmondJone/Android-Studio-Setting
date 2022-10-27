@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10398" />
     <option name="newTranslationDialogY" value="241" />
     <histories>
+      <item value="Connection was reset" />
       <item value="特效" />
       <item value="Remote host terminated the handshake" />
       <item value="耳窝" />
@@ -54,7 +55,6 @@
       <item value="generate Scale" />
       <item value="Unable to determine application id" />
       <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
-      <item value="secondmove" />
     </histories>
     <option name="languageScores">
       <map>
