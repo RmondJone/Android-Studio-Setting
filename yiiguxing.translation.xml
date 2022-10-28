@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="434" />
-    <option name="newTranslationDialogX" value="10398" />
-    <option name="newTranslationDialogY" value="241" />
+    <option name="newTranslationDialogWidth" value="428" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="344" />
     <histories>
+      <item value="稀有" />
+      <item value="史诗" />
+      <item value="传说" />
       <item value="Connection was reset" />
       <item value="特效" />
       <item value="Remote host terminated the handshake" />
@@ -52,14 +55,11 @@
       <item value="直播优化3.0" />
       <item value="直播优化" />
       <item value="Unresolved reference: router" />
-      <item value="generate Scale" />
-      <item value="Unable to determine application id" />
-      <item value="Module was compiled with an incompatible version of Kotlin. The binary version of its metadata is 1.6.0, expected version is 1.4.2." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1221" />
-        <entry key="ENGLISH" value="1222" />
+        <entry key="CHINESE" value="1237" />
+        <entry key="ENGLISH" value="1238" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
