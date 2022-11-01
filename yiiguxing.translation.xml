@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="426" />
+    <option name="newTranslationDialogWidth" value="424" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="动态" />
       <item value=" A dependency may only have one source" />
       <item value="稀有" />
       <item value="史诗" />
@@ -54,12 +55,11 @@
       <item value="沉浸式" />
       <item value="优化" />
       <item value="直播优化3.0" />
-      <item value="直播优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1238" />
-        <entry key="ENGLISH" value="1238" />
+        <entry key="CHINESE" value="1252" />
+        <entry key="ENGLISH" value="1252" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
