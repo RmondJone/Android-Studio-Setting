@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="424" />
+    <option name="newTranslationDialogWidth" value="418" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="多啦A梦" />
+      <item value="多啦A " />
+      <item value="多啦A" />
+      <item value="多啦" />
       <item value="Suggestion: use a compatible library with a minSdk of at most 19, or increase this project's minSdk version to at least 21," />
       <item value="package_info_plus ^1.4.2 is required. So, because flutter_app_live depends on package_info_plus 1.0.5, version solving failed." />
       <item value="Because dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 depends on google_fonts ^1.1.1 which depends on http ^0.12.0+2, dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 requires http ^0.12.0+2. And because package_info_plus_web &gt;=1.0.0-nullsafety.0 depends on http ^0.13.0, dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 is incompatible with package_info_plus_web &gt;=1.0.0-nullsafety.0." />
@@ -51,15 +55,11 @@
       <item value="旋律" />
       <item value="推荐语音" />
       <item value="推荐" />
-      <item value="主播" />
-      <item value="暂停" />
-      <item value="随便看看" />
-      <item value="热门" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1255" />
-        <entry key="ENGLISH" value="1256" />
+        <entry key="CHINESE" value="1267" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
