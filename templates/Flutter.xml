@@ -46,4 +46,13 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="rootBloc" value="Scaffold(&#10;      appBar: AppBar(&#10;        title: const Text('$A$'),&#10;      ),&#10;      body: BlocBuilder&lt;$B$, $C$&gt;(&#10;        builder: (context, state) {&#10;          return Container();&#10;        },&#10;      ),&#10;    )" description="Bloc根视图" toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
 </templateSet>
