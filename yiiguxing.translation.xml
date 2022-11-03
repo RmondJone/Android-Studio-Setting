@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
       <item value="工会" />
       <item value="认证" />
       <item value="&#10;认证" />
@@ -54,12 +55,11 @@
       <item value="Listener" />
       <item value="listent" />
       <item value="listente" />
-      <item value="listenter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1325" />
-        <entry key="ENGLISH" value="1326" />
+        <entry key="CHINESE" value="1326" />
+        <entry key="ENGLISH" value="1327" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
