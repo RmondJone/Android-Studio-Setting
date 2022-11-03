@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="Viewports expand in the cross axis to fill their container and constrain their children to match their extent in the cross axis. In this case, a horizontal viewport was given an unlimited amount of vertical space in which to expand." />
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="开播" />
       <item value="主播" />
       <item value="招募须知" />
@@ -53,13 +55,11 @@
       <item value="背包" />
       <item value="记录" />
       <item value="礼物" />
-      <item value="MALFORMED" />
-      <item value="java.lang.IllegalStateException: Unable to parse composition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1359" />
-        <entry key="ENGLISH" value="1360" />
+        <entry key="CHINESE" value="1361" />
+        <entry key="ENGLISH" value="1362" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
