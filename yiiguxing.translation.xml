@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="392" />
+    <option name="newTranslationDialogWidth" value="388" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="闲聊" />
+      <item value="个人电台&#10;" />
+      <item value="个人电台" />
+      <item value="电台" />
       <item value="An InputDecorator, which is typically created by a TextField, cannot have an unbounded width. This happens when the parent widget does not provide a finite width constraint. For example, if the InputDecorator is contained by a Row, then its width must be constrained. An Expanded widget or a SizedBox can be used to constrain the width of the InputDecorator or the TextField that contains it." />
       <item value="self transparent" />
       <item value="透明" />
@@ -51,15 +55,11 @@
       <item value="特效" />
       <item value="Remote host terminated the handshake" />
       <item value="耳窝" />
-      <item value="抽奖" />
-      <item value="be" />
-      <item value="盲盒抽奖" />
-      <item value="盲盒" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1387" />
-        <entry key="ENGLISH" value="1388" />
+        <entry key="CHINESE" value="1407" />
+        <entry key="ENGLISH" value="1408" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
