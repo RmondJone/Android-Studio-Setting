@@ -55,7 +55,7 @@
       <option name="FLUTTER" value="true" />
     </context>
   </template>
-  <template name="blocof" value="BlocProvider.of&lt;$A$&gt;(context);" toReformat="false" toShortenFQNames="true">
+  <template name="blocof" value="BlocProvider.of&lt;$A$&gt;(context);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
