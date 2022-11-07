@@ -4,6 +4,10 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="provider" />
+          <option name="key" value="bloc" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
