@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderErrorBox." />
+      <item value="A ScrollPositionWithSingleContext was used after being disposed." />
+      <item value="Build scheduled during frame." />
+      <item value="While the widget tree was being built, laid out, and painted, a new frame was scheduled to rebuild the widget tree." />
       <item value="空" />
       <item value="type 'Response' is not a subtype of type 'LiveRoomDetailResponse'" />
       <item value="is not a subtype of type" />
@@ -51,15 +55,11 @@
       <item value="多啦A梦" />
       <item value="多啦A " />
       <item value="多啦A" />
-      <item value="多啦" />
-      <item value="Suggestion: use a compatible library with a minSdk of at most 19, or increase this project's minSdk version to at least 21," />
-      <item value="package_info_plus ^1.4.2 is required. So, because flutter_app_live depends on package_info_plus 1.0.5, version solving failed." />
-      <item value="Because dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 depends on google_fonts ^1.1.1 which depends on http ^0.12.0+2, dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 requires http ^0.12.0+2. And because package_info_plus_web &gt;=1.0.0-nullsafety.0 depends on http ^0.13.0, dokit &gt;=0.6.0 &lt;0.8.0-nullsafety.0 is incompatible with package_info_plus_web &gt;=1.0.0-nullsafety.0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1423" />
-        <entry key="ENGLISH" value="1423" />
+        <entry key="CHINESE" value="1426" />
+        <entry key="ENGLISH" value="1427" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
