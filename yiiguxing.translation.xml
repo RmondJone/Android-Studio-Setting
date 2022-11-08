@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="on Switch Room" />
+      <item value="on Dis Connect Other Room" />
+      <item value="on Connect Other Room" />
+      <item value="on Remote User Leave Room" />
+      <item value="on Remote User Enter Room" />
+      <item value="on Down Mic Click" />
+      <item value="on User Audio Available" />
       <item value="主播" />
       <item value="同意" />
       <item value="入住协议" />
@@ -48,18 +55,11 @@
       <item value="实名认证" />
       <item value="未知" />
       <item value="完成" />
-      <item value="未完成" />
-      <item value="资质验证" />
-      <item value="annotation or setting the language version to 2.12 or higher." />
-      <item value="This is the annotation that opts out this library from null safety features." />
-      <item value="flutter tc ui" />
-      <item value="don't support null safety" />
-      <item value="Error: Cannot run with sound null safety, because the following dependencies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1447" />
-        <entry key="ENGLISH" value="1448" />
+        <entry key="CHINESE" value="1455" />
+        <entry key="ENGLISH" value="1456" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
