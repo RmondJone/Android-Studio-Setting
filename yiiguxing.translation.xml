@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="378" />
+    <option name="newTranslationDialogWidth" value="376" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="主播" />
       <item value="同意" />
       <item value="入住协议" />
       <item value="压缩" />
@@ -36,7 +37,6 @@
       <item value="Viewports expand in the cross axis to fill their container and constrain their children to match their extent in the cross axis. In this case, a horizontal viewport was given an unlimited amount of vertical space in which to expand." />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="开播" />
-      <item value="主播" />
       <item value="招募须知" />
       <item value="简介" />
       <item value="minify Enabled" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1439" />
-        <entry key="ENGLISH" value="1440" />
+        <entry key="CHINESE" value="1443" />
+        <entry key="ENGLISH" value="1444" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
