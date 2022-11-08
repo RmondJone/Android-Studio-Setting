@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="{@template bloc_builder_build_when} An optional [buildWhen] can be implemented for more granular control over how often [BlocBuilder] rebuilds." />
+      <item value="[buildWhen] should only be used for performance optimizations as it provides no security about the state passed to the [builder] function." />
+      <item value="[buildWhen] will be invoked on each [bloc] `state` change." />
+      <item value="[buildWhen] takes the previous `state` and current `state` and must return a [bool] which determines whether or not the [builder] function will be invoked." />
+      <item value="[buildWhen] is optional and if omitted, it will default to `true`." />
+      <item value="perform a lookup using [BlocProvider] and the current `BuildContext`." />
+      <item value="Please refer to `BlocListener` if you want to &quot;do&quot; anything in response to `state` changes such as navigation, showing a dialog, etc... If the [bloc] parameter is omitted, [BlocBuilder] will automatically perform a lookup using [BlocProvider] and the current `BuildContext`." />
+      <item value="Only specify the [bloc] if you wish to provide a [bloc] that is otherwise not accessible via [BlocProvider] and the current `BuildContext`." />
+      <item value="The previous `state` will be initialized to the `state` of the [bloc] when the [BlocBuilder] is initialized." />
+      <item value="return truefalse to determine whether or not to rebuild the widget with state" />
       <item value="mute Remote Audio" />
       <item value="on Switch Room" />
       <item value="on Dis Connect Other Room" />
@@ -45,21 +55,11 @@
       <item value="Viewports expand in the cross axis to fill their container and constrain their children to match their extent in the cross axis. In this case, a horizontal viewport was given an unlimited amount of vertical space in which to expand." />
       <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause." />
       <item value="开播" />
-      <item value="招募须知" />
-      <item value="简介" />
-      <item value="minify Enabled" />
-      <item value="工会" />
-      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets. The offending Expanded is currently placed inside a Padding widget." />
-      <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
-      <item value="认证" />
-      <item value="&#10;认证" />
-      <item value="实名认证" />
-      <item value="未知" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1456" />
-        <entry key="ENGLISH" value="1457" />
+        <entry key="CHINESE" value="1466" />
+        <entry key="ENGLISH" value="1467" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
