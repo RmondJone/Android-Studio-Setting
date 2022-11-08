@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="384" />
+    <option name="newTranslationDialogWidth" value="380" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="入住协议" />
+      <item value="压缩" />
       <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderErrorBox." />
       <item value="A ScrollPositionWithSingleContext was used after being disposed." />
       <item value="Build scheduled during frame." />
@@ -53,13 +55,11 @@
       <item value="don't support null safety" />
       <item value="Error: Cannot run with sound null safety, because the following dependencies" />
       <item value="多啦A梦" />
-      <item value="多啦A " />
-      <item value="多啦A" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1426" />
-        <entry key="ENGLISH" value="1427" />
+        <entry key="CHINESE" value="1434" />
+        <entry key="ENGLISH" value="1435" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
