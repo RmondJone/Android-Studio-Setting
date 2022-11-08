@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="mute Remote Audio" />
       <item value="on Switch Room" />
       <item value="on Dis Connect Other Room" />
       <item value="on Connect Other Room" />
@@ -54,12 +55,11 @@
       <item value="&#10;认证" />
       <item value="实名认证" />
       <item value="未知" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1455" />
-        <entry key="ENGLISH" value="1456" />
+        <entry key="CHINESE" value="1456" />
+        <entry key="ENGLISH" value="1457" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
