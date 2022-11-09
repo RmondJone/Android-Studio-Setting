@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="491" />
+    <option name="newTranslationDialogWidth" value="489" />
     <option name="newTranslationDialogX" value="10402" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="主播" />
       <item value="禁止" />
       <item value="禁麦" />
       <item value="说话" />
@@ -41,7 +42,6 @@
       <item value="on Remote User Enter Room" />
       <item value="on Down Mic Click" />
       <item value="on User Audio Available" />
-      <item value="主播" />
       <item value="同意" />
       <item value="入住协议" />
       <item value="压缩" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1543" />
-        <entry key="ENGLISH" value="1543" />
+        <entry key="CHINESE" value="1546" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
