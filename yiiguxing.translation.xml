@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="368" />
+    <option name="newTranslationDialogWidth" value="366" />
     <option name="newTranslationDialogX" value="10533" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="半" />
+      <item value="self" />
+      <item value="Incorrect use of ParentDataWidget." />
+      <item value="A RenderFlex overflowed by 99231 pixels on the bottom." />
+      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
+      <item value="Horizontal viewport was given unbounded width." />
       <item value="观众" />
       <item value="入口" />
       <item value="Required named parameter 'roomId' must be provided." />
@@ -49,21 +55,16 @@
       <item value="RenderFlex children have non-zero flex but incoming width constraints are unbounded." />
       <item value="自由麦" />
       <item value="as called without a registered event handler." />
-      <item value="Horizontal viewport was given unbounded height." />
-      <item value="闲聊" />
-      <item value="个人电台&#10;" />
-      <item value="个人电台" />
-      <item value="电台" />
-      <item value="An InputDecorator, which is typically created by a TextField, cannot have an unbounded width. This happens when the parent widget does not provide a finite width constraint. For example, if the InputDecorator is contained by a Row, then its width must be constrained. An Expanded widget or a SizedBox can be used to constrain the width of the InputDecorator or the TextField that contains it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1489" />
-        <entry key="ENGLISH" value="1490" />
+        <entry key="CHINESE" value="1501" />
+        <entry key="ENGLISH" value="1501" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="3" />
