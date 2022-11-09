@@ -1,0 +1,9 @@
+<templateSet group="provider">
+  <template name="blocbuilder" value="return BlocBuilder&lt;$Subject$Bloc, $Subject$State&gt;(&#10;  builder: (context, state) {&#10;    return $Container$;&#10;  },&#10;);" description="BlocBuilder widget" toReformat="false" toShortenFQNames="true">
+    <variable name="Subject" expression="" defaultValue="&quot;Subject&quot;" alwaysStopAt="true" />
+    <variable name="Container" expression="" defaultValue="&quot;Container()&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
