@@ -4,6 +4,8 @@
     <variable name="a" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="b" expression="time()" defaultValue="" alwaysStopAt="true" />
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
       <option name="OTHER" value="true" />
     </context>
   </template>
