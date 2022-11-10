@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="477" />
-    <option name="newTranslationDialogX" value="10378" />
-    <option name="newTranslationDialogY" value="288" />
+    <option name="newTranslationDialogWidth" value="475" />
+    <option name="newTranslationDialogX" value="10601" />
+    <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="金色" />
       <item value="attribute android:allowBackup, but no new value specified" />
       <item value="but no new value specified" />
       <item value="Bad state: Future already completed" />
@@ -54,12 +55,11 @@
       <item value="on Dis Connect Other Room" />
       <item value="on Connect Other Room" />
       <item value="on Remote User Leave Room" />
-      <item value="on Remote User Enter Room" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1577" />
-        <entry key="ENGLISH" value="1578" />
+        <entry key="CHINESE" value="1581" />
+        <entry key="ENGLISH" value="1582" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
