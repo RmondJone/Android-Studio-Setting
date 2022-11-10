@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="10378" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="'size.is Finite" />
+      <item value="is Non Negative" />
+      <item value="margin.is Non Negative" />
+      <item value="A RenderFlex overflowed by 199643 pixels on the bottom." />
       <item value="songli" />
       <item value="飘屏" />
       <item value="属性" />
@@ -51,15 +55,11 @@
       <item value="on User Audio Available" />
       <item value="同意" />
       <item value="入住协议" />
-      <item value="压缩" />
-      <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderErrorBox." />
-      <item value="A ScrollPositionWithSingleContext was used after being disposed." />
-      <item value="Build scheduled during frame." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1564" />
-        <entry key="ENGLISH" value="1564" />
+        <entry key="CHINESE" value="1567" />
+        <entry key="ENGLISH" value="1568" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
