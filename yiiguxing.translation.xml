@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="10402" />
     <option name="newTranslationDialogY" value="273" />
     <histories>
+      <item value="is Gifs Send" />
+      <item value="is Close" />
+      <item value="is Mute" />
       <item value="主播" />
       <item value="禁止" />
       <item value="禁麦" />
@@ -52,14 +55,11 @@
       <item value="空" />
       <item value="type 'Response' is not a subtype of type 'LiveRoomDetailResponse'" />
       <item value="is not a subtype of type" />
-      <item value="was called without a registered event handler." />
-      <item value="A dependency may only have one source." />
-      <item value="BoxConstraints forces an infinite width." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1546" />
-        <entry key="ENGLISH" value="1546" />
+        <entry key="CHINESE" value="1548" />
+        <entry key="ENGLISH" value="1549" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
