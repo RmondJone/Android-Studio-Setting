@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="481" />
+    <option name="newTranslationDialogWidth" value="479" />
     <option name="newTranslationDialogX" value="10378" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="songli" />
       <item value="飘屏" />
       <item value="属性" />
       <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
@@ -54,11 +55,10 @@
       <item value="A RenderViewport expected a child of type RenderSliver but received a child of type RenderErrorBox." />
       <item value="A ScrollPositionWithSingleContext was used after being disposed." />
       <item value="Build scheduled during frame." />
-      <item value="While the widget tree was being built, laid out, and painted, a new frame was scheduled to rebuild the widget tree." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1563" />
+        <entry key="CHINESE" value="1564" />
         <entry key="ENGLISH" value="1564" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
