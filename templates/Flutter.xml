@@ -3,7 +3,7 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="initfulpage" value="import 'package:flutter/material.dart';&#10;&#10;class $pageName$ extends StatefulWidget {&#10;  const $pageName$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  State&lt;StatefulWidget&gt; createState() {&#10;    // TODO: implement createState&#10;    return $pageName$State();&#10;  }&#10;}&#10;&#10;class $pageName$State extends State&lt;$pageName$&gt; {&#10;  @override&#10;  void initState() {&#10;    // TODO: implement initState&#10;    super.initState();&#10;  }&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Scaffold(&#10;      appBar: AppBar(&#10;        title: const Text(&quot;&quot;),&#10;      ),&#10;      body: Container(),&#10;    );&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="initfulpage" value="import 'package:flutter/material.dart';&#10;&#10;class $pageName$ extends StatefulWidget {&#10;  const $pageName$({Key? key}) : super(key: key);&#10;&#10;  @override&#10;  State&lt;StatefulWidget&gt; createState() {&#10;    // TODO: implement createState&#10;    return $pageName$State();&#10;  }&#10;}&#10;&#10;class $pageName$State extends State&lt;$pageName$&gt; {&#10;  @override&#10;  void initState() {&#10;    // TODO: implement initState&#10;    super.initState();&#10;  }&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container();&#10;  }&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="pageName" expression="dartClassName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
