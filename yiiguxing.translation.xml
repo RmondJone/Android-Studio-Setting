@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="479" />
+    <option name="newTranslationDialogWidth" value="477" />
     <option name="newTranslationDialogX" value="10378" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="角标" />
       <item value="'size.is Finite" />
       <item value="is Non Negative" />
       <item value="margin.is Non Negative" />
@@ -54,12 +55,11 @@
       <item value="on Down Mic Click" />
       <item value="on User Audio Available" />
       <item value="同意" />
-      <item value="入住协议" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1567" />
-        <entry key="ENGLISH" value="1568" />
+        <entry key="CHINESE" value="1574" />
+        <entry key="ENGLISH" value="1575" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
