@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10378" />
     <option name="newTranslationDialogY" value="288" />
     <histories>
+      <item value="attribute android:allowBackup, but no new value specified" />
+      <item value="but no new value specified" />
       <item value="Bad state: Future already completed" />
       <item value="角标" />
       <item value="'size.is Finite" />
@@ -53,13 +55,11 @@
       <item value="on Connect Other Room" />
       <item value="on Remote User Leave Room" />
       <item value="on Remote User Enter Room" />
-      <item value="on Down Mic Click" />
-      <item value="on User Audio Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1575" />
-        <entry key="ENGLISH" value="1576" />
+        <entry key="CHINESE" value="1577" />
+        <entry key="ENGLISH" value="1578" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
