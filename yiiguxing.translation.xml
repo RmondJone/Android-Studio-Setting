@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="475" />
+    <option name="newTranslationDialogWidth" value="473" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="half" />
+      <item value="半透明" />
       <item value="金色" />
       <item value="attribute android:allowBackup, but no new value specified" />
       <item value="but no new value specified" />
@@ -53,13 +55,11 @@
       <item value="mute Remote Audio" />
       <item value="on Switch Room" />
       <item value="on Dis Connect Other Room" />
-      <item value="on Connect Other Room" />
-      <item value="on Remote User Leave Room" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1581" />
-        <entry key="ENGLISH" value="1582" />
+        <entry key="CHINESE" value="1588" />
+        <entry key="ENGLISH" value="1588" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
