@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="on Speed Test" />
+      <item value="on Connection Lost" />
+      <item value="on Statistics" />
+      <item value="on Network Quality" />
+      <item value="on Send First Local Video Frame" />
+      <item value="on First Video Frame" />
       <item value="管理员" />
       <item value="房主" />
       <item value="half" />
@@ -49,17 +55,11 @@
       <item value="[buildWhen] will be invoked on each [bloc] `state` change." />
       <item value="[buildWhen] takes the previous `state` and current `state` and must return a [bool] which determines whether or not the [builder] function will be invoked." />
       <item value="[buildWhen] is optional and if omitted, it will default to `true`." />
-      <item value="perform a lookup using [BlocProvider] and the current `BuildContext`." />
-      <item value="Please refer to `BlocListener` if you want to &quot;do&quot; anything in response to `state` changes such as navigation, showing a dialog, etc... If the [bloc] parameter is omitted, [BlocBuilder] will automatically perform a lookup using [BlocProvider] and the current `BuildContext`." />
-      <item value="Only specify the [bloc] if you wish to provide a [bloc] that is otherwise not accessible via [BlocProvider] and the current `BuildContext`." />
-      <item value="The previous `state` will be initialized to the `state` of the [bloc] when the [BlocBuilder] is initialized." />
-      <item value="return truefalse to determine whether or not to rebuild the widget with state" />
-      <item value="mute Remote Audio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1600" />
-        <entry key="ENGLISH" value="1600" />
+        <entry key="CHINESE" value="1605" />
+        <entry key="ENGLISH" value="1606" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
