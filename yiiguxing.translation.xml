@@ -5,9 +5,10 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="on Statistics" />
+      <item value="Enter the same room" />
       <item value="on Speed Test" />
       <item value="on Connection Lost" />
-      <item value="on Statistics" />
       <item value="on Network Quality" />
       <item value="on Send First Local Video Frame" />
       <item value="on First Video Frame" />
@@ -54,12 +55,11 @@
       <item value="[buildWhen] should only be used for performance optimizations as it provides no security about the state passed to the [builder] function." />
       <item value="[buildWhen] will be invoked on each [bloc] `state` change." />
       <item value="[buildWhen] takes the previous `state` and current `state` and must return a [bool] which determines whether or not the [builder] function will be invoked." />
-      <item value="[buildWhen] is optional and if omitted, it will default to `true`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1605" />
-        <entry key="ENGLISH" value="1606" />
+        <entry key="CHINESE" value="1607" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
