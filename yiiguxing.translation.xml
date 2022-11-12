@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Handle enter room, user list empty" />
       <item value="on User Audio Available" />
       <item value="on Statistics" />
       <item value="Enter the same room" />
@@ -54,12 +55,11 @@
       <item value="Column's children must not contain any null values, but a null value was found at index 2" />
       <item value="{@template bloc_builder_build_when} An optional [buildWhen] can be implemented for more granular control over how often [BlocBuilder] rebuilds." />
       <item value="[buildWhen] should only be used for performance optimizations as it provides no security about the state passed to the [builder] function." />
-      <item value="[buildWhen] will be invoked on each [bloc] `state` change." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1609" />
-        <entry key="ENGLISH" value="1610" />
+        <entry key="CHINESE" value="1610" />
+        <entry key="ENGLISH" value="1611" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
