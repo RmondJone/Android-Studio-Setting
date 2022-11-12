@@ -6,4 +6,11 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="buildWhen" value="buildWhen: (last, now) {&#10;    return $A$;&#10;}," toReformat="false" toShortenFQNames="true">
+    <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+      <option name="FLUTTER" value="true" />
+    </context>
+  </template>
 </templateSet>
