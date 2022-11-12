@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="469" />
+    <option name="newTranslationDialogWidth" value="467" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="create" />
+      <item value="创建" />
       <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the" />
       <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the AnimationController itself. Otherwise, the ticker will leak." />
       <item value="on User Sub Stream Available" />
@@ -53,13 +55,11 @@
       <item value="入口" />
       <item value="Required named parameter 'roomId' must be provided." />
       <item value="dispose() implementations must always call their superclass dispose() method," />
-      <item value="to ensure that all the resources used by the widget are fully released." />
-      <item value="麦位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1616" />
-        <entry key="ENGLISH" value="1617" />
+        <entry key="CHINESE" value="1622" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
