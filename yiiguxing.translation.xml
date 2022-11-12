@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="'double' is not a subtype of type 'int?'" />
       <item value="房主" />
       <item value="房主信息" />
       <item value="create" />
@@ -54,12 +55,11 @@
       <item value="Horizontal viewport was given unbounded width." />
       <item value="观众" />
       <item value="入口" />
-      <item value="Required named parameter 'roomId' must be provided." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1634" />
-        <entry key="ENGLISH" value="1634" />
+        <entry key="ENGLISH" value="1635" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
