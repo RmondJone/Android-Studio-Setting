@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="461" />
+    <option name="newTranslationDialogWidth" value="457" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="上" />
+      <item value="麦位" />
+      <item value="上麦" />
       <item value="之前" />
       <item value="'double' is not a subtype of type 'int?'" />
       <item value="房主" />
@@ -52,14 +55,11 @@
       <item value="self" />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="A RenderFlex overflowed by 99231 pixels on the bottom." />
-      <item value="Either the assertion indicates an error in the framework itself, or we should provide substantially more information in this error message to help you determine and fix the underlying cause. In either case, please report this assertion by filing a bug on GitHub:" />
-      <item value="Horizontal viewport was given unbounded width." />
-      <item value="观众" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1637" />
-        <entry key="ENGLISH" value="1638" />
+        <entry key="CHINESE" value="1669" />
+        <entry key="ENGLISH" value="1670" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
