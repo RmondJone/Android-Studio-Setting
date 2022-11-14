@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="on User Audio Available" />
       <item value="完成" />
       <item value="属性" />
       <item value="上" />
@@ -21,7 +22,6 @@
       <item value="on User Sub Stream Available" />
       <item value="on User Video Available" />
       <item value="on Mic Did Ready" />
-      <item value="on User Audio Available" />
       <item value="Handle enter room, user list empty" />
       <item value="on Statistics" />
       <item value="Enter the same room" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1676" />
-        <entry key="ENGLISH" value="1677" />
+        <entry key="CHINESE" value="1677" />
+        <entry key="ENGLISH" value="1678" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
