@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="437" />
+    <option name="newTranslationDialogWidth" value="433" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="通知" />
+      <item value="同意" />
       <item value="拉黑" />
       <item value="prohibit Voice" />
       <item value="存在" />
@@ -53,13 +55,11 @@
       <item value="songli" />
       <item value="飘屏" />
       <item value="If this widget is always nested in a scrollable widget there is no need to use a viewport because there will always be enough vertical space for the children. In this case, consider using a Column instead. Otherwise, consider using the &quot;shrinkWrap&quot; property (or a ShrinkWrappingViewport) to size the height of the viewport to the sum of the heights of its children." />
-      <item value="is Gifs Send" />
-      <item value="is Close" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1723" />
-        <entry key="ENGLISH" value="1724" />
+        <entry key="CHINESE" value="1741" />
+        <entry key="ENGLISH" value="1742" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
