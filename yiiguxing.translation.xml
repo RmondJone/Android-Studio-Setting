@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="429" />
+    <option name="newTranslationDialogWidth" value="427" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="拉黑" />
       <item value="_warp Underway Count" />
       <item value="Vertical viewport was given unbounded height." />
       <item value="Manage" />
@@ -14,7 +15,6 @@
       <item value="BoxConstraints has a negative minimum width." />
       <item value="通知" />
       <item value="同意" />
-      <item value="拉黑" />
       <item value="prohibit Voice" />
       <item value="存在" />
       <item value="need Read Receipt" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1753" />
-        <entry key="ENGLISH" value="1754" />
+        <entry key="CHINESE" value="1758" />
+        <entry key="ENGLISH" value="1759" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
