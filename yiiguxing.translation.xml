@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="_warp Underway Count" />
       <item value="Vertical viewport was given unbounded height." />
       <item value="Manage" />
       <item value="manager&#10;" />
@@ -54,12 +55,11 @@
       <item value="but no new value specified" />
       <item value="Bad state: Future already completed" />
       <item value="角标" />
-      <item value="'size.is Finite" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1753" />
-        <entry key="ENGLISH" value="1753" />
+        <entry key="ENGLISH" value="1754" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
