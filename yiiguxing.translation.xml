@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Manage" />
       <item value="manager&#10;" />
       <item value="管理&#10;" />
       <item value="管理" />
@@ -54,11 +55,10 @@
       <item value="角标" />
       <item value="'size.is Finite" />
       <item value="is Non Negative" />
-      <item value="margin.is Non Negative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1752" />
+        <entry key="CHINESE" value="1753" />
         <entry key="ENGLISH" value="1752" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
