@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets. The offending Expanded is currently placed inside a RepaintBoundary widget." />
+      <item value="Incorrect use of ParentDataWidget." />
       <item value="拉黑" />
       <item value="_warp Underway Count" />
       <item value="Vertical viewport was given unbounded height." />
@@ -53,18 +55,16 @@
       <item value="金色" />
       <item value="attribute android:allowBackup, but no new value specified" />
       <item value="but no new value specified" />
-      <item value="Bad state: Future already completed" />
-      <item value="角标" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1758" />
-        <entry key="ENGLISH" value="1759" />
+        <entry key="CHINESE" value="1759" />
+        <entry key="ENGLISH" value="1760" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="1" />
-        <entry key="GALICIAN" value="1" />
+        <entry key="GALICIAN" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="HMONG" value="1" />
         <entry key="NORWEGIAN" value="3" />
