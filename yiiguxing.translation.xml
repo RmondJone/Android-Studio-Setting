@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="423" />
+    <option name="newTranslationDialogWidth" value="421" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="同意" />
       <item value="setState() or markNeedsBuild() called during build." />
       <item value="notify" />
       <item value="展示" />
@@ -19,7 +20,6 @@
       <item value="管理" />
       <item value="BoxConstraints has a negative minimum width." />
       <item value="通知" />
-      <item value="同意" />
       <item value="prohibit Voice" />
       <item value="存在" />
       <item value="need Read Receipt" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1766" />
-        <entry key="ENGLISH" value="1767" />
+        <entry key="CHINESE" value="1776" />
+        <entry key="ENGLISH" value="1777" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
