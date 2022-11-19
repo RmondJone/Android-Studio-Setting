@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="417" />
+    <option name="newTranslationDialogWidth" value="413" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="收礼&#10;" />
+      <item value="收礼" />
       <item value="钻石" />
       <item value="面板" />
       <item value="同意" />
@@ -53,13 +55,11 @@
       <item value="on Speed Test" />
       <item value="on Connection Lost" />
       <item value="on Network Quality" />
-      <item value="on Send First Local Video Frame" />
-      <item value="on First Video Frame" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1815" />
-        <entry key="ENGLISH" value="1816" />
+        <entry key="CHINESE" value="1825" />
+        <entry key="ENGLISH" value="1826" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
