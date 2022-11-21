@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="413" />
+    <option name="newTranslationDialogWidth" value="409" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="赠送" />
+      <item value="钻石余额" />
+      <item value="钻石 " />
       <item value="A build function returned null." />
       <item value="Horizontal viewport was given unbounded width." />
       <item value="Vertical viewport was given unbounded width." />
@@ -52,14 +55,11 @@
       <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the" />
       <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the AnimationController itself. Otherwise, the ticker will leak." />
       <item value="on User Sub Stream Available" />
-      <item value="on User Video Available" />
-      <item value="on Mic Did Ready" />
-      <item value="Handle enter room, user list empty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1830" />
-        <entry key="ENGLISH" value="1831" />
+        <entry key="CHINESE" value="1845" />
+        <entry key="ENGLISH" value="1846" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
