@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Failed assertion: boolean expression must not be null" />
+      <item value="RangeError (start): Invalid value: Not in inclusive range 0..15: -8" />
       <item value="赠送" />
       <item value="钻石余额" />
       <item value="钻石 " />
@@ -53,13 +55,11 @@
       <item value="create" />
       <item value="创建" />
       <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the" />
-      <item value="Tickers used by AnimationControllers should be disposed by calling dispose() on the AnimationController itself. Otherwise, the ticker will leak." />
-      <item value="on User Sub Stream Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1845" />
-        <entry key="ENGLISH" value="1846" />
+        <entry key="CHINESE" value="1847" />
+        <entry key="ENGLISH" value="1848" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
