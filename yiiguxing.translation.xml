@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="request" />
       <item value="Pagination cannot be empty!" />
       <item value="Failed assertion: boolean expression must not be null" />
       <item value="RangeError (start): Invalid value: Not in inclusive range 0..15: -8" />
@@ -54,12 +55,11 @@
       <item value="房主" />
       <item value="房主信息" />
       <item value="create" />
-      <item value="创建" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1848" />
-        <entry key="ENGLISH" value="1849" />
+        <entry key="CHINESE" value="1849" />
+        <entry key="ENGLISH" value="1850" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
