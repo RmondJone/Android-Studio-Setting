@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="401" />
+    <option name="newTranslationDialogWidth" value="399" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="完成" />
       <item value="quit looper failed." />
       <item value="will Push" />
       <item value="will Push Replacement" />
@@ -51,15 +52,14 @@
       <item value="禁用" />
       <item value="邀请" />
       <item value="on User Audio Available" />
-      <item value="完成" />
       <item value="属性" />
       <item value="上" />
       <item value="麦位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1870" />
-        <entry key="ENGLISH" value="1871" />
+        <entry key="CHINESE" value="1874" />
+        <entry key="ENGLISH" value="1875" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
