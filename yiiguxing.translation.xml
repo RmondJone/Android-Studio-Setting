@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="gifteffects" />
       <item value="完成" />
       <item value="quit looper failed." />
       <item value="will Push" />
@@ -54,11 +55,10 @@
       <item value="on User Audio Available" />
       <item value="属性" />
       <item value="上" />
-      <item value="麦位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1874" />
+        <entry key="CHINESE" value="1875" />
         <entry key="ENGLISH" value="1875" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
@@ -67,7 +67,7 @@
         <entry key="GALICIAN" value="2" />
         <entry key="CATALAN" value="1" />
         <entry key="HMONG" value="1" />
-        <entry key="NORWEGIAN" value="3" />
+        <entry key="NORWEGIAN" value="4" />
         <entry key="SPANISH" value="2" />
       </map>
     </option>
