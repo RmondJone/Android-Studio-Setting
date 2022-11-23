@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="407" />
+    <option name="newTranslationDialogWidth" value="403" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="拦截" />
       <item value="is Granted" />
       <item value="request" />
       <item value="Pagination cannot be empty!" />
@@ -54,12 +55,11 @@
       <item value="之前" />
       <item value="'double' is not a subtype of type 'int?'" />
       <item value="房主" />
-      <item value="房主信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1850" />
-        <entry key="ENGLISH" value="1851" />
+        <entry key="CHINESE" value="1860" />
+        <entry key="ENGLISH" value="1861" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
