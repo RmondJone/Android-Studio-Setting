@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Usually a [Text] widget, possibly wrapped in a [Semantics] widget." />
+      <item value="Must not be used in combination with [text" />
       <item value="压缩" />
       <item value="maintain State" />
       <item value="opaque" />
@@ -53,13 +55,11 @@
       <item value="BoxConstraints has a negative minimum width." />
       <item value="通知" />
       <item value="prohibit Voice" />
-      <item value="存在" />
-      <item value="need Read Receipt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1888" />
-        <entry key="ENGLISH" value="1889" />
+        <entry key="CHINESE" value="1890" />
+        <entry key="ENGLISH" value="1891" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
