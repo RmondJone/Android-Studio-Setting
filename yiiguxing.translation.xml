@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="399" />
+    <option name="newTranslationDialogWidth" value="397" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="压缩" />
       <item value="maintain State" />
       <item value="opaque" />
       <item value="barrier Dismissible" />
@@ -54,12 +55,11 @@
       <item value="prohibit Voice" />
       <item value="存在" />
       <item value="need Read Receipt" />
-      <item value="防抖" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1883" />
-        <entry key="ENGLISH" value="1884" />
+        <entry key="CHINESE" value="1888" />
+        <entry key="ENGLISH" value="1889" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
