@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="receiver and groupID cannot be empty at the same time" />
       <item value="Unsupported Media Type" />
       <item value="create State" />
       <item value="Usually a [Text] widget, possibly wrapped in a [Semantics] widget." />
@@ -54,12 +55,11 @@
       <item value="manager&#10;" />
       <item value="管理&#10;" />
       <item value="管理" />
-      <item value="BoxConstraints has a negative minimum width." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1892" />
-        <entry key="ENGLISH" value="1893" />
+        <entry key="CHINESE" value="1893" />
+        <entry key="ENGLISH" value="1894" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
