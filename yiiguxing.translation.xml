@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="395" />
+    <option name="newTranslationDialogWidth" value="393" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="余额" />
       <item value="充值" />
       <item value="receiver and groupID cannot be empty at the same time" />
       <item value="Unsupported Media Type" />
@@ -54,12 +55,11 @@
       <item value="Vertical viewport was given unbounded height." />
       <item value="Manage" />
       <item value="manager&#10;" />
-      <item value="管理&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1900" />
-        <entry key="ENGLISH" value="1901" />
+        <entry key="CHINESE" value="1902" />
+        <entry key="ENGLISH" value="1903" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
