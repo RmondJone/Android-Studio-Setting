@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Dart Unhandled Exception: Null check operator used on a null value, stack" />
       <item value="余额" />
       <item value="充值" />
       <item value="receiver and groupID cannot be empty at the same time" />
@@ -54,12 +55,11 @@
       <item value="_warp Underway Count" />
       <item value="Vertical viewport was given unbounded height." />
       <item value="Manage" />
-      <item value="manager&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1902" />
-        <entry key="ENGLISH" value="1903" />
+        <entry key="CHINESE" value="1903" />
+        <entry key="ENGLISH" value="1904" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
