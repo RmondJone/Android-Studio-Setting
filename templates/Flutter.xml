@@ -46,10 +46,8 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="rootBloc" value="Scaffold(&#10;      appBar: TCAppBar(&#10;        title: Text(&#10;          '$A$',&#10;          style: TextStyle(fontSize: 18.sp, fontWeight: FontWeight.bold),&#10;        ),&#10;        centerTitle: true,&#10;        backgroundColor: Colors.white,&#10;        elevation: 0,&#10;      ),&#10;      body: BlocBuilder&lt;$B$, $C$&gt;(&#10;        builder: (context, state) {&#10;          return Container();&#10;        },&#10;      ),&#10;    )" description="Bloc根视图" toReformat="false" toShortenFQNames="true">
+  <template name="rootBloc" value="Scaffold(&#10;      appBar: TCAppBar(&#10;        title: Text(&#10;          '$A$',&#10;          style: TextStyle(fontSize: 18.sp, fontWeight: FontWeight.bold),&#10;        ),&#10;        centerTitle: true,&#10;        backgroundColor: Colors.white,&#10;        elevation: 0,&#10;      ),&#10;      body: Container(),&#10;    );" description="Bloc根视图" toReformat="false" toShortenFQNames="true">
     <variable name="A" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="B" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="C" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="DART" value="true" />
       <option name="FLUTTER" value="true" />
