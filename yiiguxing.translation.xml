@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="checkArgs fail, invalid appId" />
       <item value="Dart Unhandled Exception: Null check operator used on a null value, stack" />
       <item value="余额" />
       <item value="充值" />
@@ -54,12 +55,11 @@
       <item value="拉黑" />
       <item value="_warp Underway Count" />
       <item value="Vertical viewport was given unbounded height." />
-      <item value="Manage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1903" />
-        <entry key="ENGLISH" value="1904" />
+        <entry key="CHINESE" value="1905" />
+        <entry key="ENGLISH" value="1906" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668994761952" />
+    <option name="lastTrimTime" value="1669434651869" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
