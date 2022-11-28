@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="max Scroll Extent" />
       <item value="飘屏" />
       <item value="checkArgs fail, invalid appId" />
       <item value="Dart Unhandled Exception: Null check operator used on a null value, stack" />
@@ -54,12 +55,11 @@
       <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets. The offending Expanded is currently placed inside a RepaintBoundary widget." />
       <item value="Incorrect use of ParentDataWidget." />
       <item value="拉黑" />
-      <item value="_warp Underway Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1914" />
-        <entry key="ENGLISH" value="1915" />
+        <entry key="CHINESE" value="1915" />
+        <entry key="ENGLISH" value="1916" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
