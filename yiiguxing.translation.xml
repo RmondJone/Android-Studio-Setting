@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="256" />
-    <option name="newTranslationDialogWidth" value="391" />
+    <option name="newTranslationDialogWidth" value="385" />
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="关注" />
+      <item value="私信" />
+      <item value="aite" />
+      <item value="@" />
       <item value="RenderFlex children have non-zero flex but incoming height constraints are unbounded." />
       <item value="Subscription" />
       <item value="max Scroll Extent" />
@@ -51,15 +55,11 @@
       <item value="钻石" />
       <item value="面板" />
       <item value="同意" />
-      <item value="setState() or markNeedsBuild() called during build." />
-      <item value="notify" />
-      <item value="展示" />
-      <item value="Usually, this means that the Expanded widget has the wrong ancestor RenderObjectWidget. Typically, Expanded widgets are placed directly inside Flex widgets. The offending Expanded is currently placed inside a RepaintBoundary widget." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1917" />
-        <entry key="ENGLISH" value="1918" />
+        <entry key="CHINESE" value="1929" />
+        <entry key="ENGLISH" value="1929" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
