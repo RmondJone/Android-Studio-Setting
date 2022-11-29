@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="Horizontal viewport was given unbounded height." />
       <item value="关注" />
       <item value="私信" />
       <item value="aite" />
@@ -54,12 +55,11 @@
       <item value="收礼" />
       <item value="钻石" />
       <item value="面板" />
-      <item value="同意" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1935" />
-        <entry key="ENGLISH" value="1935" />
+        <entry key="ENGLISH" value="1936" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
