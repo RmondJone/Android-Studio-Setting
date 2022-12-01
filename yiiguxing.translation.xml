@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="absorbing" />
       <item value="Multiple widgets used the same GlobalKey." />
       <item value="Consider canceling any active work during &quot;dispose&quot; or using the &quot;mounted&quot; getter to determine if the State is still activ" />
       <item value="his widget has been unmounted, so the State no longer has a context (" />
@@ -31,7 +32,6 @@
       <item value="maintain State" />
       <item value="opaque" />
       <item value="barrier Dismissible" />
-      <item value="absorbing" />
       <item value="transition Duration" />
       <item value="barrier Label" />
       <item value="barrier Color" />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1939" />
-        <entry key="ENGLISH" value="1940" />
+        <entry key="CHINESE" value="1940" />
+        <entry key="ENGLISH" value="1941" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
