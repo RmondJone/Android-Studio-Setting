@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="10601" />
     <option name="newTranslationDialogY" value="309" />
     <histories>
+      <item value="is Refresh Ext Data" />
       <item value="absorbing" />
       <item value="Multiple widgets used the same GlobalKey." />
       <item value="Consider canceling any active work during &quot;dispose&quot; or using the &quot;mounted&quot; getter to determine if the State is still activ" />
@@ -54,12 +55,11 @@
       <item value="Horizontal viewport was given unbounded width." />
       <item value="Vertical viewport was given unbounded width." />
       <item value="To return an empty space that causes the building widget to fill available room, return &quot;Container()&quot;. To return an empty space that takes as little room as possible, return &quot;Container(width: 0.0, height: 0.0)&quot;." />
-      <item value="Stack's children must not contain any null values, but a null value was found at index 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1940" />
-        <entry key="ENGLISH" value="1941" />
+        <entry key="CHINESE" value="1941" />
+        <entry key="ENGLISH" value="1942" />
         <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FILIPINO" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669434651869" />
+    <option name="lastTrimTime" value="1671688632927" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
